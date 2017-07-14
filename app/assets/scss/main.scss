@@ -1,0 +1,14 @@
+@import "../../vendor/scss/";
+@import "variables";
+
+header.bg-faded {
+  background-color: transparent;!important;
+}
+
+body > header > nav {
+  background-color: transparent;
+}
+
+nav {
+  background-color: transparent;
+}
