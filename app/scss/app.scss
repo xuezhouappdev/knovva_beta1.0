@@ -25,6 +25,7 @@ Nav Bar
 
     @media screen and(max-width: 576px) {
       margin-bottom: 64px;
+      background: white;
     }
   .container {
     .navbar-toggler .navbar-toggler-right {
@@ -141,6 +142,7 @@ Nav Bar
   left: 0;
   z-index: 1030;
    width: 100%;
+   text-align: center;
 }
 
 
