@@ -273,31 +273,96 @@ Homepage - features
             }
 
           .row {
+
                 img {
                   display:block;
-                  margin :0 auto;
+                  margin: 0 auto;
                 }
+                .firstcol {
 
-                h3 {
-                  margin-top:24px;
-                }
 
-                hr {
-                  height:3px;
-                  background:lightgray;
-                  opacity:0.5;
-                }
+                    img {
 
-                p {  font-size:0.85rem;
+                      -webkit-animation-name: fade;
+                      -webkit-animation-iteration-count: infinite;
+                      -webkit-animation-duration: 9s;
+                      -webkit-animation-timing-function:ease-in-out;
+                      display:block;
+                      margin: 0 auto;
+                    }
+
+
+
+
+
+                    #a {
+                      animation-delay:6s;
+                    }
+
+                    #b {
+                      animation-delay:3s;
+                    }
+
+                    #c {
+                      animation-delay:0s;
+                    }
+
+                  @-webkit-keyframes fade {
+                    0% {
+                      opacity:1;
+                    }
+                    22% {
+                      opacity:1;
+                    }
+                    33% {
+                      opacity:0;
+                    }
+                    89% {
+                      opacity:0;
+                    }
+                    100% {
+                      opacity:1;
+                    }
+
+                  }
+
+
+
+
+                  }
+
+
+                  .text {
+
+                    h3 {
+                      margin-top:24px;
+                    }
+
+                    hr {
+                      height:3px;
+                      background:lightgray;
+                      opacity:0.5;
+                    }
+
+                    p {  font-size:0.85rem;
                       @media screen and (max-width:576px) {
                         margin-bottom:64px;
                       }
+                    }
+
+                  }
+
+
                 }
-          }
 
 
-       }
-}
+          }//container
+
+
+
+
+}//features
+
 
 
 /* ==========================================================================

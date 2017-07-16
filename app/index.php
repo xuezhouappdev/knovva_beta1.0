@@ -10,7 +10,7 @@ include 'header.php';
             <div class="carousel-inner" role="listbox">
 
                 <!--First Slider -->
-                <div class="carousel-item active" style="background: rgb(52, 152, 219);
+                <div class="carousel-item active" style="background: url('img/blue.png') center center no-repeat;
                                                          background-size: cover; height:100vh";>
                     <div class="container">
 
@@ -39,7 +39,7 @@ include 'header.php';
                 </div>
 
                 <!--Third Slider -->
-                <div class="carousel-item" style="background: RGB(240, 128, 128);
+                <div class="carousel-item" style="background: url('img/pink.png') center center no-repeat;
                                                          background-size: cover; height:100vh";>
 
                 </div>
@@ -146,33 +146,54 @@ include 'header.php';
 
     <div class="container">
         <h4>our featurers</h4>
-        <div class="row justify-content-center">
+        <div class="row ">
+            <div class="col-sm-3 firstcol">
+
+<!--                <img class="img img-responsive" src="http://via.placeholder.com/220x235" >-->
+
+                    <img class="img img-responsive" id="a" src="img/step3-1.svg" >
+
+
+
+
+
+                <div class="text">
+                    <h3>1</h3>
+                    <hr/>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+                </div>
+            </div>
+
+
+
+
+
+
             <div class="col-sm-3">
-                <img class="img img-responsive" src="http://via.placeholder.com/200x200" >
-                <h3>1</h3>
-                <hr/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+                <img class="img img-responsive" src="img/step4-1.svg" >
+                <div class="text">
+                    <h3>2</h3>
+                    <hr/>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+                </div>
             </div>
 
             <div class="col-sm-3">
-                <img class="img img-responsive" src="http://via.placeholder.com/200x200" >
-                <h3>2</h3>
-                <hr/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <img class="img img-responsive animated bounceOut infinite " src="img/step3-2.svg" >
+                <div class="text">
+                    <h3>3</h3>
+                    <hr/>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+                </div>
             </div>
 
             <div class="col-sm-3">
-                <img class="img img-responsive" src="http://via.placeholder.com/200x200" >
-                <h3>3</h3>
-                <hr size="2"/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-            </div>
-
-            <div class="col-sm-3">
-                <img class="img img-responsive" src="http://via.placeholder.com/200x200" >
-                <h3>4</h3>
-                <hr/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                <img class="img img-responsive" src="img/step4-1.svg" >
+                <div class="text">
+                    <h3>4</h3>
+                    <hr/>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
+                </div>
             </div>
         </div>
     </div>
@@ -199,8 +220,7 @@ include 'header.php';
                                   <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                   <div class="text-wrapper">
-                                      <p>
-                                          “Snap Kitchen defies the misconception that healthy foods can’t also be delicious…There is never a bad choice to make and I love the variety and their adventurous, creative menu. My taste buds are never bored.”</p>
+                                      <p>“Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better.”<br/></p>
                                   </div>
 
                                   <div class="author-wrapper">
@@ -220,8 +240,7 @@ include 'header.php';
                                   <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                   <div class="text-wrapper">
-                                      <p>
-                                          “Snap Kitchen defies the misconception that healthy foods can’t also be delicious…There is never a bad choice to make and I love the variety and their adventurous, creative menu. My taste buds are never bored.”</p>
+                                      <p>"They made learning fun and exciting! Knovva Academy showed something different, a different style of discovering new concepts." </p>
                                   </div>
 
                                   <div class="author-wrapper">
@@ -241,8 +260,7 @@ include 'header.php';
                                   <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                   <div class="text-wrapper">
-                                      <p>
-                                          “Snap Kitchen defies the misconception that healthy foods can’t also be delicious…There is never a bad choice to make and I love the variety and their adventurous, creative menu. My taste buds are never bored.”</p>
+                                      <p>“ I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy. ”</p>
                                   </div>
 
                                   <div class="author-wrapper">
