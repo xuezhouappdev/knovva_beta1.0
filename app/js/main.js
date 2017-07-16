@@ -8,11 +8,10 @@
 
             var hash = this.hash;
             $('html, body').animate({
-                scrollTop: $(hash).offset().top
+                scrollTop: $(hash).offset().top - 40
             }, 1000, function(){
-
                 // Add hash (#) to URL when done scrolling (default click behavior)
-                window.location.hash = hash;
+                //window.location.hash = hash;
             });
         } //end if
     });
