@@ -17,6 +17,8 @@
     });
 
 
+
+
     //scroll to control the navigation
     $(window).scroll(function(){
         if($(document).scrollTop() > 20) {
