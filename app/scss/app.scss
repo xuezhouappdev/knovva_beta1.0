@@ -184,20 +184,30 @@ html, body {
     #carouselExampleControls {
       .text-wrapper {
         position: relative;
-        top:45vh;
+        top:40vh;
         color: white;
         animation-delay: 0.25s;
-        .btn-cta {
-          padding: 8px 16px;
-          color: black;
-          background: white;
-          display: inline-block;
-          margin-top: 12px;
-          font-size: 12px;
-          -webkit-box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
-          box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
 
+        [class*='col-sm'] {
+          @media screen and (max-width: 414px) {
+            margin-left: 10px;
+            text-align: center;
+            margin-right:10px
+
+          }
+          .btn-cta {
+            padding: 8px 16px;
+            color: black;
+            background: white;
+            display: inline-block;
+            margin-top: 12px;
+            font-size: 12px;
+            -webkit-box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
+            box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
+
+          }
         }
+
       }
     }
     .scrollformore {
@@ -533,6 +543,7 @@ html, body {
       font-weight: 200;
       line-height: 48px;
       color: white;
+      animation-duration: 2s;
 
       @media screen and(max-width:375px){
         line-height: 28px;

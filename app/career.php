@@ -9,7 +9,7 @@ include 'header.php';
 
     <div class="career-slogan ">
         <div class="container">
-            <h1>do your life’s best work here now.<br/>
+            <h1 class="animated fadeInDown">do your life’s best work here now.<br/>
                 with the whole world watching.</h1>
             <p>Want to search for a job now? <a>Get started > </a></p>
         </div>
