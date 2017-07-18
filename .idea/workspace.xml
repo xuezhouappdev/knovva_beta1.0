@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="upadated career page">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
@@ -43,8 +43,8 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="654" column="20" lean-forward="false" selection-start-line="654" selection-start-column="20" selection-end-line="654" selection-end-column="20" />
+            <state relative-caret-position="24">
+              <caret line="504" column="0" lean-forward="true" selection-start-line="504" selection-start-column="0" selection-end-line="504" selection-end-column="0" />
               <folding>
                 <element signature="e#504#2829#0" expanded="false" />
                 <element signature="e#2371#2792#0" expanded="false" />
@@ -54,14 +54,13 @@
                 <element signature="e#8626#10020#0" expanded="false" />
                 <element signature="e#8748#8984#0" expanded="false" />
                 <element signature="e#8997#9233#0" expanded="false" />
-                <element signature="e#10260#10874#0" expanded="false" />
-                <element signature="e#11062#12404#0" expanded="false" />
-                <element signature="e#11154#12186#0" expanded="false" />
-                <element signature="e#12684#12863#0" expanded="false" />
-                <element signature="e#13413#13810#0" expanded="false" />
-                <element signature="e#13987#14137#0" expanded="false" />
-                <marker date="1500353626000" expanded="false" signature="3277:4185" ph="{...}" />
-                <marker date="1500353626000" expanded="false" signature="5756:8134" ph="{...}" />
+                <element signature="e#11061#12403#0" expanded="false" />
+                <element signature="e#11153#12185#0" expanded="false" />
+                <element signature="e#12683#12862#0" expanded="false" />
+                <element signature="e#13412#13809#0" expanded="false" />
+                <element signature="e#13986#14136#0" expanded="false" />
+                <marker date="1500353751000" expanded="false" signature="3277:4185" ph="{...}" />
+                <marker date="1500353751000" expanded="false" signature="5756:8134" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,9 +71,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="873">
               <caret line="6009" column="32" lean-forward="false" selection-start-line="6009" selection-start-column="32" selection-end-line="6009" selection-end-column="32" />
-              <folding>
-                <marker date="1500353599000" expanded="true" signature="158794:158807" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -440,7 +437,7 @@
       <workItem from="1499961281974" duration="51187000" />
       <workItem from="1500086007974" duration="15171000" />
       <workItem from="1500222011506" duration="10173000" />
-      <workItem from="1500306951864" duration="11478000" />
+      <workItem from="1500306951864" duration="11615000" />
     </task>
     <task id="LOCAL-00001" summary="modified poscition sticky">
       <created>1500086893349</created>
@@ -491,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500353392011</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="upadated career page">
+      <created>1500353664696</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1500353664696</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91589000" />
+    <option name="totallyTimeSpent" value="91726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -850,16 +854,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="873">
           <caret line="6009" column="32" lean-forward="false" selection-start-line="6009" selection-start-column="32" selection-end-line="6009" selection-end-column="32" />
-          <folding>
-            <marker date="1500353599000" expanded="true" signature="158794:158807" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="654" column="20" lean-forward="false" selection-start-line="654" selection-start-column="20" selection-end-line="654" selection-end-column="20" />
+        <state relative-caret-position="24">
+          <caret line="504" column="0" lean-forward="true" selection-start-line="504" selection-start-column="0" selection-end-line="504" selection-end-column="0" />
           <folding>
             <element signature="e#504#2829#0" expanded="false" />
             <element signature="e#2371#2792#0" expanded="false" />
@@ -869,14 +871,13 @@
             <element signature="e#8626#10020#0" expanded="false" />
             <element signature="e#8748#8984#0" expanded="false" />
             <element signature="e#8997#9233#0" expanded="false" />
-            <element signature="e#10260#10874#0" expanded="false" />
-            <element signature="e#11062#12404#0" expanded="false" />
-            <element signature="e#11154#12186#0" expanded="false" />
-            <element signature="e#12684#12863#0" expanded="false" />
-            <element signature="e#13413#13810#0" expanded="false" />
-            <element signature="e#13987#14137#0" expanded="false" />
-            <marker date="1500353626000" expanded="false" signature="3277:4185" ph="{...}" />
-            <marker date="1500353626000" expanded="false" signature="5756:8134" ph="{...}" />
+            <element signature="e#11061#12403#0" expanded="false" />
+            <element signature="e#11153#12185#0" expanded="false" />
+            <element signature="e#12683#12862#0" expanded="false" />
+            <element signature="e#13412#13809#0" expanded="false" />
+            <element signature="e#13986#14136#0" expanded="false" />
+            <marker date="1500353751000" expanded="false" signature="3277:4185" ph="{...}" />
+            <marker date="1500353751000" expanded="false" signature="5756:8134" ph="{...}" />
           </folding>
         </state>
       </provider>
