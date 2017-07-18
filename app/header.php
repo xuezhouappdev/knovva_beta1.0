@@ -33,7 +33,7 @@
 <!-- Header -->
 <nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded" id="mynav">
     <div class="container">
-        <button class="navbar-toggler navbar-toggler-center" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="index.php">
@@ -48,7 +48,7 @@
                 <!--                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
                 <!--                        </li>-->
                 <li class="nav-item">
-                    <a class="nav-link" href="#">program</a>
+                    <a class="nav-link" href="#">programs</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">blog</a>
@@ -61,11 +61,13 @@
                     </a>
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">about</a>
-                        <a class="dropdown-item" href="#">career</a>
+<!--                        <a class="dropdown-item" href="index.php#whoweare">about</a>-->
+                        <a class="dropdown-item" href="career.php">career</a>
                         <a class="dropdown-item" href="#">contact</a>
                     </div>
                 </li>
+
+
             </ul>
         </div>
     </div>

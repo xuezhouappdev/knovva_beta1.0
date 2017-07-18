@@ -28,8 +28,14 @@ Nav Bar
       background: white;
     }
   .container {
-    .navbar-toggler .navbar-toggler-right {
 
+
+    button.navbar-toggler.navbar-toggler-left {
+
+      @media screen and(max-width: 576px) {
+        position: relative;
+        left: -30px;
+      }
     }
 
     .navbar-brand {
@@ -42,6 +48,8 @@ Nav Bar
       p {
         margin-top:0.5rem;
         margin-bottom:0.5rem;
+        letter-spacing: 4px;
+        font-weight: 300;
       }
 
     }
@@ -157,7 +165,7 @@ Homepage - Slider
     padding: 0;
     margin: 0;
     width: 100%;
-    height:100vh;
+    height:90vh;
 
     #carouselExampleControls {
       .text-wrapper {
@@ -283,9 +291,9 @@ Homepage - features
 
                     img {
 
-                      -webkit-animation-name: fade;
+                      -webkit-animation-name: indi-fade;
                       -webkit-animation-iteration-count: infinite;
-                      -webkit-animation-duration: 9s;
+                      -webkit-animation-duration: 4s;
                       -webkit-animation-timing-function:ease-in-out;
                       display:block;
                       margin: 0 auto;
@@ -322,6 +330,23 @@ Homepage - features
                     }
                     100% {
                       opacity:1;
+                    }
+
+                  }
+
+                  @-webkit-keyframes indi-fade {
+                    0% {
+                      opacity:1;
+                    }
+                    33% {
+                      opacity:1;
+                    }
+                    67% {
+                      opacity:1;
+                    }
+
+                    100% {
+                      opacity:0;
                     }
 
                   }
@@ -363,6 +388,23 @@ Homepage - features
 
 }//features
 
+
+
+/* ==========================================================================
+Homepage - feature programs
+========================================================================== */
+
+.feature-programs {
+  background:$lightgray;
+  .container {
+
+    .btn {
+       @include dark_btn;
+     }
+
+  }
+
+}
 
 
 /* ==========================================================================

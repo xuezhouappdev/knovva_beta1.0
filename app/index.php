@@ -6,23 +6,31 @@ include 'header.php';
 <section class="slider">
     <div class="container">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+
+            <!-- indicator -->
+            <ol class="carousel-indicators" style="z-index: 999">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+            </ol>
+
             <!--Slider -->
             <div class="carousel-inner" role="listbox">
 
                 <!--First Slider -->
                 <div class="carousel-item active" style="background: url('img/blue.png') center center no-repeat;
-                                                         background-size: cover; height:100vh";>
+                                                         background-size: cover; height:90vh";>
                     <div class="container">
 
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">
 
                                 <div class="col-sm-6 ">
-                                    <h5>new to our app</h5>
+                                    <h5>new to our program</h5>
                                     <h2 >
-                                        try a day of snap <br />based
-                                        on your lifestyle</h2>
-                                    <a class="btn btn-cta">i'm interested</a>
+                                        Social Innovation online course
+                                    </h2>
+<!--                                    <a class="btn btn-cta">i'm interested</a>-->
                                 </div>
                             </div>
                         </div>
@@ -34,35 +42,50 @@ include 'header.php';
 
                 <!--Second Slider -->
                 <div class="carousel-item" style="background: rgb(255, 195, 0);
-                                                         background-size: cover; height:100vh";>
+                                                         background-size: cover; height:90vh";>
+                    <div class="container">
+
+                        <div class="text-wrapper animated fadeInRight">
+                            <div class="row justify-content-end ">
+
+                                <div class="col-sm-6 ">
+                                    <h5>new to our program</h5>
+                                    <h2 >
+                                        Model G20 </h2>
+                                    <!--                                    <a class="btn btn-cta">i'm interested</a>-->
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
 
                 </div>
 
                 <!--Third Slider -->
                 <div class="carousel-item" style="background: url('img/pink.png') center center no-repeat;
-                                                         background-size: cover; height:100vh";>
+                                                         background-size: cover; height:90vh";>
 
                 </div>
             </div>
 
             <!--control-->
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+<!--            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">-->
+<!--                <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+<!--                <span class="sr-only">Previous</span>-->
+<!--            </a>-->
+<!--            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">-->
+<!--                <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+<!--                <span class="sr-only">Next</span>-->
+<!--            </a>-->
         </div>
 
 
         <!--scroll for more-->
-        <div class="scrollformore">
-            <p>scroll for more</p>
-            <a href="#whoweare" id="scroll-cta"><i class="fa fa-angle-down animated infinite fadeInUp" aria-hidden="true"></i></a>
-
-        </div>
+<!--        <div class="scrollformore">-->
+<!--            <p>scroll for more</p>-->
+<!--            <a href="#whoweare" id="scroll-cta"><i class="fa fa-angle-down animated infinite fadeInUp" aria-hidden="true"></i></a>-->
+<!---->
+<!--        </div>-->
     </div>
 </section>
 
@@ -145,7 +168,7 @@ include 'header.php';
 <section class="features">
 
     <div class="container">
-        <h4>our featurers</h4>
+        <h4>our benifits</h4>
         <div class="row ">
             <div class="col-sm-3 firstcol">
 
@@ -179,7 +202,7 @@ include 'header.php';
             </div>
 
             <div class="col-sm-3">
-                <img class="img img-responsive animated bounceOut infinite " src="img/step3-2.svg" >
+                <img class="img img-responsive bounceOut infinite " src="img/step3-2.svg" >
                 <div class="text">
                     <h3>3</h3>
                     <hr/>
@@ -200,6 +223,16 @@ include 'header.php';
 </section>
 
 
+<!--Feature programs-->
+<section class="feature-programs  jumbotron">
+    <div class="container">
+        <h4>feature programs</h4>
+
+       <div class="row">
+           <a class="btn">explore the programs</a>
+       </div>
+    </div>
+</section>
 
 <!-- testimonail -->
 <section class="testimonial">
