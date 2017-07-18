@@ -36,5 +36,5 @@
  */
 
    $('.department .container .row .col-md-4').click(function () {
-      window.location.href="/knovva_beta1.0/app/career.php#";
+      window.location.href="/app/career.php#";
    });
