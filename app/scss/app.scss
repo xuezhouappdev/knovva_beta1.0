@@ -517,7 +517,7 @@ html, body {
 =========================================================================== */
 .career-banner {
   height:80vh;
-  background: url('../img/career-placeholder.jpg') center center no-repeat;
+  background: url('../img/career-placeholder.png') center center no-repeat;
   background-size: cover;
   position: relative;
 
@@ -533,6 +533,11 @@ html, body {
       font-weight: 200;
       line-height: 48px;
       color: white;
+
+      @media screen and(max-width:375px){
+        line-height: 28px;
+        font-size: 22px;
+    }
 
     }
 
@@ -622,6 +627,10 @@ html, body {
       font-weight: 200;
       text-align: center;
       padding: 32px 0;
+
+      @media screen and (max-width: 375px){
+        font-size: 12px;
+      }
 
       a {
         text-decoration: underline;
