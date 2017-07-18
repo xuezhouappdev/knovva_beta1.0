@@ -11,14 +11,8 @@ include 'header.php';
         <div class="container">
             <h1 class="animated fadeInDown">do your life’s best work here now.<br/>
                 with the whole world watching.</h1>
-            <p>Want to search for a job now? <a id="test">Get started  </a></p>
+            <p>Want to search for a job now? <a >Get started  </a></p>
 
-            <script>
-                $('#test').click(function() {
-                    alert(1);
-                });
-
-            </script>
         </div>
     </div>
 </div>
@@ -33,7 +27,7 @@ include 'header.php';
         <div class="row">
 
 
-                <div class="col-md-4"  >
+                <div class="col-md-4" id="test" >
                     <div style="background: url('img/dpt-academic.jpg') no-repeat center center;background-size: cover">
                     </div>
                     <h4>Academic Operations</h4>
@@ -62,13 +56,10 @@ include 'header.php';
                     <h4>Product</h4>
                 </div>
 
-
-
                 <div class="col-md-4" >
                     <div style="background: url('img/dpt-technology.jpg') no-repeat center center;background-size:cover;" ></div>
                     <h4>Info Tech</h4>
                 </div>
-
 
 
                 <div class="col-md-4">
@@ -77,11 +68,9 @@ include 'header.php';
                 </div>
 
         </div>
-
         <p>at Knovva Academy, we believe .... <a href="#">Learn more</a></p>
     </div>
 </div>
-
 <hr>
 
 <!-- weloveour people -->
