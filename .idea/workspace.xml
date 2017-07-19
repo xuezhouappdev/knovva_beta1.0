@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TimelineLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TimelineMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TweenLite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/easing/EasePack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/jquery.gsap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/AttrPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/BezierPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/CSSPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/CSSRulePlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/ColorPropsPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/DirectionalRotationPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/EaselPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/EndArrayPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/ModifiersPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/PixiPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/RaphaelPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/RoundPropsPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/ScrollToPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/TextPlugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/utils/Draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TimelineLite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TimelineMax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TweenLite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TweenMax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/easing/EasePack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/jquery.gsap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/AttrPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/BezierPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/CSSPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/CSSRulePlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/ColorPropsPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/DirectionalRotationPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/EaselPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/EndArrayPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/ModifiersPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/PixiPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/RaphaelPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/RoundPropsPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/ScrollToPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/TEMPLATE_Plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/TextPlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/utils/Draggable.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="200" column="0" lean-forward="true" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+            <state relative-caret-position="271">
+              <caret line="214" column="110" lean-forward="false" selection-start-line="214" selection-start-column="110" selection-end-line="214" selection-end-column="110" />
               <folding>
                 <element signature="e#3699#7539#0#HTML" expanded="false" />
                 <element signature="e#7689#8354#0#HTML" expanded="false" />
@@ -72,9 +30,7 @@
                 <element signature="e#7930#7956#0#HTML" expanded="true" />
                 <element signature="e#8604#8630#0#HTML" expanded="true" />
                 <element signature="e#8726#8743#0#HTML" expanded="true" />
-                <element signature="e#8981#9685#0#HTML" expanded="false" />
                 <element signature="e#9226#9252#0#HTML" expanded="true" />
-                <element signature="e#9351#9368#0#HTML" expanded="true" />
                 <element signature="e#9699#10301#0#HTML" expanded="false" />
                 <element signature="e#9943#9969#0#HTML" expanded="true" />
                 <element signature="e#10061#10078#0#HTML" expanded="true" />
@@ -129,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="117" column="10" lean-forward="false" selection-start-line="117" selection-start-column="10" selection-end-line="117" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -211,8 +167,8 @@
         <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/svg/circle.svg" />
-        <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/index.php" />
       </list>
     </option>
   </component>
@@ -227,8 +183,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="26" />
+    <option name="x" value="-41" />
+    <option name="y" value="40" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -498,7 +454,7 @@
       <workItem from="1500086007974" duration="15171000" />
       <workItem from="1500222011506" duration="10173000" />
       <workItem from="1500306951864" duration="11615000" />
-      <workItem from="1500399331397" duration="17748000" />
+      <workItem from="1500399331397" duration="20138000" />
     </task>
     <task id="LOCAL-00001" summary="modified poscition sticky">
       <created>1500086893349</created>
@@ -598,11 +554,25 @@
       <option name="project" value="LOCAL" />
       <updated>1500434155798</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fixed career page: positions links">
+      <created>1500434400150</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1500434400150</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updated animation">
+      <created>1500441464490</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1500441464490</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109474000" />
+    <option name="totallyTimeSpent" value="111864000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -614,7 +584,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="26" width="1280" height="739" extended-state="0" />
+    <frame x="-41" y="40" width="1280" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28478965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -676,7 +646,8 @@
     <MESSAGE value="upadated career page" />
     <MESSAGE value="updated reposnsiveness" />
     <MESSAGE value="fixed career page: positions links" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed career page: positions links" />
+    <MESSAGE value="updated animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated animation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -826,6 +797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -972,10 +944,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="117" column="10" lean-forward="false" selection-start-line="117" selection-start-column="10" selection-end-line="117" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="200" column="0" lean-forward="true" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+        <state relative-caret-position="271">
+          <caret line="214" column="110" lean-forward="false" selection-start-line="214" selection-start-column="110" selection-end-line="214" selection-end-column="110" />
           <folding>
             <element signature="e#3699#7539#0#HTML" expanded="false" />
             <element signature="e#7689#8354#0#HTML" expanded="false" />
@@ -983,21 +963,11 @@
             <element signature="e#7930#7956#0#HTML" expanded="true" />
             <element signature="e#8604#8630#0#HTML" expanded="true" />
             <element signature="e#8726#8743#0#HTML" expanded="true" />
-            <element signature="e#8981#9685#0#HTML" expanded="false" />
             <element signature="e#9226#9252#0#HTML" expanded="true" />
-            <element signature="e#9351#9368#0#HTML" expanded="true" />
             <element signature="e#9699#10301#0#HTML" expanded="false" />
             <element signature="e#9943#9969#0#HTML" expanded="true" />
             <element signature="e#10061#10078#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>

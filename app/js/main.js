@@ -115,7 +115,7 @@ var moon = $("#4moon");
                 scale:1.2,
                 ease: Linear.easeNone
             }
-    },"-=2").to(bluecicle,3,{
+    },"-=4").to(bluecicle,3,{
         scale:2.2
     },"-=3").to(cycle,0.5, {
         opacity:0
