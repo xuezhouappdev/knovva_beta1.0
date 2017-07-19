@@ -40,9 +40,14 @@ html, body {
 
     button.navbar-toggler.navbar-toggler-left {
 
+
+        border-color: rgba(0, 0, 0, 0);
+
+
       @media screen and(max-width: 576px) {
         position: relative;
         left: -30px;
+
       }
     }
 
@@ -241,10 +246,11 @@ html, body {
 ========================================================================== */
  .about {
     margin-top:0;
-    padding-top:0;
+
     background: $brand-inverse;
-    height:350px;
+    padding-bottom: 32px;
     padding-top:18px;
+    min-width: inherit;
 
 
     @media screen and (max-width:576px) {
@@ -306,86 +312,86 @@ html, body {
 
           .row {
 
+              //.animation-item:nth-child(1) {
+              //  .animation-container {
+              //
+              //    .animation-inner-wrapper {
+              //      position: relative;
+              //
+              //      img {
+              //        display:block;
+              //        margin: 0 auto;
+              //
+              //        position: absolute;
+              //        max-width: 100%;
+              //        max-height: 100%;
+              //        left:0;
+              //        right:0;
+              //        top:0;
+              //        bottom: 0;
+              //
+              //        -webkit-animation-name: fade;
+              //        -webkit-animation-iteration-count: infinite;
+              //        -webkit-animation-duration: 9s;
+              //        -webkit-animation-timing-function:ease-in-out;
+              //
+              //
+              //        &:nth-child(1) {
+              //          animation-delay:6s;
+              //        }
+              //
+              //        &:nth-child(2) {
+              //          animation-delay:3s;
+              //        }
+              //
+              //        &:nth-child(3) {
+              //          animation-delay:0s;
+              //        }
+              //
+              //
+              //        @-webkit-keyframes fade {
+              //          0% {
+              //            opacity:1;
+              //          }
+              //          22% {
+              //            opacity:1;
+              //          }
+              //          33% {
+              //            opacity:0;
+              //          }
+              //          89% {
+              //            opacity:0;
+              //          }
+              //          100% {
+              //            opacity:1;
+              //          }
+              //
+              //        }
+              //
+              //      }
+              //    }
+              //
+              //  }
+              //
+              //  h3 {
+              //    margin-top:24px;
+              //  }
+              //
+              //  hr {
+              //    height:3px;
+              //    background:lightgray;
+              //    opacity:0.5;
+              //  }
+              //
+              //  p {  font-size:0.85rem;
+              //    @media screen and (max-width:576px) {
+              //      margin-bottom:64px;
+              //    }
+              //  }
+              //
+              //}
+
               .animation-item:nth-child(1) {
-                .animation-container {
-
-                  .animation-inner-wrapper {
-                    position: relative;
-
-                    img {
-                      display:block;
-                      margin: 0 auto;
-
-                      position: absolute;
-                      max-width: 100%;
-                      max-height: 100%;
-                      left:0;
-                      right:0;
-                      top:0;
-                      bottom: 0;
-
-                      -webkit-animation-name: fade;
-                      -webkit-animation-iteration-count: infinite;
-                      -webkit-animation-duration: 9s;
-                      -webkit-animation-timing-function:ease-in-out;
-
-
-                      &:nth-child(1) {
-                        animation-delay:6s;
-                      }
-
-                      &:nth-child(2) {
-                        animation-delay:3s;
-                      }
-
-                      &:nth-child(3) {
-                        animation-delay:0s;
-                      }
-
-
-                      @-webkit-keyframes fade {
-                        0% {
-                          opacity:1;
-                        }
-                        22% {
-                          opacity:1;
-                        }
-                        33% {
-                          opacity:0;
-                        }
-                        89% {
-                          opacity:0;
-                        }
-                        100% {
-                          opacity:1;
-                        }
-
-                      }
-
-                    }
-                  }
-
-                }
-
-                h3 {
-                  margin-top:24px;
-                }
-
-                hr {
-                  height:3px;
-                  background:lightgray;
-                  opacity:0.5;
-                }
-
-                p {  font-size:0.85rem;
-                  @media screen and (max-width:576px) {
-                    margin-bottom:64px;
-                  }
-                }
-
-              }
-
-              .animation-item:nth-child(2) {
               .animation-container {
 
                 .animation-inner-wrapper {
@@ -452,7 +458,9 @@ html, body {
 
             }
 
-              .animation-item:nth-child(3) {
+
+
+              .animation-item:nth-child(2) {
                   .animation-container {
 
                 .animation-inner-wrapper {
@@ -498,7 +506,7 @@ html, body {
 
             }
 
-              .animation-item:nth-child(4) {
+              .animation-item:nth-child(3) {
               .animation-container {
 
                 .animation-inner-wrapper {

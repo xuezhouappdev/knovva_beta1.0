@@ -32,94 +32,129 @@
     });
 
 
-    //feature animation section
+
+
+//feature animation section////////////////////////////////////////////////////////////////////////////////
+//First Animation ////////////////////////////////////////////////////////////////////////////////
 
     var arrow = $("#arrow");
+    var thincircle = $("#thinblue");
 
     TweenMax.from(arrow,1.5,
-        {
-            x:-50,
-            alpha:0,
-            repeat: -1,
-            scale:0.8,
+        {             x:-50,
+                  alpha:0,
+                 repeat: -1,
+                  scale:1,
             repeatDelay:1
-
-
         });
 
     TweenMax.to(arrow,1.5,
     {
-        x: 30,
+                    x: 6,
+                    alpha:1,
+                    repeat: -1,
+                    scale:1,
+                    repeatDelay:1
+
+    });
+
+    TweenMax.from(thincircle,2 ,{
+        alpha:0,
+        yoyo:true
+
+    });
+
+    TweenMax.to(thincircle,2 ,{
         alpha:1,
-        repeat: -1,
-        scale:1.2,
-        repeatDelay:1
-
-
+        repeat:-1,
+        yoyo:true
     });
 
 
-
-var moon = $("#4moon");
-    var heart=$("#4heart");
-
-   TweenMax.from(moon,1.5,
-    {
-        opacity:0
-
-    });
-
-
- TweenMax.to(moon,2,
-        {
-         background:"#fff",
-              scale:1.3,
-             repeat: -1,
-               yoyo:true,
-            repeatDelay:1
-        });
-
-   TweenMax.from(heart,3,{
-       opacity: 0,
-         delay: 1.3,
-             y: -40,
-        repeat: -1,
-          yoyo:true,
-       ease: Bounce.easeOut,
-       repeatDelay:1
-   });
-
-
-    TweenMax.to(heart,1,{
-        scale:1.5,
-        y: -500
-    });
-
+//Second Animation ////////////////////////////////////////////////////////////////////////////////
     var earth = $("#earth");
-    var bluecicle = $("#thickblue");
+    var thickblue = $("#thickblue");
     var cycle = $("#cycle");
 
 
     var tl = new TimelineMax({repeat:-1});
 
-    tl.to(earth,3, {
-       scale:1.7
+    tl.from(earth,0.5,{
+        scale:0.9,
+        opacity:0
+    }).to(earth,2, {
+       scale:1.1
     }).to(earth,1,{
             opacity:0
-        }).to(cycle,5,{
-            css: {
-                transformOrigin:"50% 50%",
-                rotation:"360deg",
-                repeat: -1,
-                repeatDelay:1,
-                scale:1.2,
-                ease: Linear.easeNone
-            }
-    },"-=4").to(bluecicle,3,{
-        scale:2.2
-    },"-=3").to(cycle,0.5, {
-        opacity:0
+        }).from(thickblue,2,{
+            alpha:0
+    }).to(thickblue,2,{
+        alpha:1,
+        scale:1.1
+    },"-=3.9").from(cycle,0.5,{
+
+        css: {
+            opacity:0,
+            scale:0.9,
+            ease:Linear.easeNone
+        }
+
+    },"-=1.5").to(cycle,4.5,{
+        css: {
+            opacity:1,
+            transformOrigin:"50% 50%",
+            rotation:"180deg",
+            repeat:-1,
+            scale:0.9,
+            ease:Linear.easeNone,
+            y:6,
+            x:2
+        }
+
     });
+
+
+
+//Third Animation ////////////////////////////////////////////////////////////////////////////////
+
+var moon = $("#moon");
+var heart=$("#heart");
+
+TweenMax.from(moon,1.5,
+    {
+        opacity:0,
+        scale:0.8
+
+    });
+
+
+TweenMax.to(moon,2,
+    {
+        background:"#fff",
+        scale:1.1,
+        repeat: -1,
+        yoyo:true,
+        repeatDelay:1
+    });
+
+
+
+TweenMax.from(heart,3,{
+    opacity: 0,
+    scale:0.4,
+    delay: 1.3,
+    y: -40,
+    repeat: -1,
+    yoyo:true,
+    ease: Bounce.easeOut,
+    repeatDelay:1
+});
+
+
+TweenMax.to(heart,1,{
+    scale:0.9,
+    y: -500
+});
 
 
 

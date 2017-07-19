@@ -170,16 +170,35 @@ include 'header.php';
     <div class="container">
         <h4>our benefits</h4>
         <div class="row ">
-            <div class="col-md-3 col-sm-6 animation-item">
+<!--            <div class="col-md-3 col-sm-6 animation-item">-->
+<!---->
+<!--               <div class="animation-container">-->
+<!--                   <div class="animation-inner-wrapper" >-->
+<!--                       <img class="img img-responsive" id="a11" src="img/step3-1.svg" style="position:relative;" >-->
+<!--                       <img class="img img-responsive" id="a12" src="img/step3-2.svg" >-->
+<!--                       <img class="img img-responsive" id="a13" src="img/step3-3.svg" >-->
+<!---->
+<!--                   </div>-->
+<!--               </div>-->
+<!---->
+<!---->
+<!--                <h3>1</h3>-->
+<!--                <hr/>-->
+<!--                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>-->
+<!---->
+<!--            </div>-->
 
-               <div class="animation-container">
-                   <div class="animation-inner-wrapper" >
-                       <img class="img img-responsive" id="a11" src="img/step3-1.svg" style="position:relative;" >
-                       <img class="img img-responsive" id="a12" src="img/step3-2.svg" >
-                       <img class="img img-responsive" id="a13" src="img/step3-3.svg" >
+            <div class="col-md-4   animation-item">
 
-                   </div>
-               </div>
+                <div class="animation-container">
+                    <div class="animation-inner-wrapper" >
+                        <img class="img img-responsive"  src="svg2/circle.svg" style="position:relative;" >
+                        <img class="img img-responsive" id="thinblue" src="svg2/bluecircle.svg" style="" >
+                        <img class="img img-responsive" id="arrow" src="svg2/white-arrow.svg" style="">
+
+
+                    </div>
+                </div>
 
 
                 <h3>1</h3>
@@ -188,16 +207,17 @@ include 'header.php';
 
             </div>
 
-            <div class="col-md-3 col-sm-6  animation-item">
+            <div class="col-md-4  animation-item">
 
                 <div class="animation-container">
                     <div class="animation-inner-wrapper" >
-                        <img class="img img-responsive"  src="svg/circle.svg" style="position:relative;" >
-                        <img class="img img-responsive" id="arrow" src="svg/white-arrow.svg" style="top:-10px">
 
-
+                        <img class="img img-responsive" id="earth" src="svg2/earth.svg" style="position:relative;" >
+                        <img class="img img-responsive" id="thickblue" src="svg2/bluethickcircle.svg" style="" >
+                        <img class="img img-responsive" id="cycle" src="svg2/Icons-05.svg" style="top:0px" >
                     </div>
                 </div>
+
 
 
                 <h3>2</h3>
@@ -206,40 +226,18 @@ include 'header.php';
 
             </div>
 
-            <div class="col-md-3 col-sm-6 animation-item">
+            <div class="col-md-4   animation-item">
 
                 <div class="animation-container">
                     <div class="animation-inner-wrapper" >
-
-                        <img class="img img-responsive" id="earth" src="svg/earth.svg" style="position:relative;" >
-                        <img class="img img-responsive" id="thickblue" src="svg/bluecircle.svg" style="left:25px" >
-                        <img class="img img-responsive" id="cycle" src="svg/cycle.svg"  >
-
-
-
+                        <img class="img img-responsive" id="moon" src="svg2/moon.svg" style="position:relative;" >
+                        <img class="img img-responsive" id="heart"  src="svg2/heart.svg" style="">
                     </div>
                 </div>
 
 
 
                 <h3>3</h3>
-                <hr/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
-
-            </div>
-
-            <div class="col-md-3 col-sm-6  animation-item">
-
-                <div class="animation-container">
-                    <div class="animation-inner-wrapper" >
-                        <img class="img img-responsive" id="4moon" src="svg/moon.svg" style="position:relative;" >
-                        <img class="img img-responsive" id="4heart"  src="svg/heart.svg" style="left:10px">
-                    </div>
-                </div>
-
-
-
-                <h3>4</h3>
                 <hr/>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </p>
 
