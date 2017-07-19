@@ -1,27 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="fixed career page: positions links">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/step2-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/step2-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/step2-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/step2-4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/step2-5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/step2-6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/bluecircle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/bluethickcicle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/cycle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/earth.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/heart.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/moon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/white-arrow.svg" />
+    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TimelineLite.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TimelineMax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TweenLite.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/TweenMax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/easing/EasePack.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/jquery.gsap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/AttrPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/BezierPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/CSSPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/CSSRulePlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/ColorPropsPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/DirectionalRotationPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/EaselPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/EndArrayPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/ModifiersPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/PixiPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/RaphaelPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/RoundPropsPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/ScrollToPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/plugins/TextPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/minified/utils/Draggable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TimelineLite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TimelineMax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TweenLite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/TweenMax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/easing/EasePack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/jquery.gsap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/AttrPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/BezierPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/CSSPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/CSSRulePlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/ColorPropsPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/DirectionalRotationPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/EaselPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/EndArrayPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/ModifiersPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/PixiPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/RaphaelPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/RoundPropsPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/ScrollToPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/TEMPLATE_Plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/plugins/TextPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/gsap/src/uncompressed/utils/Draggable.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/footer.php" afterPath="$PROJECT_DIR$/app/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,8 +132,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="198">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -203,8 +227,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="8" />
-    <option name="y" value="268" />
+    <option name="x" value="27" />
+    <option name="y" value="26" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
   </component>
@@ -337,7 +361,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="svg" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,7 +379,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gsap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -466,7 +498,7 @@
       <workItem from="1500086007974" duration="15171000" />
       <workItem from="1500222011506" duration="10173000" />
       <workItem from="1500306951864" duration="11615000" />
-      <workItem from="1500399331397" duration="17450000" />
+      <workItem from="1500399331397" duration="17748000" />
     </task>
     <task id="LOCAL-00001" summary="modified poscition sticky">
       <created>1500086893349</created>
@@ -559,11 +591,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500410376890</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fixed career page: positions links">
+      <created>1500434155798</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1500434155798</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109176000" />
+    <option name="totallyTimeSpent" value="109474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,10 +614,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="268" width="1280" height="739" extended-state="0" />
-    <editor active="false" />
+    <frame x="27" y="26" width="1280" height="739" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28478965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28478965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -956,8 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding />
         </state>
       </provider>
