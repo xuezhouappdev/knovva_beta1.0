@@ -212,7 +212,7 @@ include 'header.php';
                     <div class="animation-inner-wrapper" >
 
                         <img class="img img-responsive" id="earth" src="svg/earth.svg" style="position:relative;" >
-                        <img class="img img-responsive" id="thickblue" src="svg/bluecircle.svg" style="left:10px" >
+                        <img class="img img-responsive" id="thickblue" src="svg/bluecircle.svg" style="left:25px" >
                         <img class="img img-responsive" id="cycle" src="svg/cycle.svg"  >
 
 

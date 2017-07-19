@@ -70,7 +70,7 @@ var moon = $("#4moon");
     });
 
 
-   TweenMax.to(moon,2,
+ TweenMax.to(moon,2,
         {
          background:"#fff",
               scale:1.3,
@@ -85,13 +85,15 @@ var moon = $("#4moon");
              y: -40,
         repeat: -1,
           yoyo:true,
+       ease: Bounce.easeOut,
        repeatDelay:1
    });
 
 
-TweenMax.to(heart,3,{
-    scale:1.5
-});
+    TweenMax.to(heart,1,{
+        scale:1.5,
+        y: -500
+    });
 
     var earth = $("#earth");
     var bluecicle = $("#thickblue");
@@ -103,16 +105,19 @@ TweenMax.to(heart,3,{
     tl.to(earth,3, {
        scale:1.7
     }).to(earth,1,{
-            opacity:0,
-            delay:1
+            opacity:0
         }).to(cycle,5,{
             css: {
                 transformOrigin:"50% 50%",
-                rotation:"360deg"
+                rotation:"360deg",
+                repeat: -1,
+                repeatDelay:1,
+                scale:1.2,
+                ease: Linear.easeNone
             }
-    },"-=5").to(bluecicle,3,{
-        scale:1.7
-    }).to(cycle,0.5, {
+    },"-=2").to(bluecicle,3,{
+        scale:2.2
+    },"-=3").to(cycle,0.5, {
         opacity:0
     });
 
