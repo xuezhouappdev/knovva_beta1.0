@@ -83,7 +83,7 @@
         scale:0.9,
         opacity:0
     }).to(earth,2, {
-       scale:1.1
+       scale:1
     }).to(earth,1,{
             opacity:0
         }).from(thickblue,2,{
