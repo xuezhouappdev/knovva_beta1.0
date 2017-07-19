@@ -92,11 +92,12 @@
         alpha:1,
         scale:1.1
     },"-=3.9").from(cycle,0.5,{
-
         css: {
             opacity:0,
             scale:0.9,
-            ease:Linear.easeNone
+            ease:Linear.easeNone,
+            y:6,
+            x:2
         }
 
     },"-=1.5").to(cycle,4.5,{
