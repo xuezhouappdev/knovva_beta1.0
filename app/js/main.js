@@ -31,6 +31,95 @@
 
     });
 
+
+    //feature animation section
+
+    var arrow = $("#arrow");
+
+    TweenMax.from(arrow,1.5,
+        {
+            x:-50,
+            alpha:0,
+            repeat: -1,
+            scale:0.8,
+            repeatDelay:1
+
+
+        });
+
+    TweenMax.to(arrow,1.5,
+    {
+        x: 30,
+        alpha:1,
+        repeat: -1,
+        scale:1.2,
+        repeatDelay:1
+
+
+    });
+
+
+
+var moon = $("#4moon");
+    var heart=$("#4heart");
+
+   TweenMax.from(moon,1.5,
+    {
+        opacity:0
+
+    });
+
+
+   TweenMax.to(moon,2,
+        {
+         background:"#fff",
+              scale:1.3,
+             repeat: -1,
+               yoyo:true,
+            repeatDelay:1
+        });
+
+   TweenMax.from(heart,3,{
+       opacity: 0,
+         delay: 1.3,
+             y: -40,
+        repeat: -1,
+          yoyo:true,
+       repeatDelay:1
+   });
+
+
+TweenMax.to(heart,3,{
+    scale:1.5
+});
+
+    var earth = $("#earth");
+    var bluecicle = $("#thickblue");
+    var cycle = $("#cycle");
+
+
+    var tl = new TimelineMax({repeat:-1});
+
+    tl.to(earth,3, {
+       scale:1.7
+    }).to(earth,1,{
+            opacity:0,
+            delay:1
+        }).to(cycle,5,{
+            css: {
+                transformOrigin:"50% 50%",
+                rotation:"360deg"
+            }
+    },"-=5").to(bluecicle,3,{
+        scale:1.7
+    }).to(cycle,0.5, {
+        opacity:0
+    });
+
+
+
+
+
 /**
  * career page  *********************************************************************************
  */
