@@ -21,7 +21,8 @@ include 'header.php';
 <!-- department -->
 <div class="department">
     <div class="container">
-        <p>The people here at Apple don’t just create products — they create the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.</p>
+        <p>Knovva Academy is hiring! <br/>We are seeking energetic and enthusiastic individuals to join our Boston-based team. We are looking to add talent to our company to help us fulfill our mission of adapting education to the twenty first century. If you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
+        </p>
         <p>Where do you see yourself at Knovva? <a>Get started  </a></p>
 
         <div class="row">

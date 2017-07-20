@@ -338,17 +338,19 @@ html, body {
             .carousel-item {
                     .container {
 
-                       [class*="col-sm-"] {
+                       [class*="col-md-"] {
                             h4 {
                               margin-top:40px;
                             }
 
                             p {
-                              margin-top:56px;
+                              margin-top:48px;
                               text-align:justify;
-                              font-size: 0.8rem;
+                              font-size: 1rem;
                               animation-delay:1s;
                             }
+
+
                         }
                     }
             }
@@ -758,7 +760,7 @@ html, body {
 =========================================================================== */
 .career-banner {
   height:80vh;
-  background: url('../img/career-placeholder.png') center center no-repeat;
+  background: url('../img/career.jpg') center center no-repeat;
   background-size: cover;
   position: relative;
 

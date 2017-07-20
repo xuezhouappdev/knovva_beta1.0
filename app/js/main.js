@@ -103,8 +103,8 @@
     },"-=1.5").to(cycle,4.5,{
         css: {
             opacity:1,
-            transformOrigin:"50% 50%",
             rotation:"180deg",
+            transformOrigin:"50% 50%",
             repeat:-1,
             scale:0.9,
             ease:Linear.easeNone,
