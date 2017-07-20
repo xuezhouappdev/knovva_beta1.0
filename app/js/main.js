@@ -147,7 +147,7 @@ TweenMax.from(heart,3,{
     y: -40,
     repeat: -1,
     yoyo:true,
-    ease: Bounce.easeOut,
+    ease: Back.easeOut,
     repeatDelay:1
 });
 
@@ -159,7 +159,31 @@ TweenMax.to(heart,1,{
 
 
 
+//the js to control the href for slider
+var landing_images= $(".slider .carousel-item");
 
+landing_images.eq(0).click(function(){
+    window.location.href="http://www.google.com";
+
+});
+
+landing_images.eq(1).click(function(){
+    window.location.href="http://www.knovva.com";
+
+});
+
+
+//the js to control the gif
+var imageSwap = function () {
+    var $this = $(this);
+    var newSource = $this.data('swap');
+    $this.data('swap', $this.attr('src'));
+    $this.attr('src', newSource);
+};
+
+$(function () {
+    $('img.playgif').hover(imageSwap, imageSwap);
+});
 
 /**
  * career page  *********************************************************************************

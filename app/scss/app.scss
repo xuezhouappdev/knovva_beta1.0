@@ -31,7 +31,7 @@ html, body {
   //box-shadow: 1px 1px 10px #b0b0b0;
   border-bottom: none;
 
-    @media screen and(max-width: 576px) {
+    @media screen and(max-width: 767px) {
       margin-bottom: 64px;
       background: white;
     }
@@ -52,7 +52,7 @@ html, body {
     }
 
     .navbar-brand {
-      @media screen and(max-width: 576px) {
+      @media screen and(max-width: 767px) {
         color: black;
       }
       color: white;
@@ -71,7 +71,7 @@ html, body {
        .nav-item {
 
          .nav-link {
-           @media screen and (max-width: 576px) {
+           @media screen and (max-width: 767px) {
              color: black;
            }
            color: white;
@@ -187,34 +187,43 @@ html, body {
     height:90vh;
 
     #carouselExampleControls {
-      .text-wrapper {
-        position: relative;
-        top:40vh;
-        color: white;
-        animation-delay: 0.25s;
 
-        [class*='col-sm'] {
-          @media screen and (max-width: 414px) {
-            margin-left: 10px;
-            text-align: center;
-            margin-right:10px
+      .carousel-item {
+         &:hover {
+           cursor: pointer;
+         }
+        .text-wrapper {
+          position: relative;
+          top:40vh;
+          color: white;
+          animation-delay: 0.25s;
 
+          [class*='col-sm'] {
+            @media screen and (max-width: 414px) {
+              margin-left: 10px;
+              text-align: center;
+              margin-right:10px
+
+            }
+            .btn-cta {
+              padding: 8px 16px;
+              color: black;
+              background: white;
+              display: inline-block;
+              margin-top: 12px;
+              font-size: 12px;
+              -webkit-box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
+              box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
+
+            }
           }
-          .btn-cta {
-            padding: 8px 16px;
-            color: black;
-            background: white;
-            display: inline-block;
-            margin-top: 12px;
-            font-size: 12px;
-            -webkit-box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
-            box-shadow:0 1px 7px rgba(0, 0, 0, 0.3);
 
-          }
         }
-
       }
+
     }
+
+
     .scrollformore {
       position: relative;
       text-align: center;
@@ -250,11 +259,12 @@ html, body {
     background: $brand-inverse;
     padding-bottom: 32px;
     padding-top:18px;
-    min-width: inherit;
+    min-height: inherit;
+
 
 
     @media screen and (max-width:576px) {
-      height:450px;
+      min-height: inherit;
     }
 
     .container {

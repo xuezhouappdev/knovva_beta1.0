@@ -14,6 +14,13 @@
     <!-- Animated -->
     <link rel="stylesheet" href="vendor/animate/animate.min.css">
 
+
+
+
+    <!--fancybox-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+
+
     <!-- Costom CSS This file is converted from scss-->
     <link rel="stylesheet" href="./css/app.css">
 

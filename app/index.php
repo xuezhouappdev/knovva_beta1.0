@@ -15,12 +15,13 @@ include 'header.php';
             </ol>
 
             <!--Slider -->
-            <div class="carousel-inner" role="listbox">
+            <div class="carousel-inner index_landing_slider" role="listbox">
 
                 <!--First Slider -->
-                <div class="carousel-item active" style="background: url('img/blue.png') center center no-repeat;
+
+                    <div class="carousel-item active" style="background: url('img/index-g20.jpg') top center no-repeat;
                                                          background-size: cover; height:90vh";>
-                    <div class="container">
+                            <div class="container">
 
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">
@@ -37,8 +38,8 @@ include 'header.php';
 
                     </div>
 
+                   </div>
 
-                </div>
 
                 <!--Second Slider -->
                 <div class="carousel-item" style="background: rgb(255, 195, 0);
@@ -100,14 +101,27 @@ include 'header.php';
 
                 <div class="carousel-item active">
                     <div class="container">
-                        <div class="row justify-content-start">
+                        <div class="row justify-content-around">
 
-                            <div class="col-sm-5">
+                            <div class="col-sm-6">
                                 <h4 >who are we</h4>
                                 <p class="animated flipInX">Knovva Academy is an international education company with its headquarters in Cambridge, Massachusetts. Knovva Academy was founded by a group of friends, who wanted to collaborate after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning. </p>
 
                             </div>
 
+                            <div class="col-sm-6" >
+
+                                <div style="position: relative" class="animated fadeIn">
+                                    <img class="playgif img img-responsive"  data-swap="img/minion.gif" src="img/static.gif" style="width: 100%;height: 100%;cursor: pointer">
+
+                                    <a data-fancybox href="https://youtu.be/FE0rKL_HvbQ" style="position:absolute;left:50%;top:50%;display: block;font-size: 50px;transform: translate(-50%, -50%);"><i style="color: #d9d9d9;border-color: #d0d0d0" class="fa fa-play-circle" aria-hidden="true"></i></a>
+                                </div>
+
+
+
+
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -120,6 +134,7 @@ include 'header.php';
                                 <p class="animated flipInX">Catering to students from around the world, Knovva Academy utilizes a mix of online and in-person courses (blend learning) for teens in order to challenge their expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions. </p>
 
                             </div>
+
 
 
                         </div>
