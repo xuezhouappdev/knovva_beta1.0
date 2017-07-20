@@ -29,7 +29,7 @@ include 'header.php';
                                 <div class="col-sm-12 ">
 
                                     <h1 >
-                                        Model G20 Program
+                                        Model G20 Program.
                                     </h1>
 <!--                                    <a class="btn btn-cta">i'm interested</a>-->
                                 </div>

@@ -43,24 +43,26 @@
         <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+
         <a class="navbar-brand" href="index.php">
             <!--                    <img src="http://via.placeholder.com/90x30" width="90" height="30" alt="Knovva Academy">-->
             <p >Knovva Academy</p>
         </a>
 
+        <a class="hidden-md-up program-visible" style="cursor: pointer" href="#">
+            <i class="fa fa-leanpub" aria-hidden="true" style="color: rgba(125,119,119,0.76)"></i>
+        </a>
+
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
 
+
             <ul class="navbar-nav ml-auto">
-                <!--                        <li class="nav-item active">-->
-                <!--                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
-                <!--                        </li>-->
-                <li class="nav-item">
+                <li class="nav-item" id="showwhencollapse">
                     <a class="nav-link" href="#">programs</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">blog</a>
                 </li>
-
                 <li class="nav-item dropdown">
 
                     <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
