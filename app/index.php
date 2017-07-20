@@ -23,14 +23,14 @@ include 'header.php';
                                                          background-size: cover; height:90vh";>
                             <div class="container">
 
-                        <div class="text-wrapper animated fadeInRight">
+                        <div class="text-wrapper animated fadeInUp">
                             <div class="row justify-content-end ">
 
-                                <div class="col-sm-6 ">
-                                    <h5>new to our program</h5>
-                                    <h2 >
-                                        Social Innovation online course
-                                    </h2>
+                                <div class="col-sm-12 ">
+
+                                    <h1 >
+                                        Model G20 Program
+                                    </h1>
 <!--                                    <a class="btn btn-cta">i'm interested</a>-->
                                 </div>
                             </div>
@@ -49,12 +49,7 @@ include 'header.php';
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">
 
-                                <div class="col-sm-6 ">
-                                    <h5>new to our program</h5>
-                                    <h2 >
-                                        Model G20 </h2>
-                                    <!--                                    <a class="btn btn-cta">i'm interested</a>-->
-                                </div>
+
                             </div>
                         </div>
 
@@ -113,6 +108,7 @@ include 'header.php';
 
                                 <div style="position: relative" class="animated fadeIn">
                                     <img class="playgif img img-responsive"  data-swap="img/minion.gif" src="img/static.gif" style="width: 100%;height: 100%;cursor: pointer">
+
 
                                     <a data-fancybox href="https://youtu.be/FE0rKL_HvbQ" style="position:absolute;left:50%;top:50%;display: block;font-size: 50px;transform: translate(-50%, -50%);"><i style="color: #d9d9d9;border-color: #d0d0d0" class="fa fa-play-circle" aria-hidden="true"></i></a>
                                 </div>

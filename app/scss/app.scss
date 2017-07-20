@@ -194,9 +194,10 @@ html, body {
          }
         .text-wrapper {
           position: relative;
-          top:40vh;
+          top:8vh;
           color: white;
           animation-delay: 0.25s;
+          text-align: center;
 
           [class*='col-sm'] {
             @media screen and (max-width: 414px) {
