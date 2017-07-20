@@ -338,20 +338,33 @@ html, body {
             .carousel-item {
                     .container {
 
-                       [class*="col-md-"] {
+                       [class*="col-lg-"] {
                             h4 {
                               margin-top:40px;
                             }
 
                             p {
                               margin-top:48px;
-                              text-align:justify;
+
                               font-size: 1rem;
                               animation-delay:1s;
                             }
 
 
-                        }
+                           .videodiv {
+                               margin-top: 10px;
+
+                             @media (min-width: 996px) and (max-width: 1099px) {
+                               margin-top: 70px;
+                             }
+
+                           }
+
+
+
+
+
+                       }
                     }
             }
         }
@@ -382,10 +395,29 @@ html, body {
 .features {
       padding-bottom:72px;
       .container {
-           h4 {
-              padding:56px 0 72px;
-              font-weight:500;
-            }
+
+
+        h4 {
+          padding:56px 0 72px;
+          font-weight:500;
+        }
+
+        h3 {
+          margin-top:24px;
+          font-size: 1.2rem;
+        }
+
+        hr {
+          height:3px;
+          background:lightgray;
+          opacity:0.5;
+        }
+
+        p {  font-size:0.85rem;
+          @media screen and (max-width:576px) {
+            margin-bottom:64px;
+          }
+        }
 
           .row {
 
@@ -517,21 +549,7 @@ html, body {
 
               }
 
-              h3 {
-                margin-top:24px;
-              }
 
-              hr {
-                height:3px;
-                background:lightgray;
-                opacity:0.5;
-              }
-
-              p {  font-size:0.85rem;
-                @media screen and (max-width:576px) {
-                  margin-bottom:64px;
-                }
-              }
 
             }
 
@@ -565,21 +583,7 @@ html, body {
 
               }
 
-              h3 {
-                margin-top:24px;
-              }
 
-              hr {
-                height:3px;
-                background:lightgray;
-                opacity:0.5;
-              }
-
-              p {  font-size:0.85rem;
-                @media screen and (max-width:576px) {
-                  margin-bottom:64px;
-                }
-              }
 
             }
 
@@ -612,21 +616,7 @@ html, body {
 
               }
 
-              h3 {
-                margin-top:24px;
-              }
 
-              hr {
-                height:3px;
-                background:lightgray;
-                opacity:0.5;
-              }
-
-              p {  font-size:0.85rem;
-                @media screen and (max-width:576px) {
-                  margin-bottom:64px;
-                }
-              }
 
             }
 
