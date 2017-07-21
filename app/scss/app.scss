@@ -33,20 +33,21 @@ html, body {
 
     @media screen and(max-width: 767px) {
       margin-bottom: 64px;
-      background: rgba(0, 0, 0, 0.65);
+      background: rgba(0, 0, 0, 0.75);
     }
   .container {
 
     //burger sign
-    button.navbar-toggler.navbar-toggler-left {
-
-
-        border-color: rgba(0, 0, 0, 0);
-        .navbar-toggler-icon {
-
+   .navbar-toggler.navbar-toggler-left {
+        border: none;
+        .burgericon {
+          color:white;
           width: 1.2em;
           height: 1.2em;
           margin-top: 8px;
+          border: none;
+          outline-color: transparent;
+
 
           @media screen and (max-width: 576px){
             margin-top: 0
@@ -97,13 +98,19 @@ html, body {
         display: inline-block;
         width: 1.2em;
         height: 1.2em;
+        color: white;
+
+      .programsign {
+        color: white;
+        cursor: pointer;
+      }
 
       @media screen and (max-width: 768px){
         position: absolute;
         right:1rem;
 
         color: rgba(0, 0, 0, 0.9);
-        top:10px;
+        top:8px;
         font-size: 20px;
       }
 
@@ -111,7 +118,7 @@ html, body {
         position: relative;
         right:-5px;
         color: #240b18;
-        top:-0px;
+        top:-2px;
         font-size: 18px;
         color: rgba(0, 0, 0, 0.9);
       }
@@ -163,12 +170,35 @@ html, body {
     background-color: white;
     box-shadow: 1px 1px 10px $shadow-black;
 
+    //logo
     .navbar-brand {
       color: black;
 
 
     }
 
+
+
+    //burger sign
+    .navbar-toggler.navbar-toggler-left {
+
+      .burgericon {
+        color:black;
+      }
+    }
+
+
+    //visible program
+    .program-visible {
+
+      .programsign {
+        color: black;
+      }
+
+    }
+
+
+    //collapse
     .navbar-nav {
       .nav-item {
         .nav-link {
@@ -354,7 +384,7 @@ html, body {
                            .videodiv {
                                margin-top: 10px;
 
-                             @media (min-width: 996px) and (max-width: 1099px) {
+                             @media (min-width: 996px) and (max-width: 1199px) {
                                margin-top: 70px;
                              }
 

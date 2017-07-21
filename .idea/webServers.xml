@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="771fac1f-7d74-421c-bbcc-c4249ac52afc" name="localhost" url="http://localhost:8888/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="89da7a51-a570-41fe-a4ad-0d4e3b4b8c86" name="ehost" url="http://knovva.com">
+        <fileTransfer host="knovva.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

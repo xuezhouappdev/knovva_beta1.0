@@ -41,7 +41,7 @@
 <nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded" id="mynav">
     <div class="container">
         <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+            <i class="fa fa-bars burgericon" aria-hidden="true"></i>
         </button>
 
         <a class="navbar-brand" href="index.php">
@@ -49,8 +49,8 @@
             <p >Knovva Academy</p>
         </a>
 
-        <a class="hidden-md-up program-visible" style="cursor: pointer" href="#">
-            <i class="fa fa-leanpub" aria-hidden="true" style="color: rgba(125,119,119,0.76)"></i>
+        <a class="hidden-md-up program-visible" style="cursor: p" href="#">
+            <i class="fa fa-leanpub programsign" aria-hidden="true" ></i>
         </a>
 
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
