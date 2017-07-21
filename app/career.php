@@ -9,7 +9,7 @@ include 'header.php';
 
     <div class="career-slogan ">
         <div class="container">
-            <h1 class="animated fadeInDown">education matters</h1>
+            <h1 class="animated fadeInDown">education matters.</h1>
             <p><a >get started  </a></p>
 
         </div>
@@ -20,7 +20,7 @@ include 'header.php';
 <!-- department -->
 <div class="department">
     <div class="container">
-        <p>Knovva Academy is hiring! <br/>we are seeking energetic and enthusiastic individuals to join our Boston-based team. we are looking to add talent to our company to help us fulfill our mission of adapting education to the twenty first century. if you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
+        <p><span>Knovva Academy is hiring! </span><br/>we are seeking energetic and enthusiastic individuals to join our Boston-based team. we are looking to add talent to our company to help us fulfill our mission of adapting education to the twenty first century. if you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
         </p>
 
 
