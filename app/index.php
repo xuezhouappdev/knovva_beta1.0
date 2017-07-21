@@ -195,7 +195,8 @@ include 'header.php';
 
                 <h3>interactive courses</h3>
                 <hr/>
-                <p>pursue what you love and choose from a variety of fun and engaging courses or blended learning experiences. learn beyond the school curriculum and discover new ideas and concepts and develop skills for the twenty-first century.</p>
+                <p>pursue what you love and choose from a variety of fun and engaging courses or blended learning experiences.
+                </p>
 
             </div>
 
@@ -214,7 +215,7 @@ include 'header.php';
 
                 <h3>international student base</h3>
                 <hr/>
-                <p>you will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia. This is your chance to become a global citizen and build friendships that will last a lifetime.</p>
+                <p>you will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia.</p>
 
             </div>
 
