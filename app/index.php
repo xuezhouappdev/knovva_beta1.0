@@ -207,7 +207,7 @@ include 'header.php';
 
                         <img class="img img-responsive" id="earth" src="svg2/earth.svg" style="position:relative;" >
                         <img class="img img-responsive" id="thickblue" src="svg2/bluethickcircle.svg" style="" >
-                        <img class="img img-responsive" id="cycle" src="svg2/Icons-05.svg" style="top:0px" >
+                        <img class="img img-responsive" id="cycle" src="svg2/Icons-05.svg"  >
                     </div>
                 </div>
 

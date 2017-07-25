@@ -104,7 +104,7 @@
         css: {
             opacity:1,
             rotation:"180deg",
-            transformOrigin:"50% 50%",
+            transformOrigin:"center center",
             repeat:-1,
             scale:0.9,
             ease:Linear.easeNone,
@@ -195,3 +195,14 @@ $(function () {
    $('.department .container .row .col-md-4').click(function () {
       window.location.href="/app/career.php#";
    });
+
+
+/**
+ * program page  *********************************************************************************
+ */
+
+    $(function(){
+        new WOW().init();
+    });
+
+

@@ -58,7 +58,7 @@
 
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item" id="showwhencollapse">
-                    <a class="nav-link" href="#">programs</a>
+                    <a class="nav-link" href="programs.php">programs</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">blog</a>

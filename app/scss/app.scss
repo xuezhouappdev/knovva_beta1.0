@@ -1002,3 +1002,128 @@ footer {
   }
 }
 
+
+/*
+################
+6. Programs
+################
+*/
+
+/* ==========================================================================
+6.1 Program Banner
+========================================================================== */
+.program-banner {
+  height:70vh;
+  background: url('../img/programs.jpg') center center no-repeat;
+  background-size: cover;
+  position: relative;
+
+  .program-slogan {
+    position: absolute;
+    bottom: 0;
+    right:0;
+    left:0;
+    background: rgba(31,30,30,0.2);
+    padding: 32px 0;
+    h1 {
+      text-align: center;
+      font-weight: 200;
+      line-height: 48px;
+      color: white;
+      animation-duration: 2s;
+
+      @media screen and(max-width:375px){
+        line-height: 28px;
+        font-size: 22px;
+      }
+
+    }
+
+    p {
+      padding-top: 8px;
+      text-align: center;
+      color: #f2f2f2;
+      font-weight: 100;
+      margin-bottom: 0;
+      a {
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    }
+  }
+
+}
+
+
+/* ==========================================================================
+6.2 Program Title
+========================================================================== */
+.programs {
+  margin: 32px 0 64px;
+  .container {
+    p {
+
+    }
+    .row{
+      margin-top: 2rem;
+      [class*="col-"] {
+        padding: 16px;
+        margin: 0 auto;
+
+        .shadow {
+          padding: 24px;
+          box-shadow: 0 10px 20px rgba(0,0,0,0.09);
+          position: relative;
+          transition: all 0.3s linear;
+          top:0px;
+          border-radius: 8px;
+
+          &:hover {
+            cursor: pointer;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.29);
+            top:-5px;
+          }
+
+          .p-image-wrapper{
+            height: 250px;
+            position: relative;
+
+            .p-decoration-text{
+              position: absolute;
+              bottom: 0;
+              left:0;
+
+              h4,h6{
+                color: rgba(255,255,255,0.8);
+                margin-left: 1rem;
+
+                i {
+                  margin: 0 1rem 0 0;
+                  font-size: 1.5rem;
+                }
+              }
+
+
+            }
+          }
+
+          .p-text-wrapper{
+            h6 {
+              margin-top: 0.5rem;
+            }
+
+            p {
+              line-height: 24px;
+              font-size: 1rem;
+            }
+
+          }
+
+        }
+
+
+      }
+    }
+
+  }
+}
