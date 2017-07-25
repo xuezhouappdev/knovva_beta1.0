@@ -61,7 +61,7 @@
                     <a class="nav-link" href="programs.php">programs</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">blog</a>
+                    <a class="nav-link" href="http://blog.knovva.com/" target="_blank">blog</a>
                 </li>
                 <li class="nav-item dropdown">
 
