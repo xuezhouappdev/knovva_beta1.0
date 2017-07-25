@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="updated slider2">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/index-sie.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/programs.jpg" afterPath="$PROJECT_DIR$/app/img/programs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/parallax.js-1.4.2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/parallax.js-1.4.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/parallax.js-1.4.2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/parallax.js-1.4.2/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/parallax.js-1.4.2/parallax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/wowjs/dist/wow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/wowjs/dist/wow.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
@@ -237,7 +243,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+    <option name="x" value="6" />
     <option name="y" value="57" />
     <option name="width" value="1280" />
     <option name="height" value="739" />
@@ -316,7 +322,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,8 +340,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wowjs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wow.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -456,7 +474,7 @@
       <workItem from="1500646161859" duration="3295000" />
       <workItem from="1500662677617" duration="2966000" />
       <workItem from="1500745561674" duration="2070000" />
-      <workItem from="1500901646663" duration="11770000" />
+      <workItem from="1500901646663" duration="11976000" />
     </task>
     <task id="LOCAL-00001" summary="modified poscition sticky">
       <created>1500086893349</created>
@@ -682,11 +700,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500946198624</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updated programs">
+      <created>1500946425235</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1500946425235</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168965000" />
+    <option name="totallyTimeSpent" value="169171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,7 +723,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="57" width="1280" height="739" extended-state="0" />
+    <frame x="6" y="57" width="1280" height="739" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3357605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -774,7 +799,8 @@
     <MESSAGE value="updated career p weight, index gif static" />
     <MESSAGE value="updated programs page" />
     <MESSAGE value="updated slider2" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated slider2" />
+    <MESSAGE value="updated programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
