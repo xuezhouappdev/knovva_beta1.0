@@ -24,12 +24,13 @@ include 'header.php';
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 
         <div class="row ">
-            <div class="col-md-6 wow slideInLeft">
+
+           <div class="col-md-6 wow slideInLeft">
                 <!--card-->
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/3.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/course-placeholder.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
                             <h4>Model G20</h4>
@@ -56,7 +57,7 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/3.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/course-placeholder.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
                             <h4>social impact and entrepreneurship</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>07-24-2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>2 day</h6>
@@ -81,7 +82,7 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/3.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/course-placeholder.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
                             <h4>the harry potter reading group</h4>
@@ -108,7 +109,7 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/3.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/course-placeholder.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
                             <h4>social impact and entrepreneurship</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>07-24-2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>2 day</h6>
