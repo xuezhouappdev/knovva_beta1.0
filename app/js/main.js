@@ -163,7 +163,7 @@ TweenMax.to(heart,1,{
 var landing_images= $(".slider .carousel-item");
 
 landing_images.eq(0).click(function(){
-    window.location.href="http://www.google.com";
+    window.location.href="../app/g20.php";
 
 });
 
@@ -206,3 +206,15 @@ $(function () {
     });
 
 
+//the js to control the href for slider
+var programs= $(".programs .shadow");
+
+programs.eq(0).click(function(){
+    window.location.href="../app/g20.php";
+
+});
+
+programs.eq(1).click(function(){
+    window.location.href="http://www.knovva.com";
+
+});

@@ -30,7 +30,7 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/course-placeholder.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/index-g20.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
                             <h4>Model G20</h4>
@@ -57,7 +57,7 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/course-placeholder.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/index-sie.svg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
                             <h4>social impact and entrepreneurship</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>07-24-2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>2 day</h6>
