@@ -89,7 +89,7 @@ include 'header.php'; ?>
 <!--course structure-->
 <div class="course-structure">
     <div class="container">
-        <h5>curriculum</h5>
+        <h5>curriculum structure</h5>
 
         <table class="table table-striped table-sm">
             <thead>

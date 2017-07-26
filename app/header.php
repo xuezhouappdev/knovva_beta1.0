@@ -45,8 +45,8 @@
         </button>
 
         <a class="navbar-brand" href="index.php">
-               <img src="img/logo-trim.png" width="90" height="30" alt="Knovva Academy">
-<!--            <p >Knovva Academy</p>-->
+<!--               <img src="img/logo-trim.png" width="90" height="30" alt="Knovva Academy">-->
+            <p class="animated flipInX"><span >Knovva</span>&nbsp;<span>Academy</span> </p>
         </a>
 
         <a class="hidden-md-up program-visible" style="cursor: p" href="#">
