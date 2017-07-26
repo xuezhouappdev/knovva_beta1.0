@@ -312,8 +312,8 @@ include 'header.php'; ?>
                                   </div>
 
                                   <div class="author-wrapper">
-                                      <h6>Student Name </h6>
-                                      <p> School Name</p>
+                                      <h6>participant from  </h6>
+                                      <p> Boston Latin School</p>
                                   </div>
 
                               </div>
@@ -332,8 +332,8 @@ include 'header.php'; ?>
                                   </div>
 
                                   <div class="author-wrapper">
-                                      <h6>Student Name </h6>
-                                      <p> School Name</p>
+                                      <h6>participant from </h6>
+                                      <p> Fenway High School</p>
                                   </div>
 
                               </div>
@@ -352,8 +352,8 @@ include 'header.php'; ?>
                                   </div>
 
                                   <div class="author-wrapper">
-                                      <h6>Student Name </h6>
-                                      <p> School Name</p>
+                                      <h6>participant from </h6>
+                                      <p> Liuzhou High School</p>
                                   </div>
 
                               </div>
