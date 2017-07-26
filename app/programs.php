@@ -30,7 +30,7 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/g20-cover.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/index-g20.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
                             <h4>Model G20</h4>

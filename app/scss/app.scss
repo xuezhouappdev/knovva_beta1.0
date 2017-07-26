@@ -1093,7 +1093,11 @@ footer {
             .p-decoration-text{
               position: absolute;
               bottom: 0;
-              left:0;
+              left: 0;
+              background: rgba(0,0,0,0.5);
+              display: block;
+              width: 100%;
+              padding-top: 0.3rem;
 
               h4 {
                 color: rgba(255,255,255,0.8);
