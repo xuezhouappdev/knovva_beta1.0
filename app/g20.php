@@ -14,7 +14,6 @@ include 'header.php'; ?>
 
             <div class="row justify-content-center">
                 <div class="col-sm-8">
-                    <a href="http://www.modelg20cn.org/" target="_blank">explore more</a>&nbsp;&nbsp;&nbsp;&nbsp;
                     <a class="fancy" data-fancybox href="img/g20-landing.mp4" >watch the video</a>
                 </div>
             </div>
@@ -92,22 +91,150 @@ include 'header.php'; ?>
     <div class="container">
         <h5>curriculum</h5>
 
-<!--        <div class="row">-->
-<!--            <div class="col-md-6">-->
-<!--                <ul class="list-unstyled"> <b>day 2</b>-->
-<!--                    <li>Great Wall Tour | ⻓城游览</li>-->
-<!--                    <li>Evening Reflection | 晚间总结</li>-->
-<!--                    <li>Ice-breaking| 破冰活动</li>-->
-<!--                    <li>Welcome Dinner | 欢迎晚餐</li>-->
-<!--                </ul>-->
-<!--            </div>-->
-<!--            <div class="col-md-6">-->
-<!--                <ul class="list-unstyled"> <b>day 3</b>-->
-<!--                    <li>Ice-breaking | 破冰活动</li>-->
-<!--                    <li>Welcome Dinner | 欢迎晚餐</li>-->
-<!--                </ul>-->
-<!--            </div>-->
-<!--        </div>-->
+        <table class="table table-striped table-sm">
+            <thead>
+            <tr >
+                <th width="20%" class="text-center">day#</th>
+                <th width="80%">content</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row" class="text-center">1</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>cce-breaking</li>
+                        <li>welcome dinner</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">2</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>great Wall tour </li>
+                        <li>evening reflection</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">3</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>forbidden city tour </li>
+                        <li>tianamen square tour</li>
+                        <li>naitonal museum tour</li>
+                        <li>evening reflection</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">4</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>tsinghua lecture </li>
+                        <li>peking university tour</li>
+                        <li>travel to QingDao</li>
+                        <li>evening reflection</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">5</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>MG20 reflection</li>
+                        <li>MG20 and germany's sustainability goals </li>
+                        <li>QingDao in context: government, society and history  </li>
+                        <li>research, sustainability and project summary</li>
+                        <li>digital media and storytelling  </li>
+                        <li>workshop: story telling </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">6</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>China ocean university-lecture </li>
+                        <li>scenic introduction tour to landscape (beach)</li>
+                        <li>field research</li>
+                        <li>research, sustainability and project summary</li>
+                        <li>laboratory testing </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">7</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>Mt. Lao tour</li>
+                        <li>story-telling workshop</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">8</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>Harvard lecture: policy and environment</li>
+                        <li>Harvard lecture: policy and environment</li>
+                        <li>workshop : story telling and sustainability </li>
+                        <li>policy project time</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">9</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>Chinese industry and water </li>
+                        <li>local and provincial government</li>
+                        <li>Qu Fu: confuciuos</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">10</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>Qu Fu: confuciuos</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">11</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>social science research And china</li>
+                        <li>social science and environmental policy</li>
+                        <li>research design </li>
+                        <li>field research</li>
+                        <li>cce-breaking</li>
+                        <li>policy project time</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">12</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>closing panel and presentations </li>
+                        <li>closing dinner </li>
+                    </ul>
+                </td>
+
+            </tr>
+            <tr>
+                <th scope="row" class="text-center">13</th>
+                <td>
+                    <ul class="list-inline">
+                        <li>program close</li>
+                    </ul>
+                </td>
+            </tr>
+            </tbody>
+        </table>
 
 
 

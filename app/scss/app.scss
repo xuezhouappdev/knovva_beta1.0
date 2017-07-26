@@ -25,7 +25,7 @@ html, body {
 2.1 Nav Bar
 ========================================================================== */
 .bg-faded   {
-  background-color: transparent;
+  background-color: rgba(0,0,0,0.6);
   transition: all ease .5s;
   z-index: 999;
   //box-shadow: 1px 1px 10px #b0b0b0;
@@ -1238,7 +1238,6 @@ footer {
           border: 1px solid rgba(0,0,0,0.1);
           padding: 2rem 1rem 3.5rem 1rem;
           border-radius: 10px;
-
           h4 {
             margin-bottom: 2.5rem;
           }
@@ -1333,4 +1332,28 @@ footer {
       }
     }
   }
+}
+
+
+.course-structure {
+
+  .container {
+
+    h5 {
+      margin-bottom: 32px;
+    }
+
+    .table {
+      height: 500px;
+      overflow: scroll;
+
+      th,td {
+        vertical-align: middle;
+        ul {
+          margin: 0.2rem 0;
+        }
+      }
+    }
+  }
+
 }
