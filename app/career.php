@@ -10,7 +10,7 @@ include 'header.php';
     <div class="career-slogan ">
         <div class="container">
             <h1 class="animated fadeInDown">education matters.</h1>
-            <p><a >get started  </a></p>
+            <p class="animated fadeIn infinite"><a href="#joblist" id="career-start-btn">get started  </a></p>
 
         </div>
     </div>
@@ -24,7 +24,7 @@ include 'header.php';
         </p>
 
 
-        <div class="row">
+        <div class="row justify-content-center">
 
 
                 <div class="col-md-4" id="test" >
@@ -35,43 +35,109 @@ include 'header.php';
                 <div id="test" class="col-md-4" >
                     <div style="background: url('img/dpt-market.jpg') no-repeat bottom left;background-size:cover;">
                     </div>
-                    <h4>marketing</h4>
-                </div>
-                <div class="col-md-4" >
-                    <div style="background: url('img/dpt-bd.jpg') no-repeat center center;background-size:cover;">
-                    </div>
-                    <h4>business development</h4>
+                    <h4>administration</h4>
                 </div>
 
-            <script>
-
-            </script>
         </div>
 
-        <div class="row">
+<!--        <div class="row">-->
+<!---->
+<!---->
+<!--                <div class="col-md-4" >-->
+<!--                    <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size:cover;"></div>-->
+<!--                    <h4>product</h4>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="col-md-4" >-->
+<!--                    <div style="background: url('img/dpt-technology.jpg') no-repeat center center;background-size:cover;" ></div>-->
+<!--                    <h4>info tech</h4>-->
+<!--                </div>-->
+<!---->
+<!---->
+<!--                <div class="col-md-4">-->
+<!--                    <div style="background: url('img/dpt-executive.jpg') no-repeat center center;background-size:cover;"></div>-->
+<!--                    <h4>executive</h4>-->
+<!--                </div>-->
+<!---->
+<!--        </div>-->
+
+    </div>
+</div>
 
 
-                <div class="col-md-4" >
-                    <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size:cover;"></div>
-                    <h4>product</h4>
-                </div>
 
-                <div class="col-md-4" >
-                    <div style="background: url('img/dpt-technology.jpg') no-repeat center center;background-size:cover;" ></div>
-                    <h4>info tech</h4>
-                </div>
+<!-- job lists -->
+<div class="joblist" id="joblist">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-sm-9">
+                <table class="table ">
+                    <thead class="thead-default">
+                    <tr>
+
+                        <th style="text-align: center" colspan="4"><span>academic operation</span></th>
+
+                    </tr>
+                    </thead>
+
+                    <tbody>
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Educational-Liaison-43f1776b5141c18e?q=knovva+academy">Educational Liaison</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Educational-Project-Manager-14137bfcf3b0dda4?q=knovva+academy">Educational Project Manager</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Online-Learning-Specialist-e773ce5b769d3096?sjdu=QwrRXKrqZ3CNX5W-O9jEvXpd2dD8GEnwePFN02zM9O4H0tsgdy6ngwL9NMkS_IpJogovCHPXIDySlODMz_z9f04dpWXe_Lz0UPTMMphNsmQ">Online Learning Specialist</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+
+                    </tr>
+
+<!--                    <tr>-->
+<!--                        <td scope="row">Program Evaluation Intern</td>-->
+<!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
+<!---->
+<!--                    </tr>-->
 
 
-                <div class="col-md-4">
-                    <div style="background: url('img/dpt-executive.jpg') no-repeat center center;background-size:cover;"></div>
-                    <h4>executive</h4>
-                </div>
 
+
+                    </tbody>
+                </table>
+
+                <table class="table ">
+                    <thead class="thead-default">
+                    <tr>
+
+
+                        <th style="text-align: center" colspan="4"><span>administration</span></th>
+
+                    </tr>
+                    </thead>
+
+                    <tbody>
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Office-Admin-Assistant-e3c7401c8a0eb3d2?q=giant+bug+group">Office Admin Assistant</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+
+                    </tbody>
+                </table>
+            </div>
         </div>
 
     </div>
 </div>
-<hr>
+
 
 <!-- weloveour people -->
 <div class="loveourpeople">

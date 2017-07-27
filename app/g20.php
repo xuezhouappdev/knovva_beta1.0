@@ -36,19 +36,19 @@ include 'header.php'; ?>
                <div class="course-general-info">
                    <div class="row">
 
-                       <div class="col-sm-6 teacher-info">
-                           <div class="row">
-                               <div class="col-xs-3 teacher-image">
-                                   <img class="img figure-img" src="img/teacher-placeholder.jpg" width="50" height="50" >
-                               </div>
-
-                               <div class="col-xs-9 teacher-name">
-                                   <p>teacher</p>
-                                   <p><b>name</b></p>
-                               </div>
-                           </div>
-
-                       </div>
+<!--                       <div class="col-sm-6 teacher-info">-->
+<!--                           <div class="row">-->
+<!--                               <div class="col-xs-3 teacher-image">-->
+<!--                                   <img class="img figure-img" src="img/teacher-placeholder.jpg" width="50" height="50" >-->
+<!--                               </div>-->
+<!---->
+<!--                               <div class="col-xs-9 teacher-name">-->
+<!--                                   <p>teacher</p>-->
+<!--                                   <p><b>name</b></p>-->
+<!--                               </div>-->
+<!--                           </div>-->
+<!---->
+<!--                       </div>-->
 
                        <div class="col-sm-6 categories-info">
                            <p>subject</p>
@@ -71,7 +71,7 @@ include 'header.php'; ?>
                <div class="feature-wrapper">
                    <h4>course features</h4>
                    <ul class="list-unstyled">
-                       <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">May 29, 2016</span></h5></li>
+                       <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">july 29, 2017</span></h5></li>
                        <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">13 days</span></h5></li>
                        <li><h5><i class="fa fa-map-marker" aria-hidden="true"></i>location:<span class="pull-right"><a target="_blank" href="https://en.wikipedia.org/wiki/Qingdao">Qingdao, China</a></span></h5></li>
                        <li><h5><i class="fa fa-users" aria-hidden="true"></i>student:<span class="pull-right">23</span></h5></li>

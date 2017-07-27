@@ -815,6 +815,7 @@ html, body {
       a {
         text-decoration: underline;
         cursor: pointer;
+        color: #f2f2f2;
       }
     }
   }
@@ -880,9 +881,7 @@ html, body {
 
       }
 
-      &:hover {
-        cursor:pointer;
-      }
+
     }
 
     p {
@@ -949,6 +948,40 @@ html, body {
   }
 }
 
+
+.joblist {
+  text-align: center;
+  margin: 7rem 0 1rem;
+  .container {
+    p {
+      font-weight:400;
+    }
+
+    table {
+      margin-bottom: 3rem;
+
+      th{
+        background-color: rgba(236, 238, 239, 0.4);
+        border: none;
+        span {
+          font-weight: 400;
+        }
+      }
+
+      td{
+        border-bottom: 2px solid #eceeef;
+        border-top: none;
+        a{
+          cursor: pointer;
+          color: black;
+        }
+      }
+    }
+
+
+
+  }
+}
 /*
 ################
 5. Footer

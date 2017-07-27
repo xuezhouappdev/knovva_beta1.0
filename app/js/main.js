@@ -3,18 +3,18 @@
  */
 
     $("#scroll-cta").on('click', function(event) {
-        if(this.hash !=="") {
-            event.preventDefault();
+    if(this.hash !=="") {
+        event.preventDefault();
 
-            var hash = this.hash;
-            $('html, body').animate({
-                scrollTop: $(hash).offset().top - 40
-            }, 1000, function(){
-                // Add hash (#) to URL when done scrolling (default click behavior)
-                //window.location.hash = hash;
-            });
-        } //end if
-    });
+        var hash = this.hash;
+        $('html, body').animate({
+            scrollTop: $(hash).offset().top - 40
+        }, 1000, function(){
+            // Add hash (#) to URL when done scrolling (default click behavior)
+            //window.location.hash = hash;
+        });
+    } //end if
+});
 
 
 
@@ -192,9 +192,23 @@ $(function () {
  * career page  *********************************************************************************
  */
 
-   $('.department .container .row .col-md-4').click(function () {
-      window.location.href="/app/career.php#";
-   });
+//the js to control the get started!
+
+$("#career-start-btn").on('click', function(event) {
+    if(this.hash !=="") {
+        event.preventDefault();
+
+        var hash = this.hash;
+        $('html, body').animate({
+            scrollTop: $(hash).offset().top - 140
+        }, 1000, function(){
+            // Add hash (#) to URL when done scrolling (default click behavior)
+            //window.location.hash = hash;
+        });
+    } //end if
+});
+
+
 
 
 /**

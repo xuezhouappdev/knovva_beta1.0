@@ -49,7 +49,7 @@
             <p class="animated flipInX"><span >Knovva</span>&nbsp;<span>Academy</span> </p>
         </a>
 
-        <a class="hidden-md-up program-visible" style="cursor: p" href="#">
+        <a class="hidden-md-up program-visible" style="cursor: p" href="programs.php">
             <i class="fa fa-leanpub programsign" aria-hidden="true" ></i>
         </a>
 
