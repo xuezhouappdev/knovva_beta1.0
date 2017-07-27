@@ -8,7 +8,9 @@ var sourcemaps    = require('gulp-sourcemaps');
 gulp.task('serve', ['sass'], function() {
 
     browserSync.init({
-        proxy: "localhost:8888/knovva_beta1.0/app"
+        open: 'external',
+        proxy: "http://localhost:8888/knovva_beta1.0/app/",
+        port: 8088
     });
 
     gulp.watch("app/scss/*.scss", ['sass']);

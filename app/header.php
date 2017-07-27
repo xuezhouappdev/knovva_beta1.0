@@ -1,3 +1,8 @@
+<?php
+// Start the session
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,7 +77,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 <!--                        <a class="dropdown-item" href="index.php#whoweare">about</a>-->
                         <a class="dropdown-item" href="career.php">career</a>
-                        <a class="dropdown-item" href="#">contact</a>
+                        <a class="dropdown-item" href="contact.php">contact</a>
                     </div>
                 </li>
 

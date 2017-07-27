@@ -10,7 +10,7 @@ include 'header.php';
     <div class="career-slogan ">
         <div class="container">
             <h1 class="animated fadeInDown">education matters.</h1>
-            <p class="animated fadeIn infinite"><a href="#joblist" id="career-start-btn">get started  </a></p>
+            <p ><a href="#joblist" id="career-start-btn">get started  </a></p>
 
         </div>
     </div>
@@ -24,21 +24,17 @@ include 'header.php';
         </p>
 
 
-        <div class="row justify-content-center">
-
-
-                <div class="col-md-4" id="test" >
-                    <div style="background: url('img/dpt-academic.jpg') no-repeat center center;background-size: cover">
-                    </div>
-                    <h4>academic operations</h4>
-                </div>
-                <div id="test" class="col-md-4" >
-                    <div style="background: url('img/dpt-market.jpg') no-repeat bottom left;background-size:cover;">
-                    </div>
-                    <h4>administration</h4>
-                </div>
-
-        </div>
+<!--        <div class="row justify-content-center">-->
+<!---->
+<!---->
+<!--                <div class="col-md-4" id="test" >-->
+<!--                    <div style="background: url('img/dpt-academic.jpg') no-repeat center center;background-size: cover">-->
+<!--                    </div>-->
+<!--                    <h4>academic operations</h4>-->
+<!--                </div>-->
+<!---->
+<!---->
+<!--        </div>-->
 
 <!--        <div class="row">-->
 <!---->
@@ -72,6 +68,16 @@ include 'header.php';
 
         <div class="row justify-content-center">
             <div class="col-sm-9">
+
+                <div class="row justify-content-center">
+
+                    <div class="bd-image ">
+                        <div style="background: url('img/dpt-academic.jpg') no-repeat center center;background-size: cover">
+                        </div>
+                        <h4>academic operations</h4>
+                    </div>
+
+                </div>
                 <table class="table ">
                     <thead class="thead-default">
                     <tr>
@@ -111,6 +117,19 @@ include 'header.php';
 
                     </tbody>
                 </table>
+
+
+            <div class="row justify-content-center">
+
+                <div class="bd-image">
+                    <div style="background: url('img/dpt-market.jpg') no-repeat center center;background-size: cover">
+                    </div>
+                    <h4>administration</h4>
+                </div>
+
+            </div>
+
+
 
                 <table class="table ">
                     <thead class="thead-default">

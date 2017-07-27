@@ -200,7 +200,7 @@ $("#career-start-btn").on('click', function(event) {
 
         var hash = this.hash;
         $('html, body').animate({
-            scrollTop: $(hash).offset().top - 140
+            scrollTop: $(hash).offset().top - 100
         }, 1000, function(){
             // Add hash (#) to URL when done scrolling (default click behavior)
             //window.location.hash = hash;
