@@ -5,7 +5,7 @@ include 'header.php';
 
 
 <!--banner-->
-<div class="career-banner" style="">
+<div class="career-banner" >
 
     <div class="career-slogan ">
         <div class="container">
@@ -72,7 +72,7 @@ include 'header.php';
                 <div class="row justify-content-center">
 
                     <div class="bd-image ">
-                        <div style="background: url('img/dpt-academic.jpg') no-repeat center center;background-size: cover">
+                        <div style="background: url('img/dpt-academic.jpg') no-repeat top center;background-size: cover">
                         </div>
                         <h4>academic operations</h4>
                     </div>
@@ -116,13 +116,14 @@ include 'header.php';
 
 
                     </tbody>
+
                 </table>
 
 
             <div class="row justify-content-center">
 
                 <div class="bd-image">
-                    <div style="background: url('img/dpt-market.jpg') no-repeat center center;background-size: cover">
+                    <div style="background: url('img/dpt-admin.jpg') no-repeat center center;background-size: cover">
                     </div>
                     <h4>administration</h4>
                 </div>

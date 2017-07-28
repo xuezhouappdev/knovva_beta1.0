@@ -1458,15 +1458,16 @@ footer {
 */
 
 .contact-banner {
-  background: url('../img/bostonmap.jpg') top center no-repeat;
+
   background-size: cover;
   height: 40vh;
+  position: relative;
+  background-attachment: fixed;
 
   [class*='col-'] {
     h1 {
       color: white;
       margin-top: 15vh;
-
 
     }
 
@@ -1478,14 +1479,24 @@ footer {
 }
 
 .contact-form-wrapper {
-   margin: 36px 0;
+   margin: 0;
 
   .container {
+    input::-webkit-input-placeholder,textarea::-webkit-input-placeholder {
+       color: #cbcbcb !important;
+       font-weight: 100;
+
+     }
+
+    label{
+      color: red;
+    }
 
     .contact-submit {
       background: #3C99D8;
       border: none;
       cursor: pointer;
+
     }
   }
 }

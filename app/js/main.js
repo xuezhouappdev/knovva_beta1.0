@@ -217,6 +217,9 @@ $("#career-start-btn").on('click', function(event) {
 
     $(function(){
         new WOW().init();
+
+        $(window).stellar();
+
     });
 
 
@@ -228,7 +231,50 @@ programs.eq(0).click(function(){
 
 });
 
-programs.eq(1).click(function(){
-    window.location.href="http://www.knovva.com";
+/**
+ * contact page  *********************************************************************************
+ */
+
+
+$(function(){
+    var contactform = $("#contact-form");
+    contactform.validate({
+        rules:{
+            firstname:{
+              required:true
+            },
+            lastname:{
+                required:true
+            },
+            mobile:{
+                number:true
+            }
+        }
+    });
+
+    contactform.validate({
+        submitHandler: function(form) {
+            form.submit();
+        }
+    });
+
 
 });
+
+
+
+
+// if (contactform.valid()){
+//
+//         // swal({
+//         //     title: 'jQuery HTML example',
+//         //     html: $('<div>')
+//         //         .addClass('some-class')
+//         //         .text('jQuery is everywhere.'),
+//         //     animation: false,
+//         //     customClass: 'animated tada'
+//         // });
+//
+//     alert("pass");
+//
+// }

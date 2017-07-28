@@ -33,7 +33,7 @@ include 'header.php';
                     <div class="p-image-wrapper" style="background:url('img/index-g20.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
-                            <h4>Model G20</h4>
+                            <h4>Model G20 summer program</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>07-24-2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>2 day</h6>
 
 
@@ -42,8 +42,8 @@ include 'header.php';
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-                       <h6>political science, international affairs </h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>
+<!--                       <h6>political science, international affairs </h6>-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
                     </div>
 
                 </div>
@@ -60,14 +60,17 @@ include 'header.php';
                     <div class="p-image-wrapper" style="background:url('img/index-sie.svg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
                             <h4>social impact and entrepreneurship</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>07-24-2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>2 day</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;
+<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
+                            </h6>
                         </div>
                     </div>
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-                        <h6>business, social science </h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>
+<!--                        <h6>business, social science </h6>-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
                     </div>
 
                 </div>
@@ -97,8 +100,8 @@ include 'header.php';
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-                        <h6>literature, fiction</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>
+<!--                        <h6>literature, fiction</h6>-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
                     </div>
 
                 </div>
@@ -112,9 +115,9 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/cover-entrepreneurship.jpg') top center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/reading-group.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
-                            <h4>social impact and entrepreneurship</h4>
+                            <h4>the innovation reading group</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;
 <!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
 <!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
@@ -124,8 +127,8 @@ include 'header.php';
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-                        <h6>business, social science </h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>
+<!--                        <h6>business, social science </h6>-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
                     </div>
 
                 </div>

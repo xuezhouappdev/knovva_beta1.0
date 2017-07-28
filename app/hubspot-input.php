@@ -1,13 +1,14 @@
 <?php
 //Process a new form submission in HubSpot in order to create a new Contact.
 
-$hubspotutk      = $_COOKIE['hubspotutk']; //grab the cookie from the visitors browser.
+//$hubspotutk      = $_COOKIE['hubspotutk']; //grab the cookie from the visitors browser.
 $ip_addr         = $_SERVER['REMOTE_ADDR']; //IP address too.
 $hs_context      = array(
-    'hutk' => $hubspotutk,
-    'ipAddress' => $ip_addr,
-    'pageUrl' => 'http://dev.knovva.com/app/contact.php',
-    'pageName' => 'contact page | Knovva Academy'
+    //'hutk'         => $hubspotutk,
+    'ipAddress'    => $ip_addr,
+    'pageUrl'      => 'http://dev.knovva.com/app/contact.php',
+    'pageName'     => 'contact page | Knovva Academy',
+    "redirectUrl"  =>"http://demo.hubapi.com/thank-you/"
 );
 $hs_context_json = json_encode($hs_context);
 
@@ -40,7 +41,7 @@ if(isset($_POST['submit'])) {
     $response    = @curl_exec($ch); //Log the response from HubSpot as needed.
     $status_code = @curl_getinfo($ch, CURLINFO_HTTP_CODE); //Log the response status code
     @curl_close($ch);
-    echo $status_code . " " . $response;
+    //echo $status_code . " " . $response;
 
 
 
@@ -51,7 +52,7 @@ else {
 }
 
 
-//header('Location: http://dev.knovva.com/contact.php');
-//exit;
+header('Location: http://www.knovva.com/thankyou.php');
+exit;
 
 

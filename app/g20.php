@@ -3,13 +3,13 @@ include 'header.php'; ?>
 
 
 <!--g20-banner-->
-<div class="g20-banner">
+<div class="g20-banner"   >
     <div class="container">
 
         <div class="g20-slogan animated fadeInDown">
 
             <div class="row justify-content-center">
-                <h2 class="">Model G20 summer program</h2>
+                <h2 >Model G20 summer program</h2>
             </div>
 
             <div class="row justify-content-center">
