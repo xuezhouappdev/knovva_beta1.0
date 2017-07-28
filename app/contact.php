@@ -4,7 +4,7 @@ include 'header.php';
 ?>
 
 
-<div class="contact-banner"  style="background: url('img/boston.jpg') center center no-repeat;background-size: cover;" >
+<div class="contact-banner"  style="background: url('img/boston.jpg') 0 300px no-repeat;background-size: cover;" data-stellar-background-ratio="0.5">
     <div class="container">
        <div class="row justify-content-start">
            <div class="col-md-5">
