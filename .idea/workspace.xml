@@ -2,31 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/boston.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bostonmap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/svg/test.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/test.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.slim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.slim.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.slim.min.map" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-academic.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-academic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/dpt-admin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/reading-group.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery_validation/additional-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery_validation/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/jquery_validation/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/stellarjs/jquery.stellar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/stellarjs/jquery.stellar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/sweetalert2/dist/sweetalert2.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/sweetalert2/dist/sweetalert2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/sweetalert2/dist/sweetalert2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/sweetalert2/dist/sweetalert2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/vendor/sweetalert2/dist/sweetalert2.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/career.php" afterPath="$PROJECT_DIR$/app/career.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.php" afterPath="$PROJECT_DIR$/app/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/footer.php" afterPath="$PROJECT_DIR$/app/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/g20.php" afterPath="$PROJECT_DIR$/app/g20.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/hubspot-input.php" afterPath="$PROJECT_DIR$/app/hubspot-input.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/programs.php" afterPath="$PROJECT_DIR$/app/programs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +34,7 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10905">
+            <state relative-caret-position="0">
               <caret line="1460" column="0" lean-forward="false" selection-start-line="1460" selection-start-column="0" selection-end-line="1460" selection-end-column="0" />
               <folding>
                 <element signature="e#1280#1671#0" expanded="false" />
@@ -86,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contact.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -96,12 +85,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main.js">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3150">
-              <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="programs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/programs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="117" column="89" lean-forward="false" selection-start-line="117" selection-start-column="89" selection-end-line="117" selection-end-column="89" />
+              <folding>
+                <marker date="1501183494000" expanded="false" signature="4047:4076" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,11 +212,11 @@
         <option value="$PROJECT_DIR$/app/hubspot-input.php" />
         <option value="$PROJECT_DIR$/app/vendor/jquery/dist/jquery.js" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
-        <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/career.php" />
         <option value="$PROJECT_DIR$/app/g20.php" />
         <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/contact.php" />
+        <option value="$PROJECT_DIR$/app/footer.php" />
       </list>
     </option>
   </component>
@@ -220,8 +231,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="31" />
+    <option name="x" value="46" />
+    <option name="y" value="23" />
     <option name="width" value="1168" />
     <option name="height" value="713" />
   </component>
@@ -300,94 +311,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parallax.js-1.4.2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parallax.js-1.4.2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parallax.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -404,19 +327,19 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/vendor/jquery" />
-      <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
-      <recent name="$PROJECT_DIR$/app/vendor/sweetalert2" />
-      <recent name="$PROJECT_DIR$/app/img" />
-      <recent name="$PROJECT_DIR$/app/vendor/wowjs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/vendor/jquery" />
       <recent name="$PROJECT_DIR$/app/vendor/stellarjs" />
       <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
       <recent name="$PROJECT_DIR$/app/img" />
       <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/vendor" />
+      <recent name="$PROJECT_DIR$/app/vendor/jquery" />
+      <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
+      <recent name="$PROJECT_DIR$/app/vendor/sweetalert2" />
+      <recent name="$PROJECT_DIR$/app/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -511,7 +434,7 @@
       <workItem from="1501165733697" duration="5214000" />
       <workItem from="1501182731333" duration="4898000" />
       <workItem from="1501189422358" duration="4745000" />
-      <workItem from="1501199564562" duration="529000" />
+      <workItem from="1501199564562" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="modified poscition sticky">
       <created>1500086893349</created>
@@ -821,11 +744,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501166945608</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="updated career and contact">
+      <created>1501203071540</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1501203071540</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227305000" />
+    <option name="totallyTimeSpent" value="228075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -837,16 +767,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="31" width="1168" height="713" extended-state="0" />
+    <frame x="46" y="23" width="1168" height="713" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4119217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4119217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28985506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3542673" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3542673" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -854,7 +785,6 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28985506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -924,11 +854,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/img/slider1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/vendor/bootstrap4.00/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1770">
@@ -1127,6 +1052,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63000">
           <caret line="4200" column="12" lean-forward="false" selection-start-line="4200" selection-start-column="12" selection-end-line="4200" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,27 +1087,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/vendor/jquery_validation/dist/localization/messages_az" />
-    <entry file="file://$PROJECT_DIR$/app/programs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="117" column="89" lean-forward="false" selection-start-line="117" selection-start-column="89" selection-end-line="117" selection-end-column="89" />
-          <folding>
-            <marker date="1501183494000" expanded="false" signature="4047:4076" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/img/dpt-academic.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/hubspot-input.php">
@@ -1220,25 +1128,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10905">
+        <state relative-caret-position="0">
           <caret line="1460" column="0" lean-forward="false" selection-start-line="1460" selection-start-column="0" selection-end-line="1460" selection-end-column="0" />
           <folding>
             <element signature="e#1280#1671#0" expanded="false" />
@@ -1282,6 +1174,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/programs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="117" column="89" lean-forward="false" selection-start-line="117" selection-start-column="89" selection-end-line="117" selection-end-column="89" />
+          <folding>
+            <marker date="1501183494000" expanded="false" signature="4047:4076" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vendor/jquery/dist/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="162" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
