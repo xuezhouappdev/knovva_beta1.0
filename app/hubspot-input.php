@@ -7,8 +7,8 @@ $hs_context      = array(
     //'hutk'         => $hubspotutk,
     'ipAddress'    => $ip_addr,
     'pageUrl'      => 'http://dev.knovva.com/app/contact.php',
-    'pageName'     => 'contact page | Knovva Academy',
-    "redirectUrl"  =>"http://demo.hubapi.com/thank-you/"
+    'pageName'     => 'contact page | Knovva Academy'
+//    "redirectUrl"  =>"http://demo.hubapi.com/thank-you/"
 );
 $hs_context_json = json_encode($hs_context);
 
@@ -16,7 +16,7 @@ $hs_context_json = json_encode($hs_context);
 
 //Need to populate these variable with values from the form.
 
-if(isset($_POST['submit'])) {
+if(isset($_POST['email'])) {
     $str_post = "firstname=" . urlencode($_POST['firstname'])
         . "&lastname=" . urlencode($_POST['lastname'])
         . "&email=" . urlencode($_POST['email'])
@@ -41,18 +41,17 @@ if(isset($_POST['submit'])) {
     $response    = @curl_exec($ch); //Log the response from HubSpot as needed.
     $status_code = @curl_getinfo($ch, CURLINFO_HTTP_CODE); //Log the response status code
     @curl_close($ch);
+
     //echo $status_code . " " . $response;
 
+    echo "swal(\"Success!\", \"Message sent!\", \"success\");";
 
 
 }
 
 else {
-    echo "not passed";
+    echo "swal(\"no!\", \"Message sent!\", \"success\");";
 }
 
-
-header('Location: http://www.knovva.com/thankyou.php');
-exit;
 
 

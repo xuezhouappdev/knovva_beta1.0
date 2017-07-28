@@ -51,6 +51,7 @@ session_start();
     <div class="container">
         <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars burgericon" aria-hidden="true"></i>
+
         </button>
 
         <a class="navbar-brand" href="index.php">
@@ -60,6 +61,7 @@ session_start();
 
         <a class="hidden-md-up program-visible" style="cursor: p" href="programs.php">
             <i class="fa fa-leanpub programsign" aria-hidden="true" ></i>
+
         </a>
 
         <div class="collapse navbar-collapse" id="navbarNavDropdown">

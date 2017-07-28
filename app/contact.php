@@ -4,12 +4,12 @@ include 'header.php';
 ?>
 
 
-<div class="contact-banner"  style="background: url('img/boston.jpg') 0 300px no-repeat;background-size: cover;" data-stellar-background-ratio="0.5">
+<div class="contact-banner"  style="background: url('img/telegraph.jpg') center center no-repeat;background-size: cover; "  >
     <div class="container">
        <div class="row justify-content-start">
            <div class="col-md-5">
                <h1 >get in touch</h1>
-               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+<!--               <p>we are looking forward to your  </p>-->
            </div>
        </div>
     </div>
@@ -23,7 +23,7 @@ include 'header.php';
             <div class="col-md-7">
                 <div class="form-area">
 
-                    <form role="form" method="POST" action="hubspot-input.php" novalidate id="contact-form">
+                    <form role="form"  novalidate id="contact-form"  >
                         <br style="clear:both">
 
                         <div class="form-group">

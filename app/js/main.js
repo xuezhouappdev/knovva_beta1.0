@@ -252,29 +252,43 @@ $(function(){
         }
     });
 
-    contactform.validate({
-        submitHandler: function(form) {
-            form.submit();
+
+
+    contactform.on('submit',function(e) {  //Don't foget to change the id form
+
+        if(contactform.valid() ){
+            $.ajax({
+                url:'../app/hubspot-input.php', //===PHP file name====
+                data:$(this).serialize(),
+                type:'POST',
+                success:function(data){
+                    console.log(data);
+                    //Success Message == 'Title', 'Message body', Last one leave as it is
+                    swal("Congratulations.", "Your message has been sent :)", "success");
+                },
+                error:function(){
+                    //Error Message == 'Title', 'Message body', Last one leave as it is
+                    swal("Oops...", "Something went wrong :(", "error");
+                }
+            });
+            e.preventDefault(); //This is to Avoid Page Refresh and Fire the Event "Click"
         }
+
     });
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 });
 
 
-
-
-// if (contactform.valid()){
-//
-//         // swal({
-//         //     title: 'jQuery HTML example',
-//         //     html: $('<div>')
-//         //         .addClass('some-class')
-//         //         .text('jQuery is everywhere.'),
-//         //     animation: false,
-//         //     customClass: 'animated tada'
-//         // });
-//
-//     alert("pass");
-//
-// }
