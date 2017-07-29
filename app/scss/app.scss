@@ -24,6 +24,7 @@ html, body {
 /* ==========================================================================
 2.1 Nav Bar
 ========================================================================== */
+/* customzed icon from icomoon*/
 @font-face {
   font-family: 'icomoon';
   src:  url('../assets/fonts/icomoon.eot?moi1u2');
@@ -36,7 +37,7 @@ html, body {
 }
 
 [class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
+  /* customzed icon from icomoon*/
   font-family: 'icomoon' !important;
   speak: none;
   font-style: normal;
@@ -410,7 +411,6 @@ html, body {
                     }
             }
         }
-
              .controller {
                   position: absolute;
                   top: 70px;
@@ -676,8 +676,7 @@ html, body {
 }//features
 
 
-
-/* ==========================================================================
+/* =========================================================================
 3.4 feature programs
 ========================================================================== */
 
@@ -1465,18 +1464,30 @@ footer {
   height: 45vh;
   position: relative;
   background-attachment: fixed;
+  @media screen and(max-width: 576px){
+    height: 60vh;
+  }
 
   [class*='col-'] {
     h1 {
       color: white;
       margin-top: 17vh;
 
+      @media screen and(max-width: 576px){
+        text-align: center;
+        font-size: 2rem;
+        margin-top: 25vh;
+      }
     }
 
     p{
       color: #d8d8d8;
     }
+
+
   }
+
+
 
 }
 
@@ -1485,6 +1496,12 @@ footer {
    padding: 2rem;
 
   .container {
+    input#lastname{
+      @media screen and(max-width: 576px){
+        margin-top: 1rem;
+      }
+    }
+
     input::-webkit-input-placeholder,textarea::-webkit-input-placeholder,input::-webkit-input-placeholder,textarea::-webkit-input-placeholder {
         color: #cbcbcb !important;
         font-weight: 200;
