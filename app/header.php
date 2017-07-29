@@ -19,20 +19,14 @@ session_start();
     <!-- Animated -->
     <link rel="stylesheet" href="vendor/animate/animate.min.css">
 
-
     <!--fancybox-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
 
     <!--sweeralert-->
     <link rel="stylesheet" href="vendor/sweetalert2/dist/sweetalert2.min.css" />
 
-
-
-
     <!-- Costom CSS This file is converted from scss-->
     <link rel="stylesheet" href="./css/app.css">
-
-
 
 
     <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -42,6 +36,10 @@ session_start();
     <![endif]-->
 </head>
 
+<style>
+
+
+</style>
 
 <body>
 
@@ -50,7 +48,8 @@ session_start();
 <nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded" id="mynav">
     <div class="container">
         <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fa fa-bars burgericon" aria-hidden="true"></i>
+<!--            <i class="fa fa-bars burgericon" aria-hidden="true"></i>-->
+            <span class="icon-burger">&#xe900;</span>
 
         </button>
 

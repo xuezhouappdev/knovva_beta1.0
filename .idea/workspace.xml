@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/knovva_beta1.0.iml" afterPath="$PROJECT_DIR$/.idea/knovva_beta1.0.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/career.php" afterPath="$PROJECT_DIR$/app/career.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.php" afterPath="$PROJECT_DIR$/app/contact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/hubspot-input.php" afterPath="$PROJECT_DIR$/app/hubspot-input.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/programs.php" afterPath="$PROJECT_DIR$/app/programs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
@@ -24,67 +20,67 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="knovva_beta1.0" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1488" column="141" lean-forward="false" selection-start-line="1488" selection-start-column="141" selection-end-line="1488" selection-end-column="141" />
+            <state relative-caret-position="200">
+              <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               <folding>
-                <element signature="e#1280#1671#0" expanded="false" />
-                <element signature="e#2318#3122#0" expanded="false" />
-                <element signature="e#3250#3279#0" expanded="false" />
-                <element signature="e#3341#3398#0" expanded="false" />
-                <element signature="e#3538#4174#0" expanded="false" />
-                <element signature="e#3724#4145#0" expanded="false" />
-                <element signature="e#4245#4344#0" expanded="false" />
-                <element signature="e#4348#4413#0" expanded="false" />
-                <element signature="e#6234#6399#0" expanded="false" />
-                <element signature="e#8058#13624#0" expanded="false" />
-                <element signature="e#11138#12250#0" expanded="false" />
-                <element signature="e#11536#12204#0" expanded="false" />
-                <element signature="e#12416#12892#0" expanded="false" />
-                <element signature="e#13008#13546#0" expanded="false" />
-                <element signature="e#13052#13529#0" expanded="false" />
-                <element signature="e#13834#13928#0" expanded="false" />
-                <element signature="e#14238#14474#0" expanded="false" />
-                <element signature="e#14487#14723#0" expanded="false" />
-                <element signature="e#15567#15734#0" expanded="false" />
-                <element signature="e#18145#18309#0" expanded="false" />
-                <element signature="e#18423#18602#0" expanded="false" />
-                <element signature="e#18619#18924#0" expanded="false" />
-                <element signature="e#19046#19385#0" expanded="false" />
-                <element signature="e#20637#21034#0" expanded="false" />
-                <element signature="e#21417#21591#0" expanded="false" />
-                <element signature="e#24251#25073#0" expanded="false" />
-                <element signature="e#25083#26703#0" expanded="false" />
-                <element signature="e#25800#25848#0" expanded="false" />
-                <element signature="e#25862#26267#0" expanded="false" />
-                <element signature="e#26722#27409#0" expanded="false" />
-                <element signature="e#27430#27668#0" expanded="false" />
+                <element signature="e#2030#2421#0" expanded="false" />
+                <element signature="e#3068#3872#0" expanded="false" />
+                <element signature="e#4000#4029#0" expanded="false" />
+                <element signature="e#4301#4937#0" expanded="false" />
+                <element signature="e#4487#4908#0" expanded="false" />
+                <element signature="e#5008#5107#0" expanded="false" />
+                <element signature="e#5111#5176#0" expanded="false" />
+                <element signature="e#6997#7162#0" expanded="false" />
+                <element signature="e#8812#14378#0" expanded="false" />
+                <element signature="e#11892#13004#0" expanded="false" />
+                <element signature="e#12290#12958#0" expanded="false" />
+                <element signature="e#13170#13646#0" expanded="false" />
+                <element signature="e#13762#14300#0" expanded="false" />
+                <element signature="e#13806#14283#0" expanded="false" />
+                <element signature="e#14588#14682#0" expanded="false" />
+                <element signature="e#14992#15228#0" expanded="false" />
+                <element signature="e#15241#15477#0" expanded="false" />
+                <element signature="e#16310#16477#0" expanded="false" />
+                <element signature="e#18888#19052#0" expanded="false" />
+                <element signature="e#19166#19345#0" expanded="false" />
+                <element signature="e#19362#19667#0" expanded="false" />
+                <element signature="e#19789#20128#0" expanded="false" />
+                <element signature="e#21380#21777#0" expanded="false" />
+                <element signature="e#22160#22334#0" expanded="false" />
+                <element signature="e#24994#25816#0" expanded="false" />
+                <element signature="e#25826#27446#0" expanded="false" />
+                <element signature="e#26543#26591#0" expanded="false" />
+                <element signature="e#26605#27010#0" expanded="false" />
+                <element signature="e#27465#28152#0" expanded="false" />
+                <element signature="e#28173#28411#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="254" column="0" lean-forward="true" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+            <state relative-caret-position="3810">
+              <caret line="254" column="0" lean-forward="false" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -112,7 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>coming</find>
       <find>get s</find>
       <find>conta</find>
       <find>class</find>
@@ -142,6 +137,7 @@
       <find>06</find>
       <find>contact-form-wrapper</find>
       <find>we</find>
+      <find>icon</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -195,12 +191,12 @@
         <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/img/burger-sign.svg" />
-        <option value="$PROJECT_DIR$/app/header.php" />
         <option value="$PROJECT_DIR$/app/career.php" />
-        <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/contact.php" />
         <option value="$PROJECT_DIR$/app/hubspot-input.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/header.php" />
+        <option value="$PROJECT_DIR$/app/scss/app.scss" />
       </list>
     </option>
   </component>
@@ -215,8 +211,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="47" />
-    <option name="y" value="23" />
+    <option name="x" value="65" />
+    <option name="y" value="45" />
     <option name="width" value="1168" />
     <option name="height" value="713" />
   </component>
@@ -254,7 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,99 +277,9 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,19 +293,19 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/fonts" />
+      <recent name="$PROJECT_DIR$/app/vendor" />
+      <recent name="$PROJECT_DIR$/app/vendor/jquery" />
+      <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
+      <recent name="$PROJECT_DIR$/app/vendor/sweetalert2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/img" />
       <recent name="$PROJECT_DIR$/app/vendor/jquery" />
       <recent name="$PROJECT_DIR$/app/vendor/stellarjs" />
       <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
       <recent name="$PROJECT_DIR$/app" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/vendor" />
-      <recent name="$PROJECT_DIR$/app/vendor/jquery" />
-      <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
-      <recent name="$PROJECT_DIR$/app/vendor/sweetalert2" />
-      <recent name="$PROJECT_DIR$/app/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -494,7 +400,8 @@
       <workItem from="1501165733697" duration="5214000" />
       <workItem from="1501182731333" duration="4898000" />
       <workItem from="1501189422358" duration="4745000" />
-      <workItem from="1501199564562" duration="10158000" />
+      <workItem from="1501199564562" duration="10374000" />
+      <workItem from="1501272751995" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="modified poscition sticky">
       <created>1500086893349</created>
@@ -825,11 +732,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501247209897</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="updated the contact form with HB">
+      <created>1501269327901</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1501269327901</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236934000" />
+    <option name="totallyTimeSpent" value="239887000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -841,24 +755,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="23" width="1168" height="713" extended-state="0" />
+    <frame x="65" y="45" width="1168" height="713" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34341636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34964412" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28985506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3542673" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28985506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -896,7 +810,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated reposnsiveness" />
     <MESSAGE value="fixed career page: positions links" />
     <MESSAGE value="updated animation" />
     <MESSAGE value="updated animation and burger sign" />
@@ -921,7 +834,8 @@
     <MESSAGE value="updated career and contact" />
     <MESSAGE value="0727" />
     <MESSAGE value="added para on the program pgae" />
-    <option name="LAST_COMMIT_MESSAGE" value="added para on the program pgae" />
+    <MESSAGE value="updated the contact form with HB" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the contact form with HB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1159,13 +1073,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/jquery/jquery-3.2.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vendor/jquery/jquery-3.2.0.js" />
     <entry file="file://$PROJECT_DIR$/app/vendor/jquery/dist/jquery.js" />
     <entry file="file://$PROJECT_DIR$/app/g20.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -1179,7 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1191,20 +1098,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/career.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <marker date="1501250593000" expanded="false" signature="1456:1543" ph="..." />
             <marker date="1501250593000" expanded="false" signature="1720:1808" ph="..." />
             <marker date="1501250593000" expanded="false" signature="1995:2082" ph="..." />
@@ -1225,59 +1123,7 @@
         <state relative-caret-position="180">
           <caret line="36" column="86" lean-forward="false" selection-start-line="36" selection-start-column="86" selection-end-line="36" selection-end-column="86" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
             <marker date="1501248978000" expanded="false" signature="4180:4209" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1488" column="141" lean-forward="false" selection-start-line="1488" selection-start-column="141" selection-end-line="1488" selection-end-column="141" />
-          <folding>
-            <element signature="e#1280#1671#0" expanded="false" />
-            <element signature="e#2318#3122#0" expanded="false" />
-            <element signature="e#3250#3279#0" expanded="false" />
-            <element signature="e#3341#3398#0" expanded="false" />
-            <element signature="e#3538#4174#0" expanded="false" />
-            <element signature="e#3724#4145#0" expanded="false" />
-            <element signature="e#4245#4344#0" expanded="false" />
-            <element signature="e#4348#4413#0" expanded="false" />
-            <element signature="e#6234#6399#0" expanded="false" />
-            <element signature="e#8058#13624#0" expanded="false" />
-            <element signature="e#11138#12250#0" expanded="false" />
-            <element signature="e#11536#12204#0" expanded="false" />
-            <element signature="e#12416#12892#0" expanded="false" />
-            <element signature="e#13008#13546#0" expanded="false" />
-            <element signature="e#13052#13529#0" expanded="false" />
-            <element signature="e#13834#13928#0" expanded="false" />
-            <element signature="e#14238#14474#0" expanded="false" />
-            <element signature="e#14487#14723#0" expanded="false" />
-            <element signature="e#15567#15734#0" expanded="false" />
-            <element signature="e#18145#18309#0" expanded="false" />
-            <element signature="e#18423#18602#0" expanded="false" />
-            <element signature="e#18619#18924#0" expanded="false" />
-            <element signature="e#19046#19385#0" expanded="false" />
-            <element signature="e#20637#21034#0" expanded="false" />
-            <element signature="e#21417#21591#0" expanded="false" />
-            <element signature="e#24251#25073#0" expanded="false" />
-            <element signature="e#25083#26703#0" expanded="false" />
-            <element signature="e#25800#25848#0" expanded="false" />
-            <element signature="e#25862#26267#0" expanded="false" />
-            <element signature="e#26722#27409#0" expanded="false" />
-            <element signature="e#27430#27668#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1292,8 +1138,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="254" column="0" lean-forward="true" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+        <state relative-caret-position="3810">
+          <caret line="254" column="0" lean-forward="false" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="e#2030#2421#0" expanded="false" />
+            <element signature="e#3068#3872#0" expanded="false" />
+            <element signature="e#4000#4029#0" expanded="false" />
+            <element signature="e#4301#4937#0" expanded="false" />
+            <element signature="e#4487#4908#0" expanded="false" />
+            <element signature="e#5008#5107#0" expanded="false" />
+            <element signature="e#5111#5176#0" expanded="false" />
+            <element signature="e#6997#7162#0" expanded="false" />
+            <element signature="e#8812#14378#0" expanded="false" />
+            <element signature="e#11892#13004#0" expanded="false" />
+            <element signature="e#12290#12958#0" expanded="false" />
+            <element signature="e#13170#13646#0" expanded="false" />
+            <element signature="e#13762#14300#0" expanded="false" />
+            <element signature="e#13806#14283#0" expanded="false" />
+            <element signature="e#14588#14682#0" expanded="false" />
+            <element signature="e#14992#15228#0" expanded="false" />
+            <element signature="e#15241#15477#0" expanded="false" />
+            <element signature="e#16310#16477#0" expanded="false" />
+            <element signature="e#18888#19052#0" expanded="false" />
+            <element signature="e#19166#19345#0" expanded="false" />
+            <element signature="e#19362#19667#0" expanded="false" />
+            <element signature="e#19789#20128#0" expanded="false" />
+            <element signature="e#21380#21777#0" expanded="false" />
+            <element signature="e#22160#22334#0" expanded="false" />
+            <element signature="e#24994#25816#0" expanded="false" />
+            <element signature="e#25826#27446#0" expanded="false" />
+            <element signature="e#26543#26591#0" expanded="false" />
+            <element signature="e#26605#27010#0" expanded="false" />
+            <element signature="e#27465#28152#0" expanded="false" />
+            <element signature="e#28173#28411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
