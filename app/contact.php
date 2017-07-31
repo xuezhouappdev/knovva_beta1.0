@@ -1,7 +1,10 @@
 <?php
+$pageTitle="contact | Knovva Academy";
+
 include 'header.php';
 
 ?>
+
 
 
 <div class="contact-banner"  style="background: url('img/telegraph.jpg') center center no-repeat;background-size: cover; "  >

@@ -1,4 +1,5 @@
 <?php
+$pageTitle="home | Knovva Academy";
 include 'header.php';
 ?>
 
@@ -110,7 +111,9 @@ include 'header.php';
 
                                 <a data-fancybox href="https://youtu.be/FE0rKL_HvbQ">
                                     <div  class="videodiv">
-                                        <img class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer">
+                                        <img onmouseover="this.src='img/600p.gif'"
+                                             onmouseout="this.src='img/gif-static.gif'"class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer">
+
                                     </div>
                                 </a>
 

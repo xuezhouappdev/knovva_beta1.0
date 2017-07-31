@@ -1,6 +1,7 @@
 <?php
 // Start the session
 session_start();
+
 ?>
 
 <!DOCTYPE html>
@@ -12,7 +13,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!--    <link rel="icon" href="img/favicon.ico">-->
     <link rel="icon" href="favicon.png" type="image/x-icon">
-    <title>Knovva Academy</title>
+    <title><?php echo $pageTitle; ?></title>
 
     <!-- Font Awesome Icons -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -59,7 +60,7 @@ session_start();
             <p class="animated flipInX"><span >Knovva</span>&nbsp;<span>Academy</span> </p>
         </a>
 
-        <a class="hidden-md-up program-visible" style="cursor: p" href="programs.php">
+        <a class="hidden-md-up program-visible" style="cursor: pointer" href="programs.php">
             <i class="fa fa-leanpub programsign" aria-hidden="true" ></i>
 
         </a>
