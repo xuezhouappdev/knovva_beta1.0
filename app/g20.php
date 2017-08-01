@@ -61,7 +61,7 @@ include 'header.php'; ?>
 
 
                <h5>about the course</h5>
-               <p>The Global Sustainability in Action program is intended to provide a local look at the global issues addressed at the 2017 Model G20 Youth Leadership Summit held this past winter in Cambridge, MA. Model G20 was organized to support high schools to learn about international relations, politics, and to open students' minds to future academic and professional paths. While the Summit focused on macroeconomics and global sustainability, the summer program invites students to consider the microeconomic factors that shape global realities on a local level.</p>
+               <p>The Global Sustainability in Action program is intended to provide a local look at the global issues addressed during the 2017 Model G20 Youth Leadership Summit held this past winter in Cambridge, MA. The Model G20 series was organized to support high school students in their learning of international relations and politics while opening doors to future academic and professional paths. While the main Summit focused on macroeconomics and global sustainability, the summer program invites students to consider the factors that shape global realities on a local level.</p>
                <h5>making an impact</h5>
                <p>As a culminating project for the Global Sustainability in Action program, students will be tasked to tell a story expressing an element of the environment they wish to impact through the lens of a politician, global citizen, or future scientist. Students will be provided with tools necessary to research, build a case, present their findings and tell this story, giving students the platform they need to create change in a local community, for the betterment of the world as a whole.</p>
 
@@ -79,7 +79,7 @@ include 'header.php'; ?>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>level:<span class="pull-right">year 9 - 12</span></h5></li>
                    </ul>
                    <h5>course price: $2998</h5>
-                   <a class="enroll-btn">enroll the course</a>
+                   <a class="enroll-btn">enrollment has ended</a>
 
                </div>
            </div>

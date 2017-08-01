@@ -1453,30 +1453,34 @@ footer {
 
 /*
 ################
-8. Contact page
+8. Contact model
 ################
 */
 
 .contact-banner {
 
-
   background-size: cover;
-  height: 45vh;
+  height: 35vh;
+  text-align: center;
   position: relative;
   background-attachment: fixed;
+
   @media screen and(max-width: 576px){
-    height: 60vh;
+    height: 23vh;
   }
 
   [class*='col-'] {
-    h1 {
+
+    h3 {
       color: white;
-      margin-top: 17vh;
+      margin-top: 15vh;
+      text-align: center;
+
 
       @media screen and(max-width: 576px){
-        text-align: center;
-        font-size: 2rem;
-        margin-top: 25vh;
+
+        margin-top: 9vh;
+        font-size: 1rem;
       }
     }
 
@@ -1522,4 +1526,12 @@ footer {
 
     }
   }
+}
+
+#myModal .modal-dialog {
+  @media screen and (min-width: 576px){
+    max-width: 650px;
+    margin: 30px auto;
+  }
+
 }

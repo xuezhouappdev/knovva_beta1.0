@@ -103,7 +103,7 @@ session_start();
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">contact</h5>
+                <h5 class="modal-title" id="exampleModalLabel"></h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -112,6 +112,17 @@ session_start();
             <div class="modal-body">
                 <div class="contact-form-wrapper jumbotron" >
                     <div class="container">
+
+                        <div class="contact-banner"  style="background: url('img/telegraph.jpg') center center no-repeat;background-size: cover; "  >
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="col-md-12">
+                                        <h3 >get in touch</h3>
+                                        <!--               <p>we are looking forward to your  </p>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="row justify-content-center">
                             <div class="col-md-12">
