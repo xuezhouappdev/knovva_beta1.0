@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ehost-production" uploadOnCheckin="89da7a51-a570-41fe-a4ad-0d4e3b4b8c86">
+  <component name="PublishConfigData" serverName="ehost-production" uploadOnCheckin="c4b92029-6a3a-432f-9312-cabc7a449408">
     <serverData>
       <paths name="ehost">
         <serverdata>
@@ -29,6 +29,6 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="ehost" />
+    <option name="myUploadOnCheckinName" value="ehost-production" />
   </component>
 </project>
