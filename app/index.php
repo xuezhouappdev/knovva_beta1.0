@@ -46,16 +46,11 @@ include 'header.php';
                 <div class="carousel-item" style="background: url('img/index-sie.svg') center center no-repeat;
                                                          background-size: cover; height:90vh";>
                     <div class="container">
-
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">
-
-
                             </div>
                         </div>
-
                     </div>
-
                 </div>
 
                 <!--Third Slider -->
@@ -75,7 +70,6 @@ include 'header.php';
                 <span class="sr-only">Next</span>
             </a>
         </div>
-
 
         <!--scroll for more-->
         <!--        <div class="scrollformore">-->
@@ -102,22 +96,16 @@ include 'header.php';
                             <div class="col-lg-6">
                                 <h4 >who are we</h4>
                                 <p class="animated flipInX">Knovva Academy is a team of passionate educators from around the world who believe that a great education doesn’t end in the classroom. We value curiosity and diversity and are united by our shared love of learning, so we came together to help students of all backgrounds experience and discuss fresh global perspectives.<br>
-
                                 </p>
-
                             </div>
 
                             <div class="col-lg-5 " >
-
                                 <a data-fancybox href="https://youtu.be/FE0rKL_HvbQ">
                                     <div  class="videodiv">
                                         <img onmouseover="this.src='img/600p.gif'"
                                              onmouseout="this.src='img/gif-static.gif'"class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer">
-
                                     </div>
                                 </a>
-
-
                             </div>
                         </div>
                     </div>
@@ -166,11 +154,9 @@ include 'header.php';
 
                 <a class="animated fadeInRight infinite" href="#carouselExampleControls3" role="button" data-slide="next">
                     <i class="fa fa-caret-right " aria-hidden="true"></i>
-
                     <span class="sr-only">Next</span>
                 </a>
             </div>
-
         </div>
     </div>
 </section>
@@ -182,48 +168,36 @@ include 'header.php';
     <div class="container">
         <h4>our benefits</h4>
         <div class="row ">
-
-            <div class="col-md-4   animation-item">
-
+            <div class="col-md-4 animation-item">
                 <div class="animation-container">
                     <div class="animation-inner-wrapper" >
                         <img class="img img-responsive"  src="svg2/circle.svg" style="position:relative;" >
                         <img class="img img-responsive" id="thinblue" src="svg2/bluecircle.svg" style="" >
                         <img class="img img-responsive" id="arrow" src="svg2/white-arrow.svg" style="">
-
-
                     </div>
                 </div>
-
 
                 <h3>interactive courses</h3>
                 <hr/>
                 <p>pursue what you love and choose from a variety of fun and engaging courses or blended learning experiences.
                 </p>
-
             </div>
 
             <div class="col-md-4  animation-item">
-
                 <div class="animation-container">
                     <div class="animation-inner-wrapper" >
-
                         <img class="img img-responsive" id="earth" src="svg2/earth.svg" style="position:relative;" >
                         <img class="img img-responsive" id="thickblue" src="svg2/bluethickcircle.svg" style="" >
                         <img class="img img-responsive" id="cycle" src="svg2/Icons-05.svg"  >
                     </div>
                 </div>
 
-
-
                 <h3>international student base</h3>
                 <hr/>
                 <p>you will be able to meet many students coming from all over the world, including many parts of North America, South America, and Asia.</p>
-
             </div>
 
             <div class="col-md-4   animation-item">
-
                 <div class="animation-container">
                     <div class="animation-inner-wrapper" >
                         <img class="img img-responsive" id="moon" src="svg2/moon.svg" style="position:relative;" >
@@ -231,12 +205,9 @@ include 'header.php';
                     </div>
                 </div>
 
-
-
                 <h3>student care</h3>
                 <hr/>
                 <p>we ensure a safe space for your ideas and always provide attentive assistance with students and parents, before, throughout, and after our programs.</p>
-
             </div>
 
 

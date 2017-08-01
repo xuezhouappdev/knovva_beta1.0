@@ -41,14 +41,7 @@ session_start();
     <![endif]-->
 </head>
 
-<style>
-
-
-</style>
-
 <body>
-
-
 <!-- Header -->
 <nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded" id="mynav">
     <div class="container">
@@ -72,12 +65,9 @@ session_start();
 
         <a class="hidden-md-up program-visible" style="cursor: pointer" href="programs.php">
             <i class="fa fa-leanpub programsign" aria-hidden="true" ></i>
-
         </a>
 
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
-
-
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item" id="showwhencollapse">
                     <a class="nav-link" href="programs.php">programs</a>
@@ -86,19 +76,15 @@ session_start();
                     <a class="nav-link" href="http://blog.knovva.com/" target="_blank">blog</a>
                 </li>
                 <li class="nav-item dropdown">
-
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         more
                     </a>
-
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <!--<a class="dropdown-item" href="index.php#whoweare">about</a>-->
                         <a class="dropdown-item" href="career.php">career</a>
                         <a class="dropdown-item" href="#" data-toggle="modal" data-target="#myModal">contact</a>
                     </div>
                 </li>
-
-
             </ul>
         </div>
     </div>
