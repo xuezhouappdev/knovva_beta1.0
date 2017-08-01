@@ -13,6 +13,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c4b92029-6a3a-432f-9312-cabc7a449408" name="ehost-production" url="http://knovva.com">
+        <fileTransfer host="knovva.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

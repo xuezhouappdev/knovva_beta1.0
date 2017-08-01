@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="89da7a51-a570-41fe-a4ad-0d4e3b4b8c86">
+  <component name="PublishConfigData" serverName="ehost-production" uploadOnCheckin="89da7a51-a570-41fe-a4ad-0d4e3b4b8c86">
     <serverData>
       <paths name="ehost">
         <serverdata>
           <mappings>
             <mapping deploy="/dev/app" local="$PROJECT_DIR$/app" web="/dev/app" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/gulpfile.js" />
+            <excludedPath local="true" path="$PROJECT_DIR$/package-lock.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/package.json" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="ehost-production">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/app" local="$PROJECT_DIR$/app" web="/app" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />

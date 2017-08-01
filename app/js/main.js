@@ -261,6 +261,7 @@ $(function(){
                 type:'POST',
                 success:function(data){
                     console.log(data);
+                    $('#myModal').modal('hide');
                     //Success Message == 'Title', 'Message body', Last one leave as it is
                     swal("Congratulations.", "Your message has been sent :)", "success");
                 },
