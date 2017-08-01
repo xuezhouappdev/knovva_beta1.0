@@ -78,11 +78,11 @@ include 'header.php';
 
 
         <!--scroll for more-->
-<!--        <div class="scrollformore">-->
-<!--            <p>scroll for more</p>-->
-<!--            <a href="#whoweare" id="scroll-cta"><i class="fa fa-angle-down animated infinite fadeInUp" aria-hidden="true"></i></a>-->
-<!---->
-<!--        </div>-->
+        <!--        <div class="scrollformore">-->
+        <!--            <p>scroll for more</p>-->
+        <!--            <a href="#whoweare" id="scroll-cta"><i class="fa fa-angle-down animated infinite fadeInUp" aria-hidden="true"></i></a>-->
+        <!---->
+        <!--        </div>-->
     </div>
 </section>
 

@@ -52,14 +52,21 @@ session_start();
 <!-- Header -->
 <nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded" id="mynav">
     <div class="container">
-        <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-<!--            <i class="fa fa-bars burgericon" aria-hidden="true"></i>-->
-            <span class="icon-burger">&#xe900;</span>
+    <!--        <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">-->
+    <!--            <i class="fa fa-bars burgericon" aria-hidden="true"></i>-->
+    <!--            <span class="icon-burger">&#xe900;</span>-->
+    <!---->
+    <!--        </button>-->
 
+        <!--hamburger animation version-->
+        <button class="hamburger hamburger--elastic navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
         </button>
 
         <a class="navbar-brand" href="index.php">
-<!--               <img src="img/logo-trim.png" width="90" height="30" alt="Knovva Academy">-->
+        <!--<img src="img/logo-trim.png" width="90" height="30" alt="Knovva Academy">-->
             <p class="animated flipInX"><span >Knovva</span>&nbsp;<span>Academy</span> </p>
         </a>
 
@@ -85,7 +92,7 @@ session_start();
                     </a>
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-<!--                        <a class="dropdown-item" href="index.php#whoweare">about</a>-->
+                    <!--<a class="dropdown-item" href="index.php#whoweare">about</a>-->
                         <a class="dropdown-item" href="career.php">career</a>
                         <a class="dropdown-item" href="#" data-toggle="modal" data-target="#myModal">contact</a>
                     </div>
