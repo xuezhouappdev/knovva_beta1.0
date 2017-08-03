@@ -1,7 +1,6 @@
 <?php
 // Start the session
 session_start();
-
 ?>
 
 <!DOCTYPE html>
@@ -49,7 +48,6 @@ session_start();
 
         ga('create', 'UA-103945789-1', 'auto');
         ga('send', 'pageview');
-
     </script>
 
 
@@ -57,7 +55,7 @@ session_start();
 
 <body>
 <!-- Header -->
-<nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded" id="mynav">
+<nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded <?php echo $headerClass; ?>" id="mynav">
     <div class="container">
     <!--        <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">-->
     <!--            <i class="fa fa-bars burgericon" aria-hidden="true"></i>-->

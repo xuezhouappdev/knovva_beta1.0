@@ -19,7 +19,8 @@
 
 
 
-    //scroll to control the navigation
+    //scroll to control the navigation, except for the vertical-slide page
+if (window.location.href != "../vertical-slide.php") {
     $(window).scroll(function(){
         if($(document).scrollTop() > 20) {
 
@@ -30,6 +31,7 @@
         }
 
     });
+}
 
     //control the animation for hamburger sign
 
@@ -284,4 +286,21 @@ $(function(){
     });
 });
 
+/**
+ * vertical slide page  *********************************************************************************
+ */
+
+//typed.js
+var options = {
+    strings: ["&nbsp;","&nbsp;What matters?"],
+    typeSpeed: 40,
+    fadeOut:true,
+    loop:true,
+    showCursor:false
+}
+
+var typed = new Typed(".textChange", options);
+
+
+//scroll event sensor
 
