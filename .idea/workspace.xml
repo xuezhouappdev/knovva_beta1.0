@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/telegraph.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-9.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-9.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-12.jpg" afterPath="$PROJECT_DIR$/app/img/vs-12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-17.jpg" afterPath="$PROJECT_DIR$/app/img/vs-17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-20.jpg" afterPath="$PROJECT_DIR$/app/img/vs-20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-7.jpg" afterPath="$PROJECT_DIR$/app/img/vs-7.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/vertical-slide.php" afterPath="$PROJECT_DIR$/app/vertical-slide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +56,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="137">
@@ -61,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13447">
-              <caret line="189" column="3" lean-forward="true" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
+            <state relative-caret-position="83">
+              <caret line="1642" column="0" lean-forward="true" selection-start-line="1642" selection-start-column="0" selection-end-line="1642" selection-end-column="0" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
                 <element signature="e#2166#2557#0" expanded="false" />
@@ -239,9 +264,9 @@
         <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/vertical-slide2.php" />
         <option value="$PROJECT_DIR$/app/test.php" />
-        <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/vertical-slide.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/scss/app.scss" />
       </list>
     </option>
   </component>
@@ -256,8 +281,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="42" />
+    <option name="x" value="18" />
+    <option name="y" value="37" />
     <option name="width" value="1168" />
     <option name="height" value="713" />
   </component>
@@ -394,6 +419,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knovva_beta1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="knovva_beta1.0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -538,14 +581,7 @@
       <workItem from="1501685718480" duration="31000" />
       <workItem from="1501699533199" duration="369000" />
       <workItem from="1501774959523" duration="15912000" />
-      <workItem from="1501807863840" duration="11338000" />
-    </task>
-    <task id="LOCAL-00014" summary="fixed career page: positions links">
-      <created>1500434155798</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1500434155798</updated>
+      <workItem from="1501807863840" duration="11687000" />
     </task>
     <task id="LOCAL-00015" summary="fixed career page: positions links">
       <created>1500434400150</created>
@@ -883,11 +919,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501860811784</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="updated vertical slider page">
+      <created>1501861062851</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1501861062851</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283008000" />
+    <option name="totallyTimeSpent" value="283357000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -899,10 +942,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="42" width="1168" height="713" extended-state="0" />
-    <editor active="true" />
+    <frame x="18" y="37" width="1168" height="713" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980427" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980427" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1273,47 +1316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13447">
-          <caret line="189" column="3" lean-forward="true" selection-start-line="189" selection-start-column="3" selection-end-line="189" selection-end-column="3" />
-          <folding>
-            <element signature="e#1727#4014#0" expanded="false" />
-            <element signature="e#2166#2557#0" expanded="false" />
-            <element signature="e#3204#4008#0" expanded="false" />
-            <element signature="e#4031#5204#0" expanded="false" />
-            <element signature="e#4136#4165#0" expanded="false" />
-            <element signature="e#4564#5200#0" expanded="false" />
-            <element signature="e#4750#5171#0" expanded="false" />
-            <element signature="e#6469#6568#0" expanded="false" />
-            <element signature="e#6572#6637#0" expanded="false" />
-            <element signature="e#8458#8623#0" expanded="false" />
-            <element signature="e#10272#15838#0" expanded="false" />
-            <element signature="e#13352#14464#0" expanded="false" />
-            <element signature="e#13750#14418#0" expanded="false" />
-            <element signature="e#14630#15106#0" expanded="false" />
-            <element signature="e#15222#15760#0" expanded="false" />
-            <element signature="e#15266#15743#0" expanded="false" />
-            <element signature="e#16046#16140#0" expanded="false" />
-            <element signature="e#16450#16686#0" expanded="false" />
-            <element signature="e#16699#16935#0" expanded="false" />
-            <element signature="e#17768#17935#0" expanded="false" />
-            <element signature="e#20346#20510#0" expanded="false" />
-            <element signature="e#20624#20803#0" expanded="false" />
-            <element signature="e#20820#21125#0" expanded="false" />
-            <element signature="e#21247#21586#0" expanded="false" />
-            <element signature="e#22838#23235#0" expanded="false" />
-            <element signature="e#23618#23792#0" expanded="false" />
-            <element signature="e#26452#27274#0" expanded="false" />
-            <element signature="e#27284#28904#0" expanded="false" />
-            <element signature="e#28001#28049#0" expanded="false" />
-            <element signature="e#28063#28468#0" expanded="false" />
-            <element signature="e#28923#29610#0" expanded="false" />
-            <element signature="e#29631#29869#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1050">
@@ -1357,6 +1359,47 @@
         <state relative-caret-position="137">
           <caret line="292" column="0" lean-forward="true" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="1642" column="0" lean-forward="true" selection-start-line="1642" selection-start-column="0" selection-end-line="1642" selection-end-column="0" />
+          <folding>
+            <element signature="e#1727#4014#0" expanded="false" />
+            <element signature="e#2166#2557#0" expanded="false" />
+            <element signature="e#3204#4008#0" expanded="false" />
+            <element signature="e#4031#5204#0" expanded="false" />
+            <element signature="e#4136#4165#0" expanded="false" />
+            <element signature="e#4564#5200#0" expanded="false" />
+            <element signature="e#4750#5171#0" expanded="false" />
+            <element signature="e#6469#6568#0" expanded="false" />
+            <element signature="e#6572#6637#0" expanded="false" />
+            <element signature="e#8458#8623#0" expanded="false" />
+            <element signature="e#10272#15838#0" expanded="false" />
+            <element signature="e#13352#14464#0" expanded="false" />
+            <element signature="e#13750#14418#0" expanded="false" />
+            <element signature="e#14630#15106#0" expanded="false" />
+            <element signature="e#15222#15760#0" expanded="false" />
+            <element signature="e#15266#15743#0" expanded="false" />
+            <element signature="e#16046#16140#0" expanded="false" />
+            <element signature="e#16450#16686#0" expanded="false" />
+            <element signature="e#16699#16935#0" expanded="false" />
+            <element signature="e#17768#17935#0" expanded="false" />
+            <element signature="e#20346#20510#0" expanded="false" />
+            <element signature="e#20624#20803#0" expanded="false" />
+            <element signature="e#20820#21125#0" expanded="false" />
+            <element signature="e#21247#21586#0" expanded="false" />
+            <element signature="e#22838#23235#0" expanded="false" />
+            <element signature="e#23618#23792#0" expanded="false" />
+            <element signature="e#26452#27274#0" expanded="false" />
+            <element signature="e#27284#28904#0" expanded="false" />
+            <element signature="e#28001#28049#0" expanded="false" />
+            <element signature="e#28063#28468#0" expanded="false" />
+            <element signature="e#28923#29610#0" expanded="false" />
+            <element signature="e#29631#29869#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
