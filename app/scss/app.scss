@@ -1634,24 +1634,25 @@ footer {
 .vertical-slider-wrapper {
 
 
+  //This is the outmost wrapper
+
   .vertical-slider-item {
+
       background: white;
-      width: 100%;
+      height: 100vh;
 
       .inner {
-        display: table-cell;
-
+        position: relative;
         height: 100vh;
-
+        width: 80%;
+        margin: 0 auto;
 
         .inner-text {
+          position: absolute;
           text-align: left;
           color: black;
-          position: absolute;
           top: 50%;
-          left: 20%;
-          transform: translate(-20%, -50%);
-
+          transform: translateY(-50%);
           h1 {
             font-size: 5rem;
             font-weight: 600;
@@ -1662,60 +1663,61 @@ footer {
 
   }
 
-  #slider-2,#slider-23,#slider-25 {
+
+  .slider-2,.slider-23,.slider-25 {
      background: black;
   }
 
-  #slider-4 {
+  .slider-4 {
     background: url('../img/vs-4.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-5 {
+  .slider-5 {
     background: url('../img/vs-5.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-6 {
+  .slider-6 {
     background: url('../img/vs-6.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-7 {
+  .slider-7 {
     background: url('../img/vs-7.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-9 {
+  .slider-9 {
     background: url('../img/vs-9.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-10 {
+  .slider-10 {
     background: url('../img/vs-10.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-12 {
+  .slider-12 {
     background: url('../img/vs-12.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-13 {
+  .slider-13 {
     background: url('../img/vs-13.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
 
-  #slider-14 {
+  .slider-14 {
     background: url('../img/vs-14.jpg') center center no-repeat;
     background-size: cover;
 
@@ -1723,32 +1725,32 @@ footer {
 
 
 
-  #slider-16 {
+  .slider-16 {
     background: url('../img/vs-16.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-17 {
+  .slider-17 {
     background: url('../img/vs-17.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-18 {
+  .slider-18 {
     background: url('../img/vs-18.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
-  #slider-20 {
+  .slider-20 {
     background: url('../img/vs-20.jpg') center center no-repeat;
     background-size: cover;
 
   }
 
 
-  #slider-21 {
+  .slider-21 {
     background: url('../img/vs-21.jpg') center center no-repeat;
     background-size: cover;
 

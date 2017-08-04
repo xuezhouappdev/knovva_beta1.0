@@ -8,8 +8,8 @@ include 'header.php';
 <div class="vertical-slider-wrapper">
 
 
-    <section id="slider-1" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-1" data-section-name="slider-1" style="height: 100vh">
+        <div class="inner">
               <div class="inner-text">
                   <h1 style="color: black">Cinematography</h1>
               </div>
@@ -17,8 +17,8 @@ include 'header.php';
     </section>
 
 
-    <section id="slider-2" class="vertical-slider-item" >
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-2" data-section-name="slider-2" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text" style="color: white">
                 <h1>Cinematography</h1>
                 <h2 class="textChange">&nbsp;</h2>
@@ -26,16 +26,16 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-3" class="vertical-slider-item">
-        <div class="container inner">
+    <section class="vertical-slider-item slider-3" data-section-name="slider-3" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>Composition</h1>
             </div>
         </div>
     </section>
 
-    <section id="slider-4" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-4" data-section-name="slider-4" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -43,8 +43,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-5" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-5" data-section-name="slider-5" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -52,8 +52,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-6" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-6" data-section-name="slider-6" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -61,8 +61,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-7" class="vertical-slider-item">
-        <div class="container inner">
+    <section class="vertical-slider-item slider-7" data-section-name="slider-7" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -72,8 +72,8 @@ include 'header.php';
 
 
 
-    <section id="slider-8" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-8" data-section-name="slider-8" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>Lighting</h1>
             </div>
@@ -81,8 +81,8 @@ include 'header.php';
     </section>
 
 
-    <section id="slider-9" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-9" data-section-name="slider-9" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -90,8 +90,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-10" class="vertical-slider-item">
-        <div class="container inner">
+    <section class="vertical-slider-item slider-10" data-section-name="slider-10" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -99,16 +99,16 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-11" class="vertical-slider-item" >
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-11" data-section-name="slider-11" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>Format</h1>
             </div>
         </div>
     </section>
 
-    <section id="slider-12" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-12" data-section-name="slider-12" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -116,8 +116,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-13" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-13" data-section-name="slider-13" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -125,8 +125,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-14" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-14" data-section-name="slider-14" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -135,8 +135,8 @@ include 'header.php';
     </section>
 
 
-    <section id="slider-15" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-15" data-section-name="slider-15" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>Color</h1>
 
@@ -144,8 +144,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-16" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-16" data-section-name="slider-16" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -153,8 +153,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-17" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-17" data-section-name="slider-17" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -162,8 +162,8 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-18" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-18" data-section-name="slider-18" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
 
@@ -175,8 +175,8 @@ include 'header.php';
 
 
 
-    <section id="slider-19" class="vertical-slider-item" >
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-19" data-section-name="slider-19" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>Distortion</h1>
 
@@ -185,18 +185,17 @@ include 'header.php';
     </section>
 
 
-    <section id="slider-20" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-20" data-section-name="slider-20" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
 
             </div>
         </div>
     </section>
 
-    <section id="slider-21" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-21" data-section-name="slider-21" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
-
 
             </div>
         </div>
@@ -205,8 +204,8 @@ include 'header.php';
 
 
 
-    <section id="slider-22" class="vertical-slider-item">
-        <div class="container inner">
+    <section class="vertical-slider-item slider-22" data-section-name="slider-22" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>Or flares?</h1>
 
@@ -214,27 +213,26 @@ include 'header.php';
         </div>
     </section>
 
-    <section id="slider-23" class="vertical-slider-item" style="background: black">
-        <div class="container inner" >
+    <section class="vertical-slider-item slider-23" style="background: black;height: 100vh" data-section-name="slider-23" >
+        <div class="inner" >
             <div class="inner-text" style="color: white">
                 <h1>J.J. Abrams...</h1>
             </div>
         </div>
     </section>
 
-    <section id="slider-24" class="vertical-slider-item">
-        <div class="container inner">
+    <section  class="vertical-slider-item slider-24" data-section-name="slider-24" style="height: 100vh">
+        <div class="inner">
             <div class="inner-text">
                 <h1>In the end...</h1>
-
             </div>
         </div>
     </section>
 
 
 
-    <section id="slider-25" class="vertical-slider-item" style="background: black">
-        <div class="container inner" style="transform: translateX(8%);">
+    <section  class="vertical-slider-item slider-25" style="background: black;height: 100vh" data-section-name="slider-25" >
+        <div class="inner">
             <div class="inner-text" style="color: white">
                 <h1>It’s what you think that matters the most defines you as a cinematographer.</h1>
             </div>
@@ -252,7 +250,6 @@ include 'header.php';
 include 'footer.php';
 
 ?>
-
 
 
 
