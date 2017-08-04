@@ -1633,7 +1633,9 @@ footer {
 
 .vertical-slider-wrapper {
 
-
+  .typed-cursor {
+    display: inline;
+  }
   //This is the outmost wrapper
 
   .vertical-slider-item {
@@ -1645,7 +1647,7 @@ footer {
       .inner {
         position: relative;
         height: 100vh;
-        width: 90%;
+        width: 85%;
         margin: 0 auto;
 
         .inner-text {
@@ -1657,6 +1659,13 @@ footer {
           h1 {
             font-size: 5rem;
             font-weight: 600;
+            span {
+              font-size: 2.5rem;
+              font-weight: 200;
+              line-height:2.5rem ;
+              position: relative;
+              top:-2rem;
+            }
           }
         }
 
@@ -1677,7 +1686,7 @@ footer {
            position: absolute;
            color: white;
            right: 0px;
-           bottom:10px;
+           bottom:20px;
          }
        }
   }

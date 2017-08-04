@@ -20,8 +20,7 @@ include 'header.php';
     <section  class="vertical-slider-item slider-2" data-section-name="slider-2" style="height: 100vh">
         <div class="inner">
             <div class="inner-text" style="color: white">
-                <h1>Cinematography</h1>
-                <h2 class="textChange">&nbsp;</h2>
+                <h1>Cinematography<br><span class="textChange">&nbsp;</span></h1>
             </div>
         </div>
     </section>
@@ -204,7 +203,7 @@ include 'header.php';
     </section>
 
 
-    <section  class="vertical-slider-item slider-20" data-section-name="slider-20" style="height: 100vh">
+    <section  class="vertical-slider-item slider-20 wow animated fadeIn" data-section-name="slider-20" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
             </div>
@@ -245,7 +244,8 @@ include 'header.php';
     <section  class="vertical-slider-item slider-24" data-section-name="slider-24" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-                <h1>In the end...</h1>
+                <h1><span class="endChange" style="font-size: 5rem;
+            font-weight: 600;">&nbsp;</span></h1>
             </div>
         </div>
     </section>
@@ -253,8 +253,8 @@ include 'header.php';
 
 
     <section  class="vertical-slider-item slider-25" style="background: black;height: 100vh" data-section-name="slider-25" >
-        <div class="inner">
-            <div class="inner-text" style="color: white">
+        <div class="inner" style="width: 55%;margin-left: 10%">
+            <div class="inner-text" style="color: white;">
                 <h1>It’s what you think that matters the most defines you as a cinematographer.</h1>
             </div>
         </div>
@@ -275,39 +275,68 @@ include 'footer.php';
 
 
 <script>
-    $.scrollify({
-        section: ".vertical-slider-item",
-        sectionName: "section-name",
-        interstitialSection: ".social",
-        easing: null,
-        scrollSpeed: 600,
-        offset: 0,
-        scrollbars: false,
-        standardScrollElements: "",
-        setHeights: true,
-        overflowScroll: true,
-        updateHash: true,
-        touchScroll: true,
-        before: function () {
-        },
-        after: function () {
-        },
-        afterResize: function () {
-        },
-        afterRender: function () {
-        }
-    });
 
-    //typed.js
-    var options = {
-        strings: ["&nbsp;", "&nbsp;What matters?"],
-        typeSpeed: 40,
-        fadeOut: true,
-        loop: true,
-        showCursor: false
-    };
 
-    var typed = new Typed(".textChange", options);
+        $.scrollify({
+            section: ".vertical-slider-item",
+            sectionName: "section-name",
+            interstitialSection: ".social",
+            easing: null,
+            scrollSpeed: 600,
+            offset: 0,
+            scrollbars: false,
+            standardScrollElements: "",
+            setHeights: true,
+            overflowScroll: true,
+            updateHash: true,
+            touchScroll: true,
+            before: function () {
+            },
+            after: function () {
+            },
+            afterResize: function () {
+            },
+            afterRender: function () {
+            }
+        });
+
+        //typed.js
+        var options = {
+            strings: ["&nbsp;", "&nbsp;What matters?"],
+            typeSpeed: 40,
+            fadeOut: true,
+            loop: true,
+            showCursor: true
+        };
+
+        var typed = new Typed(".textChange", options);
+
+
+        var options2 = {
+            strings: ["&nbsp;", "&nbsp;In the end..."],
+            typeSpeed: 40,
+            fadeOut: true,
+            loop: true,
+            showCursor: true
+        };
+
+        var typed2 = new Typed(".endChange", options2);
+
+
+
+
+        $(window).scroll(function(){
+            if($(document).scrollTop() > 20) {
+                $('#mynav').hide();
+            }
+            else {
+                $('#mynav').show();
+            }
+
+        });
+
+
+
 
 </script>
 
