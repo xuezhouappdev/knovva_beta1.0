@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/telegraph.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/vs-9.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/vs-9.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-12.jpg" afterPath="$PROJECT_DIR$/app/img/vs-12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-17.jpg" afterPath="$PROJECT_DIR$/app/img/vs-17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-20.jpg" afterPath="$PROJECT_DIR$/app/img/vs-20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-7.jpg" afterPath="$PROJECT_DIR$/app/img/vs-7.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/vertical-slide.php" afterPath="$PROJECT_DIR$/app/vertical-slide.php" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,31 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1050">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="53" column="7" lean-forward="false" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="1642" column="0" lean-forward="true" selection-start-line="1642" selection-start-column="0" selection-end-line="1642" selection-end-column="0" />
+            <state relative-caret-position="113">
+              <caret line="1652" column="27" lean-forward="true" selection-start-line="1652" selection-start-column="27" selection-end-line="1652" selection-end-column="27" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
                 <element signature="e#2166#2557#0" expanded="false" />
@@ -129,26 +85,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="248" column="5" lean-forward="false" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="211" column="45" lean-forward="false" selection-start-line="211" selection-start-column="45" selection-end-line="211" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="e#710#716#1#HTML" expanded="true" />
                 <element signature="n#style#0;n#section#6;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#11;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#18;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#19;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#20;n#div#0;n#!!top" expanded="true" />
@@ -156,8 +103,8 @@
                 <element signature="n#style#0;n#section#22;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#23;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#24;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#6419#6956#0#HTML" expanded="false" />
-                <element signature="e#6993#7144#0#HTML" expanded="false" />
+                <element signature="e#8015#8552#0#HTML" expanded="false" />
+                <element signature="e#8589#8740#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -203,8 +150,8 @@
       <find>WHAT</find>
       <find>pic</find>
       <find>initial</find>
-      <find>ini</find>
       <find>scroll</find>
+      <find>ini</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -264,9 +211,9 @@
         <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/vertical-slide2.php" />
         <option value="$PROJECT_DIR$/app/test.php" />
-        <option value="$PROJECT_DIR$/app/vertical-slide.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
         <option value="$PROJECT_DIR$/app/scss/app.scss" />
+        <option value="$PROJECT_DIR$/app/vertical-slide.php" />
       </list>
     </option>
   </component>
@@ -581,14 +528,7 @@
       <workItem from="1501685718480" duration="31000" />
       <workItem from="1501699533199" duration="369000" />
       <workItem from="1501774959523" duration="15912000" />
-      <workItem from="1501807863840" duration="11687000" />
-    </task>
-    <task id="LOCAL-00015" summary="fixed career page: positions links">
-      <created>1500434400150</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1500434400150</updated>
+      <workItem from="1501807863840" duration="13573000" />
     </task>
     <task id="LOCAL-00016" summary="updated animation">
       <created>1500441464490</created>
@@ -926,11 +866,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501861062851</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="changged background img">
+      <created>1501862034702</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1501862034702</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283357000" />
+    <option name="totallyTimeSpent" value="285243000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -999,7 +946,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="updated header in mobile" />
     <MESSAGE value="updated copies" />
     <MESSAGE value="updated career p weight, index gif static" />
     <MESSAGE value="updated programs page" />
@@ -1024,7 +970,8 @@
     <MESSAGE value="updated favicon" />
     <MESSAGE value="updated Google Analytics" />
     <MESSAGE value="updated vertical slider page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated vertical slider page" />
+    <MESSAGE value="changged background img" />
+    <option name="LAST_COMMIT_MESSAGE" value="changged background img" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1316,14 +1263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1332,25 +1271,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
+    <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="248" column="5" lean-forward="false" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#710#716#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#section#6;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#18;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#20;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#21;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#22;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#23;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#24;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#6419#6956#0#HTML" expanded="false" />
-            <element signature="e#6993#7144#0#HTML" expanded="false" />
-          </folding>
+        <state relative-caret-position="-1080">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1364,8 +1289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="1642" column="0" lean-forward="true" selection-start-line="1642" selection-start-column="0" selection-end-line="1642" selection-end-column="0" />
+        <state relative-caret-position="113">
+          <caret line="1652" column="27" lean-forward="true" selection-start-line="1652" selection-start-column="27" selection-end-line="1652" selection-end-column="27" />
           <folding>
             <element signature="e#1727#4014#0" expanded="false" />
             <element signature="e#2166#2557#0" expanded="false" />
@@ -1399,6 +1324,29 @@
             <element signature="e#28063#28468#0" expanded="false" />
             <element signature="e#28923#29610#0" expanded="false" />
             <element signature="e#29631#29869#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="211" column="45" lean-forward="false" selection-start-line="211" selection-start-column="45" selection-end-line="211" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#710#716#1#HTML" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#11;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#18;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#19;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#20;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#21;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#22;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#23;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#24;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#8015#8552#0#HTML" expanded="false" />
+            <element signature="e#8589#8740#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>

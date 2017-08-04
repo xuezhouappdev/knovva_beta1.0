@@ -37,8 +37,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-4" data-section-name="slider-4" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Birdman/Emmanuel Lubezki</h5>
             </div>
         </div>
     </section>
@@ -46,8 +47,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-5" data-section-name="slider-5" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>2001: A Space Odyssey/Geoffrey Unsworth</h5>
             </div>
         </div>
     </section>
@@ -55,8 +57,10 @@ include 'header.php';
     <section  class="vertical-slider-item slider-6" data-section-name="slider-6" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
+            </div>
 
-
+            <div class="corner-text">
+                <h5>Arrival/Bradford Young</h5>
             </div>
         </div>
     </section>
@@ -64,8 +68,9 @@ include 'header.php';
     <section class="vertical-slider-item slider-7" data-section-name="slider-7" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Lawrence of Arabia/Freddie Young</h5>
             </div>
         </div>
     </section>
@@ -84,8 +89,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-9" data-section-name="slider-9" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Blade Runner 2049/Roger Deakins</h5>
             </div>
         </div>
     </section>
@@ -93,8 +99,9 @@ include 'header.php';
     <section class="vertical-slider-item slider-10" data-section-name="slider-10" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Interstellar/Hoyte Van Hoytema</h5>
             </div>
         </div>
     </section>
@@ -110,8 +117,10 @@ include 'header.php';
     <section  class="vertical-slider-item slider-12" data-section-name="slider-12" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+                <h1 style="color: white;text-align: center;margin:0 auto">Digital 65mm</h1>
+            </div>
+            <div class="corner-text">
+                <h5>Doctor Strange/Ben Davis</h5>
             </div>
         </div>
     </section>
@@ -119,8 +128,11 @@ include 'header.php';
     <section  class="vertical-slider-item slider-13" data-section-name="slider-13" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
+                <h1>IMAX 65mm film</h1>
+            </div>
 
-
+            <div class="corner-text">
+                <h5>Dunkirk/Hoyte Van Hoytema</h5>
             </div>
         </div>
     </section>
@@ -128,9 +140,13 @@ include 'header.php';
     <section  class="vertical-slider-item slider-14" data-section-name="slider-14" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+                <h1>Super 35mm film</h1>
             </div>
+            <div class="corner-text">
+                <h5>La La Land/Linus Sandgren</h5>
+            </div>
+
+
         </div>
     </section>
 
@@ -147,8 +163,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-16" data-section-name="slider-16" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Moonrise Kingdom, Robert Yeoman</h5>
             </div>
         </div>
     </section>
@@ -156,8 +173,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-17" data-section-name="slider-17" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Blade Runner 2019/Jordan Cronenweth</h5>
             </div>
         </div>
     </section>
@@ -165,8 +183,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-18" data-section-name="slider-18" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
-
+            </div>
+            <div class="corner-text">
+                <h5>Hero/Christopher Doyle</h5>
             </div>
         </div>
     </section>
@@ -188,7 +207,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-20" data-section-name="slider-20" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-
+            </div>
+            <div class="corner-text">
+                <h5>La La Land/Linus Sandgren</h5>
             </div>
         </div>
     </section>
