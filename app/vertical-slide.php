@@ -253,4 +253,40 @@ include 'footer.php';
 
 
 
+<script>
+    $.scrollify({
+        section: ".vertical-slider-item",
+        sectionName: "section-name",
+        interstitialSection: ".social",
+        easing: null,
+        scrollSpeed: 600,
+        offset: 0,
+        scrollbars: false,
+        standardScrollElements: "",
+        setHeights: true,
+        overflowScroll: true,
+        updateHash: true,
+        touchScroll: true,
+        before: function () {
+        },
+        after: function () {
+        },
+        afterResize: function () {
+        },
+        afterRender: function () {
+        }
+    });
+
+    //typed.js
+    var options = {
+        strings: ["&nbsp;", "&nbsp;What matters?"],
+        typeSpeed: 40,
+        fadeOut: true,
+        loop: true,
+        showCursor: false
+    };
+
+    var typed = new Typed(".textChange", options);
+
+</script>
 
