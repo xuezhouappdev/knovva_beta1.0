@@ -1633,9 +1633,8 @@ footer {
 
 .vertical-slider-wrapper {
 
-  .typed-cursor {
-    display: inline;
-  }
+
+
   //This is the outmost wrapper
 
   .vertical-slider-item {
@@ -1659,17 +1658,57 @@ footer {
           h1 {
             font-size: 5rem;
             font-weight: 600;
-            span {
+
+            .textChange {
               font-size: 2.5rem;
-              font-weight: 200;
+              font-weight: 400;
               line-height:2.5rem ;
               position: relative;
               top:-2rem;
+
+              &+span {
+                font-size:2.5rem;
+                position: relative;
+                top:-2rem;
+              }
             }
+
+            span.endChange {
+              font-size: 5rem;
+              font-weight: 600;
+            }
+
           }
         }
 
       }
+
+    &.slider-20 {
+      transition: all 1s;
+      transition-delay: 0.8s;
+      background: url('../img/vs-20.jpg') center center no-repeat;
+      background-size: cover;
+      &.cus-fadeOut {
+        background: url('../img/vs-21.png') center center no-repeat;
+        background-size: cover;
+      }
+    }
+
+
+
+
+    //commented out
+    &.slider-21 {
+      transition: opacity 2.5s;
+      opacity: 0;
+      &.cus-fadeIn {
+        opacity: 1;
+      }
+    }
+
+
+
+    //to deal with the corner texts
     &.slider-4,&.slider-5,&.slider-6,&.slider-7,&.slider-9,&.slider-10,&.slider-16,&.slider-17,&.slider-18,&.slider-20,&.slider-12, &.slider-13,&.slider-14{
          .inner-text {
            color: white;
@@ -1689,6 +1728,9 @@ footer {
            bottom:20px;
          }
        }
+
+
+
   }
 
 
@@ -1744,14 +1786,11 @@ footer {
 
   }
 
-
   .slider-14 {
     background: url('../img/vs-14.png') center center no-repeat;
     background-size: cover;
 
   }
-
-
 
   .slider-16 {
     background: url('../img/vs-16.png') center center no-repeat;
@@ -1762,7 +1801,6 @@ footer {
   .slider-17 {
     background: url('../img/vs-17.jpg') center center no-repeat;
     background-size: cover;
-
   }
 
   .slider-18 {
@@ -1776,7 +1814,6 @@ footer {
     background-size: cover;
 
   }
-
 
   .slider-21 {
     background: url('../img/vs-21.png') center center no-repeat;

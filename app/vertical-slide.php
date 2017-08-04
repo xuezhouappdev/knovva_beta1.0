@@ -20,7 +20,7 @@ include 'header.php';
     <section  class="vertical-slider-item slider-2" data-section-name="slider-2" style="height: 100vh">
         <div class="inner">
             <div class="inner-text" style="color: white">
-                <h1>Cinematography<br><span class="textChange">&nbsp;</span></h1>
+                <h1>Cinematography<br> <span class="textChange">&nbsp;</span> </h1>
             </div>
         </div>
     </section>
@@ -197,13 +197,12 @@ include 'header.php';
         <div class="inner">
             <div class="inner-text">
                 <h1>Distortion</h1>
-
             </div>
         </div>
     </section>
 
 
-    <section  class="vertical-slider-item slider-20 wow animated fadeIn" data-section-name="slider-20" style="height: 100vh">
+    <section  class="vertical-slider-item slider-20 " data-section-name="slider-20" style="height: 100vh;">
         <div class="inner">
             <div class="inner-text">
             </div>
@@ -213,7 +212,7 @@ include 'header.php';
         </div>
     </section>
 
-    <section  class="vertical-slider-item slider-21" data-section-name="slider-21" style="height: 100vh">
+    <section  class="vertical-slider-item slider-21 " data-section-name="slider-21" style="height: 100vh;">
         <div class="inner">
             <div class="inner-text">
 
@@ -244,8 +243,9 @@ include 'header.php';
     <section  class="vertical-slider-item slider-24" data-section-name="slider-24" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
-                <h1><span class="endChange" style="font-size: 5rem;
-            font-weight: 600;">&nbsp;</span></h1>
+                <h1>
+                    <span class="endChange" style="">&nbsp;</span>
+                </h1>
             </div>
         </div>
     </section>
@@ -290,9 +290,22 @@ include 'footer.php';
             overflowScroll: true,
             updateHash: true,
             touchScroll: true,
-            before: function () {
+            before: function (index, sections) {
+
+                //the 21st slider
+                if(index == 20) {
+
+                    $(sections[index]).addClass("cus-fadeIn");
+
+
+                }
             },
-            after: function () {
+            after: function (index,sections) {
+                //the 20st slider
+                if(index==19) {
+
+
+                }
             },
             afterResize: function () {
             },
@@ -300,7 +313,7 @@ include 'footer.php';
             }
         });
 
-        //typed.js
+        //typing effect for #2 slide
         var options = {
             strings: ["&nbsp;", "&nbsp;What matters?"],
             typeSpeed: 40,
@@ -311,10 +324,10 @@ include 'footer.php';
 
         var typed = new Typed(".textChange", options);
 
-
+        //typing effect for #25 slide
         var options2 = {
             strings: ["&nbsp;", "&nbsp;In the end..."],
-            typeSpeed: 40,
+            typeSpeed: 50,
             fadeOut: true,
             loop: true,
             showCursor: true
