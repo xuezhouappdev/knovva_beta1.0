@@ -318,17 +318,17 @@ include 'footer.php';
 
                 if(index==11 || index==12 || index==13) {
 
-                    var frameTL = new TimelineMax();
+                    var frameTL = new TimelineMax({delay:1.5});
                     var overlayDiv = $(".overlay");
                     var animationText = $(".inner-text.animation-text");
 
                     frameTL
-                        .from(overlayDiv,2,{
+                        .from(overlayDiv,1.5,{
                         opacity:0
-                    },"=-2.1")
-                        .from(animationText,1.5,{
+                    },)
+                        .from(animationText,1,{
                                 opacity:0
-                    });
+                    },"+=0.2");
 
                 }
             },

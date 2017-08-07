@@ -98,8 +98,8 @@
       <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="329" column="41" lean-forward="false" selection-start-line="329" selection-start-column="41" selection-end-line="329" selection-end-column="41" />
+            <state relative-caret-position="202">
+              <caret line="328" column="45" lean-forward="false" selection-start-line="328" selection-start-column="45" selection-end-line="328" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -520,14 +520,7 @@
       <workItem from="1501699533199" duration="369000" />
       <workItem from="1501774959523" duration="15912000" />
       <workItem from="1501807863840" duration="25369000" />
-      <workItem from="1502113534733" duration="6576000" />
-    </task>
-    <task id="LOCAL-00024" summary="sie image">
-      <created>1500584391808</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1500584391808</updated>
+      <workItem from="1502113534733" duration="7034000" />
     </task>
     <task id="LOCAL-00025" summary="animation gif">
       <created>1500589516529</created>
@@ -865,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502134280242</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="addded animation to frame">
+      <created>1502134439298</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1502134439298</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="303615000" />
+    <option name="totallyTimeSpent" value="304073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1311,8 +1311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="329" column="41" lean-forward="false" selection-start-line="329" selection-start-column="41" selection-end-line="329" selection-end-column="41" />
+        <state relative-caret-position="202">
+          <caret line="328" column="45" lean-forward="false" selection-start-line="328" selection-start-column="45" selection-end-line="328" selection-end-column="45" />
           <folding />
         </state>
       </provider>
