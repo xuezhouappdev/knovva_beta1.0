@@ -120,10 +120,10 @@ include 'header.php';
 
     <section  class="vertical-slider-item slider-12" data-section-name="slider-12" style="height: 100vh">
         <div class="inner">
-            <div class="overlay" style="background: url('img/frame12.png' ) center center no-repeat;background-size: cover">
+            <div class="overlay" style="background: url('img/frame12.png' ) center center no-repeat;background-size: cover;">
 
             </div>
-            <div class="inner-text animation-text">
+            <div class="inner-text animation-text" >
                 <h1 style="color:black;text-align: center;margin:0 auto;font-size: 50px">Digital 65mm</h1>
             </div>
             <div class="corner-text">
@@ -285,9 +285,11 @@ include 'footer.php';
 
 
 <script>
-
+    var overlayDiv = $(".overlay");
+    var animationText = $(".inner-text.animation-text");
 
         $.scrollify({
+
             section: ".vertical-slider-item",
             sectionName: "section-name",
             interstitialSection: ".social",
@@ -308,29 +310,39 @@ include 'footer.php';
                     $(sections[index]).addClass("cus-fadeIn");
 
 
-                }
-            },
-            after: function (index,sections) {
-                //the 20st slider
-                if(index==19) {
 
                 }
 
                 if(index==11 || index==12 || index==13) {
-
-                    var frameTL = new TimelineMax({delay:1.5});
-                    var overlayDiv = $(".overlay");
-                    var animationText = $(".inner-text.animation-text");
-
-                    frameTL
-                        .from(overlayDiv,1.5,{
-                        opacity:0
-                    },)
-                        .from(animationText,1,{
-                                opacity:0
-                    },"+=0.2");
-
+                    TweenMax.set(overlayDiv, {visibility:"hidden"});
+                    TweenMax.set(animationText, {visibility:"hidden"});
                 }
+
+            },
+            after: function (index,sections) {
+
+                if(index==11 || index==12 || index==13) {
+
+
+                    TweenMax.set(overlayDiv, {visibility:"visible"});
+                    TweenMax.set(animationText, {visibility:"visible"});
+
+
+                    TweenMax.from(overlayDiv, 1.5, {autoAlpha:0, delay:1});
+                    TweenMax.from(animationText,2,{autoAlpha:0, delay:2});
+
+//
+//                    frameTL
+//                       .to(overlayDiv,1.5,{
+//                        opacity:1
+//                    },)
+//                        .to(animationText,1,{
+//                            opacity:1
+//                        });
+
+                } //ends
+
+
             },
             afterResize: function () {
             },

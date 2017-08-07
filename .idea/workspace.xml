@@ -33,7 +33,7 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="-1268">
               <caret line="1673" column="13" lean-forward="true" selection-start-line="1673" selection-start-column="13" selection-end-line="1673" selection-end-column="13" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
@@ -88,8 +88,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="297" column="0" lean-forward="true" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
+            <state relative-caret-position="-44">
+              <caret line="94" column="17" lean-forward="false" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -98,9 +98,14 @@
       <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="328" column="45" lean-forward="false" selection-start-line="328" selection-start-column="45" selection-end-line="328" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="327" column="72" lean-forward="true" selection-start-line="327" selection-start-column="72" selection-end-line="327" selection-end-column="72" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#11;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#12;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#12;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#9436#9522#0#HTML" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -520,14 +525,7 @@
       <workItem from="1501699533199" duration="369000" />
       <workItem from="1501774959523" duration="15912000" />
       <workItem from="1501807863840" duration="25369000" />
-      <workItem from="1502113534733" duration="7034000" />
-    </task>
-    <task id="LOCAL-00025" summary="animation gif">
-      <created>1500589516529</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1500589516529</updated>
+      <workItem from="1502113534733" duration="9995000" />
     </task>
     <task id="LOCAL-00026" summary="animation gif">
       <created>1500595877514</created>
@@ -865,11 +863,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502134439298</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="addded animation to frame">
+      <created>1502135019915</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1502135019915</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304073000" />
+    <option name="totallyTimeSpent" value="307034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1250,7 +1255,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="-1268">
           <caret line="1673" column="13" lean-forward="true" selection-start-line="1673" selection-start-column="13" selection-end-line="1673" selection-end-column="13" />
           <folding>
             <element signature="e#1727#4014#0" expanded="false" />
@@ -1303,17 +1308,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="297" column="0" lean-forward="true" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
+        <state relative-caret-position="-44">
+          <caret line="94" column="17" lean-forward="false" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="328" column="45" lean-forward="false" selection-start-line="328" selection-start-column="45" selection-end-line="328" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="327" column="72" lean-forward="true" selection-start-line="327" selection-start-column="72" selection-end-line="327" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#11;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#12;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#12;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#9436#9522#0#HTML" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
