@@ -302,15 +302,11 @@ include 'footer.php';
             overflowScroll: true,
             updateHash: true,
             touchScroll: true,
-            before: function (index, sections) {
+            before: function (index, sections) { //before entering the section
 
                 //the 21st slider
                 if(index == 20) {
-
                     $(sections[index]).addClass("cus-fadeIn");
-
-
-
                 }
 
                 if(index==11 || index==12 || index==13) {
@@ -319,26 +315,26 @@ include 'footer.php';
                 }
 
             },
-            after: function (index,sections) {
+            after: function (index,sections) { //after entering the section
 
                 if(index==11 || index==12 || index==13) {
 
-
-                    TweenMax.set(overlayDiv, {visibility:"visible"});
-                    TweenMax.set(animationText, {visibility:"visible"});
-
-
-                    TweenMax.from(overlayDiv, 1.5, {autoAlpha:0, delay:1});
-                    TweenMax.from(animationText,2,{autoAlpha:0, delay:2});
-
+//                    TweenMax.set(overlayDiv, {visibility:"visible"});
+//                    TweenMax.set(animationText, {visibility:"visible"});
 //
-//                    frameTL
-//                       .to(overlayDiv,1.5,{
-//                        opacity:1
-//                    },)
-//                        .to(animationText,1,{
-//                            opacity:1
-//                        });
+//                    TweenMax.from(overlayDiv, 1.5, {autoAlpha:0, delay:1.5});
+//                    TweenMax.from(animationText,2,{autoAlpha:0, delay:3});
+
+
+                    var tlFrame = new TimelineMax({delay:1});
+
+                    tlFrame
+                       .to(overlayDiv,1.5,{
+                           autoAlpha:1
+                    },)
+                        .to(animationText,1,{
+                            autoAlpha:1
+                        });
 
                 } //ends
 
@@ -371,8 +367,6 @@ include 'footer.php';
         };
 
         var typed2 = new Typed(".endChange", options2);
-
-
 
 
         $(window).scroll(function(){
