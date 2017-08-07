@@ -320,7 +320,7 @@ include 'footer.php';
 
         //typing effect for #2 slide
         var options = {
-            strings: ["&nbsp;", "&nbsp;What matters? ^1000 "],
+            strings: ["&nbsp;", "&nbsp;What matters? ^3000 "],
             typeSpeed: 50,
             fadeOut: true,
             loop: true,
@@ -331,7 +331,7 @@ include 'footer.php';
 
         //typing effect for #25 slide
         var options2 = {
-            strings: ["&nbsp;", "&nbsp;In the end... ^5000 "],
+            strings: ["&nbsp;", "&nbsp;In the end... ^3000 "],
             typeSpeed: 50,
             fadeOut: true,
             loop: true,
