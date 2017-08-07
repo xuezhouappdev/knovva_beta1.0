@@ -115,8 +115,11 @@ include 'header.php';
 
     <section  class="vertical-slider-item slider-12" data-section-name="slider-12" style="height: 100vh">
         <div class="inner">
+            <div class="overlay" style="background: url('img/frame12.png' ) center center no-repeat;background-size: cover">
+
+            </div>
             <div class="inner-text">
-                <h1 style="color: white;text-align: center;margin:0 auto">Digital 65mm</h1>
+                <h1 style="color:black;text-align: center;margin:0 auto">Digital 65mm</h1>
             </div>
             <div class="corner-text">
                 <h5>Doctor Strange/Ben Davis</h5>
@@ -126,8 +129,10 @@ include 'header.php';
 
     <section  class="vertical-slider-item slider-13" data-section-name="slider-13" style="height: 100vh">
         <div class="inner">
-            <div class="inner-text">
-                <h1>IMAX 65mm film</h1>
+            <div class="overlay" style="background: url('img/frame13.png' ) center center no-repeat;background-size: cover"></div>
+
+            <div class="inner-text" style="margin-right: -700px;">
+                <h1 style="color:black;text-align: center;margin:0 auto;font-size: 70px">IMAX 65mm film</h1>
             </div>
 
             <div class="corner-text">
@@ -138,8 +143,10 @@ include 'header.php';
 
     <section  class="vertical-slider-item slider-14" data-section-name="slider-14" style="height: 100vh">
         <div class="inner">
-            <div class="inner-text">
-                <h1>Super 35mm film</h1>
+            <div class="overlay" style="background: url('img/frame14.png' ) center center no-repeat;background-size: cover"></div>
+
+            <div class="inner-text" style="top:50%">
+                <h1 style="color: black;text-align: center;margin:0 auto;font-size: 1.5rem;">Super 35mm film</h1>
             </div>
             <div class="corner-text">
                 <h5>La La Land/Linus Sandgren</h5>
@@ -220,9 +227,7 @@ include 'header.php';
         </div>
     </section>
 
-
-
-
+    
     <section class="vertical-slider-item slider-22" data-section-name="slider-22" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
@@ -315,8 +320,8 @@ include 'footer.php';
 
         //typing effect for #2 slide
         var options = {
-            strings: ["&nbsp;", "&nbsp;What matters?"],
-            typeSpeed: 40,
+            strings: ["&nbsp;", "&nbsp;What matters? ^1000 "],
+            typeSpeed: 50,
             fadeOut: true,
             loop: true,
             showCursor: true
@@ -326,7 +331,7 @@ include 'footer.php';
 
         //typing effect for #25 slide
         var options2 = {
-            strings: ["&nbsp;", "&nbsp;In the end..."],
+            strings: ["&nbsp;", "&nbsp;In the end... ^5000 "],
             typeSpeed: 50,
             fadeOut: true,
             loop: true,
