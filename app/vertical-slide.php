@@ -119,7 +119,7 @@ include 'header.php';
 
             </div>
             <div class="inner-text">
-                <h1 style="color:black;text-align: center;margin:0 auto">Digital 65mm</h1>
+                <h1 style="color:black;text-align: center;margin:0 auto;font-size: 50px">Digital 65mm</h1>
             </div>
             <div class="corner-text">
                 <h5>Doctor Strange/Ben Davis</h5>
@@ -132,7 +132,7 @@ include 'header.php';
             <div class="overlay" style="background: url('img/frame13.png' ) center center no-repeat;background-size: cover"></div>
 
             <div class="inner-text" style="margin-right: -700px;">
-                <h1 style="color:black;text-align: center;margin:0 auto;font-size: 70px">IMAX 65mm film</h1>
+                <h1 style="color:black;text-align: center;margin:0 auto;font-size: 55px">IMAX 65mm film</h1>
             </div>
 
             <div class="corner-text">
@@ -146,7 +146,7 @@ include 'header.php';
             <div class="overlay" style="background: url('img/frame14.png' ) center center no-repeat;background-size: cover"></div>
 
             <div class="inner-text" style="top:50%">
-                <h1 style="color: black;text-align: center;margin:0 auto;font-size: 1.5rem;">Super 35mm film</h1>
+                <h1 style="color: black;text-align: center;margin:0 auto;font-size: 1.2rem;">Super 35mm film</h1>
             </div>
             <div class="corner-text">
                 <h5>La La Land/Linus Sandgren</h5>
