@@ -327,8 +327,7 @@ include 'footer.php';
                         opacity:0
                     },"=-2.1")
                         .from(animationText,1.5,{
-                                opacity:0,
-                                scale:0.3
+                                opacity:0
                     });
 
                 }
