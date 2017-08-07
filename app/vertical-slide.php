@@ -113,12 +113,17 @@ include 'header.php';
         </div>
     </section>
 
+    <script>
+
+
+    </script>
+
     <section  class="vertical-slider-item slider-12" data-section-name="slider-12" style="height: 100vh">
         <div class="inner">
             <div class="overlay" style="background: url('img/frame12.png' ) center center no-repeat;background-size: cover">
 
             </div>
-            <div class="inner-text">
+            <div class="inner-text animation-text">
                 <h1 style="color:black;text-align: center;margin:0 auto;font-size: 50px">Digital 65mm</h1>
             </div>
             <div class="corner-text">
@@ -131,7 +136,7 @@ include 'header.php';
         <div class="inner">
             <div class="overlay" style="background: url('img/frame13.png' ) center center no-repeat;background-size: cover"></div>
 
-            <div class="inner-text" style="margin-right: -700px;">
+            <div class="inner-text animation-text" style="margin-right: -700px;">
                 <h1 style="color:black;text-align: center;margin:0 auto;font-size: 55px">IMAX 65mm film</h1>
             </div>
 
@@ -145,7 +150,7 @@ include 'header.php';
         <div class="inner">
             <div class="overlay" style="background: url('img/frame14.png' ) center center no-repeat;background-size: cover"></div>
 
-            <div class="inner-text" style="top:50%">
+            <div class="inner-text animation-text" style="top:50%">
                 <h1 style="color: black;text-align: center;margin:0 auto;font-size: 1.2rem;">Super 35mm film</h1>
             </div>
             <div class="corner-text">
@@ -309,6 +314,22 @@ include 'footer.php';
                 //the 20st slider
                 if(index==19) {
 
+                }
+
+                if(index==11 || index==12 || index==13) {
+
+                    var frameTL = new TimelineMax();
+                    var overlayDiv = $(".overlay");
+                    var animationText = $(".inner-text.animation-text");
+
+                    frameTL
+                        .from(overlayDiv,2,{
+                        opacity:0
+                    },"=-2.1")
+                        .from(animationText,1.5,{
+                                opacity:0,
+                                scale:0.3
+                    });
 
                 }
             },
