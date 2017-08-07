@@ -171,7 +171,7 @@ include 'header.php';
             <div class="inner-text">
             </div>
             <div class="corner-text">
-                <h5>Moonrise Kingdom, Robert Yeoman</h5>
+                <h5>Moonrise Kingdom / Robert Yeoman</h5>
             </div>
         </div>
     </section>
@@ -181,7 +181,7 @@ include 'header.php';
             <div class="inner-text">
             </div>
             <div class="corner-text">
-                <h5>Blade Runner 2019/Jordan Cronenweth</h5>
+                <h5>Blade Runner 2019 / Jordan Cronenweth</h5>
             </div>
         </div>
     </section>
