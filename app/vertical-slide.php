@@ -215,22 +215,34 @@ include 'header.php';
 
 
     <section  class="vertical-slider-item slider-20 " data-section-name="slider-20" style="height: 100vh;">
-        <div class="inner">
+
+        <div class="inner" style="width: 100%">
+            <div class="inner-img" style="position: absolute;left:0;right:0;top:0;bottom:0;z-index: 9">
+                <img class="img" id="slider20-top" src="img/vs-20.jpg" width="100%" height="100%">
+            </div>
+
+            <div class="inner-img" style="position: absolute;left:0;right:0;top:0;bottom:0;">
+                <img class="img"  src="img/vs-21.png" width="100%" height="100%">
+            </div>
+
+
             <div class="inner-text">
             </div>
-            <div class="corner-text">
+            <div class="corner-text" style="z-index: 10">
                 <h5>La La Land/Linus Sandgren</h5>
             </div>
         </div>
     </section>
 
-    <section  class="vertical-slider-item slider-21 " data-section-name="slider-21" style="height: 100vh;">
-        <div class="inner">
-            <div class="inner-text">
 
-            </div>
-        </div>
-    </section>
+
+<!--    <section  class="vertical-slider-item slider-21" data-section-name="slider-21" style="height: 100vh;">-->
+<!--        <div class="inner">-->
+<!--            <div class="inner-text">-->
+<!---->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
 
     
     <section class="vertical-slider-item slider-22" data-section-name="slider-22" style="height: 100vh">
@@ -282,11 +294,12 @@ include 'footer.php';
 
 ?>
 
-
-
 <script>
     var overlayDiv = $(".overlay");
     var animationText = $(".inner-text.animation-text");
+
+    var slider20Top = $("#slider20-top");
+
 
         $.scrollify({
 
@@ -304,15 +317,17 @@ include 'footer.php';
             touchScroll: true,
             before: function (index, sections) { //before entering the section
 
-                //the 21st slider
-                if(index == 20) {
-                    $(sections[index]).addClass("cus-fadeIn");
-                }
 
                 if(index==11 || index==12 || index==13) {
                     TweenMax.set(overlayDiv, {visibility:"hidden"});
                     TweenMax.set(animationText, {visibility:"hidden"});
                 }
+
+
+                //the 21st slider
+                if(index ==19) {
+                    TweenMax.set(slider20Top, {visibility:"visible",autoAlpha:"1"});
+                }//19 ends
 
             },
             after: function (index,sections) { //after entering the section
@@ -338,13 +353,24 @@ include 'footer.php';
 
                 } //ends
 
+                if(index ==19) {
+                    var fadeInTL = new TimelineMax({delay:1});
 
+                    fadeInTL.to(slider20Top,2,{
+                        autoAlpha:0
+                    });
+
+                }//19 ends
             },
             afterResize: function () {
             },
             afterRender: function () {
             }
         });
+
+
+
+
 
         //typing effect for #2 slide
         var options = {

@@ -1694,7 +1694,7 @@ footer {
     &.slider-20 {
       transition: all 1s;
       transition-delay: 0.8s;
-      background: url('../img/vs-20.jpg') center center no-repeat;
+      //background: url('../img/vs-20.jpg') center center no-repeat;
       background-size: cover;
       &.cus-fadeOut {
         background: url('../img/vs-21.png') center center no-repeat;
@@ -1706,13 +1706,13 @@ footer {
 
 
     //commented out
-    &.slider-21 {
-      transition: opacity 2.5s;
-      opacity: 0;
-      &.cus-fadeIn {
-        opacity: 1;
-      }
-    }
+    //&.slider-21 {
+    //  transition: opacity 2.5s;
+    //  opacity: 0;
+    //  &.cus-fadeIn {
+    //    opacity: 1;
+    //  }
+    //}
 
 
 
@@ -1818,8 +1818,7 @@ footer {
   }
 
   .slider-20 {
-    background: url('../img/vs-20.jpg') center center no-repeat;
-    background-size: cover;
+
 
   }
 
