@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="updated 20th slider , fade in and fade out">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/vertical-slide.php" afterPath="$PROJECT_DIR$/app/vertical-slide.php" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
@@ -35,8 +33,8 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="1701" column="7" lean-forward="true" selection-start-line="1698" selection-start-column="6" selection-end-line="1701" selection-end-column="7" />
+            <state relative-caret-position="16995">
+              <caret line="1701" column="7" lean-forward="false" selection-start-line="1698" selection-start-column="6" selection-end-line="1701" selection-end-column="7" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
                 <element signature="e#2166#2557#0" expanded="false" />
@@ -89,8 +87,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2162">
-              <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="42" />
+            <state relative-caret-position="1350">
+              <caret line="90" column="42" lean-forward="false" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -99,21 +97,9 @@
       <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="328" column="84" lean-forward="false" selection-start-line="328" selection-start-column="84" selection-end-line="328" selection-end-column="84" />
-              <folding>
-                <element signature="n#style#0;n#section#11;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#11;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#12;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#12;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#section#12;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#20;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="334">
+              <caret line="360" column="26" lean-forward="false" selection-start-line="360" selection-start-column="26" selection-end-line="360" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -236,8 +222,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="40" />
+    <option name="x" value="62" />
+    <option name="y" value="44" />
     <option name="width" value="1168" />
     <option name="height" value="713" />
   </component>
@@ -353,24 +339,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -536,14 +504,9 @@
       <workItem from="1502113534733" duration="10173000" />
       <workItem from="1502138595565" duration="358000" />
       <workItem from="1502138956897" duration="1184000" />
-      <workItem from="1502155881615" duration="3190000" />
-    </task>
-    <task id="LOCAL-00028" summary="updated copies">
-      <created>1500649144266</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1500649144267</updated>
+      <workItem from="1502155881615" duration="3429000" />
+      <workItem from="1502159404538" duration="382000" />
+      <workItem from="1502159871332" duration="5000" />
     </task>
     <task id="LOCAL-00029" summary="updated career p weight, index gif static">
       <created>1500650422780</created>
@@ -881,11 +844,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502146080324</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="updated 20th slider , fade in and fade out">
+      <created>1502159206021</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1502159206021</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311944000" />
+    <option name="totallyTimeSpent" value="312570000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -897,16 +867,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="40" width="1168" height="713" extended-state="0" />
-    <editor active="true" />
+    <frame x="62" y="44" width="1168" height="713" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31672597" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282918" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -914,7 +884,7 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -954,7 +924,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="program top banner image" />
     <MESSAGE value="updated g20 page" />
     <MESSAGE value="updated program page" />
     <MESSAGE value="updated career page" />
@@ -979,7 +948,8 @@
     <MESSAGE value="changed overlay font" />
     <MESSAGE value="changed font" />
     <MESSAGE value="addded animation to frame" />
-    <option name="LAST_COMMIT_MESSAGE" value="addded animation to frame" />
+    <MESSAGE value="updated 20th slider , fade in and fade out" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated 20th slider , fade in and fade out" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1113,11 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding>
-            <marker date="1501389884000" expanded="false" signature="1494:1581" ph="..." />
-            <marker date="1501389884000" expanded="false" signature="1758:1846" ph="..." />
-            <marker date="1501389884000" expanded="false" signature="2033:2120" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1125,9 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1212">
           <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          <folding>
-            <marker date="1501389853000" expanded="false" signature="4220:4249" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,7 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1080">
           <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,14 +1212,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="188" column="36" lean-forward="true" selection-start-line="188" selection-start-column="36" selection-end-line="188" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="1701" column="7" lean-forward="true" selection-start-line="1698" selection-start-column="6" selection-end-line="1701" selection-end-column="7" />
+        <state relative-caret-position="16995">
+          <caret line="1701" column="7" lean-forward="false" selection-start-line="1698" selection-start-column="6" selection-end-line="1701" selection-end-column="7" />
           <folding>
             <element signature="e#1727#4014#0" expanded="false" />
             <element signature="e#2166#2557#0" expanded="false" />
@@ -1309,29 +1269,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2162">
-          <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="42" />
+        <state relative-caret-position="1350">
+          <caret line="90" column="42" lean-forward="false" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="328" column="84" lean-forward="false" selection-start-line="328" selection-start-column="84" selection-end-line="328" selection-end-column="84" />
-          <folding>
-            <element signature="n#style#0;n#section#11;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#11;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#12;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#12;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#12;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#section#19;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#20;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="334">
+          <caret line="360" column="26" lean-forward="false" selection-start-line="360" selection-start-column="26" selection-end-line="360" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

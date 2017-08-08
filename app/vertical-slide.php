@@ -355,11 +355,9 @@ include 'footer.php';
 
                 if(index ==19) {
                     var fadeInTL = new TimelineMax({delay:1});
-
                     fadeInTL.to(slider20Top,2,{
                         autoAlpha:0
                     });
-
                 }//19 ends
             },
             afterResize: function () {
