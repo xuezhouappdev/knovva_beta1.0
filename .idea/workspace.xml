@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="updated 20th slider , fade in and fade out">
+    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/social-innovation-leadership.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/boston.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bostonmap.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/vertical-slide.php" afterPath="$PROJECT_DIR$/app/vertical-slide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/footer.php" afterPath="$PROJECT_DIR$/app/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +37,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="177" column="0" lean-forward="true" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="141" column="29" lean-forward="true" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
+              <folding>
+                <element signature="n#section#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social-innovation-leadership.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/social-innovation-leadership.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="205" column="13" lean-forward="false" selection-start-line="205" selection-start-column="13" selection-end-line="205" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#3;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16995">
-              <caret line="1701" column="7" lean-forward="false" selection-start-line="1698" selection-start-column="6" selection-end-line="1701" selection-end-column="7" />
+            <state relative-caret-position="248">
+              <caret line="1527" column="7" lean-forward="false" selection-start-line="1527" selection-start-column="7" selection-end-line="1527" selection-end-column="7" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
                 <element signature="e#2166#2557#0" expanded="false" />
@@ -63,43 +107,22 @@
                 <element signature="e#27284#28904#0" expanded="false" />
                 <element signature="e#28001#28049#0" expanded="false" />
                 <element signature="e#28063#28468#0" expanded="false" />
-                <element signature="e#28923#29610#0" expanded="false" />
-                <element signature="e#29631#29869#0" expanded="false" />
-                <element signature="e#33380#33409#0" expanded="false" />
-                <element signature="e#33423#33521#0" expanded="false" />
-                <element signature="e#33535#33633#0" expanded="false" />
-                <element signature="e#33647#33745#0" expanded="false" />
-                <element signature="e#33759#33857#0" expanded="false" />
-                <element signature="e#33871#33969#0" expanded="false" />
-                <element signature="e#33984#34083#0" expanded="false" />
-                <element signature="e#34098#34197#0" expanded="false" />
-                <element signature="e#34212#34311#0" expanded="false" />
-                <element signature="e#34326#34425#0" expanded="false" />
-                <element signature="e#34440#34539#0" expanded="false" />
-                <element signature="e#34554#34652#0" expanded="false" />
-                <element signature="e#34667#34766#0" expanded="false" />
-                <element signature="e#34803#34902#0" expanded="false" />
+                <element signature="e#29758#29996#0" expanded="false" />
+                <element signature="e#33507#33536#0" expanded="false" />
+                <element signature="e#33550#33648#0" expanded="false" />
+                <element signature="e#33662#33760#0" expanded="false" />
+                <element signature="e#33774#33872#0" expanded="false" />
+                <element signature="e#33886#33984#0" expanded="false" />
+                <element signature="e#33998#34096#0" expanded="false" />
+                <element signature="e#34111#34210#0" expanded="false" />
+                <element signature="e#34225#34324#0" expanded="false" />
+                <element signature="e#34339#34438#0" expanded="false" />
+                <element signature="e#34453#34552#0" expanded="false" />
+                <element signature="e#34567#34666#0" expanded="false" />
+                <element signature="e#34681#34779#0" expanded="false" />
+                <element signature="e#34794#34893#0" expanded="false" />
+                <element signature="e#34930#35029#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="90" column="42" lean-forward="false" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="360" column="26" lean-forward="false" selection-start-line="360" selection-start-column="26" selection-end-line="360" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -116,17 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>feature</find>
-      <find>placeho</find>
-      <find>exam</find>
-      <find>we are</find>
-      <find>depart</find>
-      <find>06</find>
-      <find>contact-form-wrapper</find>
-      <find>we</find>
-      <find>icon</find>
-      <find>mouse</find>
-      <find>boot</find>
       <find>app/</find>
       <find>enrl</find>
       <find>about the</find>
@@ -146,6 +158,17 @@
       <find>matter</find>
       <find>inner</find>
       <find>ani</find>
+      <find>ends</find>
+      <find>end</find>
+      <find>subject</find>
+      <find>work</find>
+      <find>dura</find>
+      <find>develop</find>
+      <find>course-be</find>
+      <find>eq</find>
+      <find>knovva</find>
+      <find>inno</find>
+      <find>bene</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/scss/variables.scss" />
         <option value="$PROJECT_DIR$/assets/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -198,16 +220,17 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/g20.php" />
         <option value="$PROJECT_DIR$/app/scss/_hamburger-setting.scss" />
-        <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/header.php" />
         <option value="$PROJECT_DIR$/app/vendor/typedjs/defaults.js" />
-        <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/vertical-slide2.php" />
         <option value="$PROJECT_DIR$/app/test.php" />
         <option value="$PROJECT_DIR$/app/vendor/scrollify/jquery.scrollify.js" />
-        <option value="$PROJECT_DIR$/app/js/main.js" />
-        <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/vertical-slide.php" />
+        <option value="$PROJECT_DIR$/app/footer.php" />
+        <option value="$PROJECT_DIR$/app/scss/app.scss" />
+        <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
+        <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/app/js/main.js" />
       </list>
     </option>
   </component>
@@ -222,8 +245,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="44" />
+    <option name="x" value="89" />
+    <option name="y" value="23" />
     <option name="width" value="1168" />
     <option name="height" value="713" />
   </component>
@@ -261,7 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,48 +342,13 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knovva_beta1.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -381,19 +368,19 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/app/vendor/scrollify" />
-      <recent name="$PROJECT_DIR$/app/vendor/typedjs" />
-      <recent name="$PROJECT_DIR$/app/vendor/hamburgers" />
-      <recent name="$PROJECT_DIR$/app/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/img" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/vendor/jquery" />
       <recent name="$PROJECT_DIR$/app/vendor/stellarjs" />
       <recent name="$PROJECT_DIR$/app/vendor/jquery_validation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/vendor/scrollify" />
+      <recent name="$PROJECT_DIR$/app/vendor/typedjs" />
+      <recent name="$PROJECT_DIR$/app/vendor/hamburgers" />
+      <recent name="$PROJECT_DIR$/app/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -506,14 +493,8 @@
       <workItem from="1502138956897" duration="1184000" />
       <workItem from="1502155881615" duration="3429000" />
       <workItem from="1502159404538" duration="382000" />
-      <workItem from="1502159871332" duration="5000" />
-    </task>
-    <task id="LOCAL-00029" summary="updated career p weight, index gif static">
-      <created>1500650422780</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1500650422780</updated>
+      <workItem from="1502159871332" duration="365000" />
+      <workItem from="1502222314163" duration="7579000" />
     </task>
     <task id="LOCAL-00030" summary="updated programs page">
       <created>1500946082613</created>
@@ -851,11 +832,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502159206021</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="updated 20th slider , fade in and fade out">
+      <created>1502159890293</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1502159890297</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312570000" />
+    <option name="totallyTimeSpent" value="320509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -867,16 +855,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="44" width="1168" height="713" extended-state="0" />
-    <editor active="false" />
+    <frame x="89" y="23" width="1168" height="713" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282918" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33451957" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -884,7 +872,7 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -956,13 +944,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/svg2/heart.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="0" column="394" lean-forward="true" selection-start-line="0" selection-start-column="394" selection-end-line="0" selection-end-column="394" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/svg2/bluethickcircle.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1187,38 +1168,42 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/test.php" />
-    <entry file="file://$PROJECT_DIR$/app/footer.php">
+    <entry file="file://$PROJECT_DIR$/app/vendor/scrollify/jquery.scrollify.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="59" />
+        <state relative-caret-position="230">
+          <caret line="188" column="36" lean-forward="true" selection-start-line="188" selection-start-column="36" selection-end-line="188" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="353" column="24" lean-forward="false" selection-start-line="353" selection-start-column="24" selection-end-line="353" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="53" column="7" lean-forward="false" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        <state relative-caret-position="150">
+          <caret line="96" column="100" lean-forward="false" selection-start-line="96" selection-start-column="58" selection-end-line="96" selection-end-column="100" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.php">
+    <entry file="file://$PROJECT_DIR$/app/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1080">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/scrollify/jquery.scrollify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="188" column="36" lean-forward="true" selection-start-line="188" selection-start-column="36" selection-end-line="188" selection-end-column="36" />
+        <state relative-caret-position="225">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16995">
-          <caret line="1701" column="7" lean-forward="false" selection-start-line="1698" selection-start-column="6" selection-end-line="1701" selection-end-column="7" />
+        <state relative-caret-position="248">
+          <caret line="1527" column="7" lean-forward="false" selection-start-line="1527" selection-start-column="7" selection-end-line="1527" selection-end-column="7" />
           <folding>
             <element signature="e#1727#4014#0" expanded="false" />
             <element signature="e#2166#2557#0" expanded="false" />
@@ -1247,38 +1232,52 @@
             <element signature="e#27284#28904#0" expanded="false" />
             <element signature="e#28001#28049#0" expanded="false" />
             <element signature="e#28063#28468#0" expanded="false" />
-            <element signature="e#28923#29610#0" expanded="false" />
-            <element signature="e#29631#29869#0" expanded="false" />
-            <element signature="e#33380#33409#0" expanded="false" />
-            <element signature="e#33423#33521#0" expanded="false" />
-            <element signature="e#33535#33633#0" expanded="false" />
-            <element signature="e#33647#33745#0" expanded="false" />
-            <element signature="e#33759#33857#0" expanded="false" />
-            <element signature="e#33871#33969#0" expanded="false" />
-            <element signature="e#33984#34083#0" expanded="false" />
-            <element signature="e#34098#34197#0" expanded="false" />
-            <element signature="e#34212#34311#0" expanded="false" />
-            <element signature="e#34326#34425#0" expanded="false" />
-            <element signature="e#34440#34539#0" expanded="false" />
-            <element signature="e#34554#34652#0" expanded="false" />
-            <element signature="e#34667#34766#0" expanded="false" />
-            <element signature="e#34803#34902#0" expanded="false" />
+            <element signature="e#29758#29996#0" expanded="false" />
+            <element signature="e#33507#33536#0" expanded="false" />
+            <element signature="e#33550#33648#0" expanded="false" />
+            <element signature="e#33662#33760#0" expanded="false" />
+            <element signature="e#33774#33872#0" expanded="false" />
+            <element signature="e#33886#33984#0" expanded="false" />
+            <element signature="e#33998#34096#0" expanded="false" />
+            <element signature="e#34111#34210#0" expanded="false" />
+            <element signature="e#34225#34324#0" expanded="false" />
+            <element signature="e#34339#34438#0" expanded="false" />
+            <element signature="e#34453#34552#0" expanded="false" />
+            <element signature="e#34567#34666#0" expanded="false" />
+            <element signature="e#34681#34779#0" expanded="false" />
+            <element signature="e#34794#34893#0" expanded="false" />
+            <element signature="e#34930#35029#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="141" column="29" lean-forward="true" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
+          <folding>
+            <element signature="n#section#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/social-innovation-leadership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="205" column="13" lean-forward="false" selection-start-line="205" selection-start-column="13" selection-end-line="205" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#3;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="42" lean-forward="false" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="360" column="26" lean-forward="false" selection-start-line="360" selection-start-column="26" selection-end-line="360" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="177" column="0" lean-forward="true" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
           <folding />
         </state>
       </provider>

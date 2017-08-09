@@ -179,7 +179,8 @@ landing_images.eq(0).click(function(){
 });
 
 landing_images.eq(1).click(function(){
-    window.location.href="http://www.knovva.com";
+    window.location.href="../app/social-innovation-leadership.php";
+
 
 });
 
@@ -240,6 +241,13 @@ programs.eq(0).click(function(){
     window.location.href="../app/g20.php";
 
 });
+
+programs.eq(1).click(function(){
+    window.location.href="../app/social-innovation-leadership.php";
+
+});
+
+
 
 /**
  * contact page  *********************************************************************************

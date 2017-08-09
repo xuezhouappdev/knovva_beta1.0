@@ -146,17 +146,17 @@ include 'header.php';
             </div>
 
             <!--CONTROLLER-->
-            <div class="controller">
-                <a class="animated fadeInLeft infinite" href="#carouselExampleControls3" role="button" data-slide="prev">
-                    <i class="fa fa-caret-left " aria-hidden="true"></i>
-                    <span class="sr-only">Previous</span>
-                </a>    &nbsp; &nbsp;
-
-                <a class="animated fadeInRight infinite" href="#carouselExampleControls3" role="button" data-slide="next">
-                    <i class="fa fa-caret-right " aria-hidden="true"></i>
-                    <span class="sr-only">Next</span>
-                </a>
-            </div>
+<!--            <div class="controller">-->
+<!--                <a class="animated fadeInLeft infinite" href="#carouselExampleControls3" role="button" data-slide="prev">-->
+<!--                    <i class="fa fa-caret-left " aria-hidden="true"></i>-->
+<!--                    <span class="sr-only">Previous</span>-->
+<!--                </a>    &nbsp; &nbsp;-->
+<!---->
+<!--                <a class="animated fadeInRight infinite" href="#carouselExampleControls3" role="button" data-slide="next">-->
+<!--                    <i class="fa fa-caret-right " aria-hidden="true"></i>-->
+<!--                    <span class="sr-only">Next</span>-->
+<!--                </a>-->
+<!--            </div>-->
         </div>
     </div>
 </section>
