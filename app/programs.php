@@ -35,7 +35,7 @@ include 'header.php';
                         <div class="p-decoration-text" >
 
                             <h4>Model G20 summer program</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>07-31-2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>2 day</h6>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>fall 2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>14 day</h6>
 
 
                         </div>
@@ -61,9 +61,9 @@ include 'header.php';
                     <div class="p-image-wrapper" style="background:url('img/index-sie.svg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
                             <h4>social impact and entrepreneurship</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;
-<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
-<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>sep 2017&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-map-marker" aria-hidden="true"></i>online&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-clock-o" aria-hidden="true"></i>6 weeks
                             </h6>
                         </div>
                     </div>
