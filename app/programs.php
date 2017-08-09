@@ -86,10 +86,10 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/harryporter.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('img/reading-group.jpg') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
-                            <h4>the harry potter reading group</h4>
+                            <h4>reading & literature program</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;
 <!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
 <!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
@@ -110,29 +110,28 @@ include 'header.php';
             </div>
 
 
-
             <div class="col-md-6 wow slideInRight">
                 <!--card-->
-                <div class="shadow" >
-
-                    <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/reading-group.jpg') center center no-repeat;background-size:cover;">
-                        <div class="p-decoration-text" >
-                            <h4>the innovation reading group</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;
-<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
-<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
-                            </h6>
-                        </div>
-                    </div>
-
-                    <!--PARA DES-->
-                    <div class="p-text-wrapper">
-<!--                        <h6>business, social science </h6>-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
-                    </div>
-
-                </div>
+<!--                <div class="shadow" >-->
+<!---->
+<!--                    <!--IMG and deco-->
+<!--                    <div class="p-image-wrapper" style="background:url('img/reading-group.jpg') center center no-repeat;background-size:cover;">-->
+<!--                        <div class="p-decoration-text" >-->
+<!--                            <h4>the innovation reading group</h4>-->
+<!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
+<!--                            </h6>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                    <!--PARA DES-->
+<!--                    <div class="p-text-wrapper">-->
+<!--<!--                        <h6>business, social science </h6>-->
+<!--<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
+<!--                    </div>-->
+<!---->
+<!--                </div>-->
                 <!--card-->
             </div>
 
