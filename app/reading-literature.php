@@ -80,9 +80,9 @@ include 'header.php'; ?>
                    <h4>course features</h4>
                    <ul class="list-unstyled">
                        <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">september 2017</span></h5></li>
-                       <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">6 weeks per session</span></h5></li>
+                       <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">12 weeks per session</span></h5></li>
                        <li><h5><i class="fa fa-map-marker" aria-hidden="true"></i>location:<span class="pull-right">online</span></h5></li>
-                       <li><h5><i class="fa fa-users" aria-hidden="true"></i>student:<span class="pull-right">20</span></h5></li>
+                       <li><h5><i class="fa fa-users" aria-hidden="true"></i>student:<span class="pull-right">25</span></h5></li>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">8 - 10</span></h5></li>
                    </ul>
 <!--                   <h5>course price: $2998</h5>-->

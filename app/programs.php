@@ -90,12 +90,10 @@ include 'header.php';
                         <div class="p-decoration-text" >
 
                             <h4>reading & literature program</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>coming soon&nbsp;&nbsp;&nbsp;&nbsp;
-<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;-->
-<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>2 day-->
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>sep 2017&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-map-marker" aria-hidden="true"></i>online&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-clock-o" aria-hidden="true"></i>12 weeks per session
                             </h6>
-
-
                         </div>
                     </div>
 
