@@ -63,7 +63,7 @@ include 'header.php';
                             <h4>social impact and entrepreneurship</h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i>sep 2017&nbsp;&nbsp;&nbsp;&nbsp;
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>online&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-clock-o" aria-hidden="true"></i>6 weeks
+                                <i class="fa fa-clock-o" aria-hidden="true"></i>6 weeks per session
                             </h6>
                         </div>
                     </div>
