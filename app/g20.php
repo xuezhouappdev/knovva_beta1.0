@@ -15,7 +15,7 @@ include 'header.php'; ?>
 
             <div class="row justify-content-center">
                 <div class="col-sm-8">
-                    <a class="fancy" data-fancybox href="img/g20-landing.mp4" >watch the video</a>
+                    <a class="fancy" data-fancybox href="https://youtu.be/FE0rKL_HvbQ" >watch the video</a>
                 </div>
             </div>
 

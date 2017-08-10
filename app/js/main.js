@@ -247,6 +247,13 @@ programs.eq(1).click(function(){
 
 });
 
+programs.eq(2).click(function(){
+    window.location.href="../app/reading-literature.php";
+
+});
+
+
+
 
 
 /**

@@ -100,10 +100,10 @@ include 'header.php';
                             </div>
 
                             <div class="col-lg-5 " >
-                                <a data-fancybox href="https://youtu.be/FE0rKL_HvbQ">
+                                <a data-fancybox href="img/g20-landing.mp4">
                                     <div  class="videodiv">
                                         <img onmouseover="this.src='img/600p.gif'"
-                                             onmouseout="this.src='img/gif-static.gif'"class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer">
+                                             onmouseout="this.src='img/gif-static.gif'" class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer">
                                     </div>
                                 </a>
                             </div>
