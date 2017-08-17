@@ -90,11 +90,7 @@ include 'header.php';
                     </thead>
 
                     <tbody>
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Educational-Liaison-43f1776b5141c18e?q=knovva+academy">Educational Liaison</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></td>
 
-                    </tr>
 
                     <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Educational-Project-Manager-14137bfcf3b0dda4?q=knovva+academy">Educational Project Manager</a></td>
@@ -122,38 +118,6 @@ include 'header.php';
                 </table>
 
 
-            <div class="row justify-content-center">
-
-                <div class="bd-image">
-                    <div style="background: url('img/dpt-admin.jpg') no-repeat center center;background-size: cover">
-                    </div>
-                    <h4>administration</h4>
-                </div>
-
-            </div>
-
-
-
-                <table class="table ">
-                    <thead class="thead-default">
-                    <tr>
-
-
-                        <th style="text-align: center" colspan="4"><span>administration</span></th>
-
-                    </tr>
-                    </thead>
-
-                    <tbody>
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Office-Admin-Assistant-e3c7401c8a0eb3d2?q=giant+bug+group">Office Admin Assistant</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></td>
-
-                    </tr>
-
-
-                    </tbody>
-                </table>
             </div>
         </div>
 

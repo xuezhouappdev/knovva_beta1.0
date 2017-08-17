@@ -1844,11 +1844,42 @@ footer {
   }
 
 
+  .pagination{
+    position: fixed;
+    display: block;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.4em;
+    z-index: 10;
+    li {
+
+      height: 14px;
+      width: 14px;
+      padding: 4px auto;
+
+      a {
+        cursor: pointer;
+        color: #7f7f7f;
+        i {
+           font-size: 10px;
+          &:hover {
+            font-size: 12px;
+          }
+        }
+      }
+    }
+  }
+
 
 
 
 
 }
+
+
+
+
 
 
 

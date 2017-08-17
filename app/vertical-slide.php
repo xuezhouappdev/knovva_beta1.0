@@ -14,6 +14,9 @@ include 'header.php';
                   <h1 style="color: black">Cinematography</h1>
               </div>
         </div>
+
+
+
     </section>
 
 
@@ -74,8 +77,6 @@ include 'header.php';
         </div>
     </section>
 
-
-
     <section  class="vertical-slider-item slider-8" data-section-name="slider-8" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
@@ -83,7 +84,6 @@ include 'header.php';
             </div>
         </div>
     </section>
-
 
     <section  class="vertical-slider-item slider-9" data-section-name="slider-9" style="height: 100vh">
         <div class="inner">
@@ -235,16 +235,6 @@ include 'header.php';
     </section>
 
 
-
-<!--    <section  class="vertical-slider-item slider-21" data-section-name="slider-21" style="height: 100vh;">-->
-<!--        <div class="inner">-->
-<!--            <div class="inner-text">-->
-<!---->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-
-    
     <section class="vertical-slider-item slider-22" data-section-name="slider-22" style="height: 100vh">
         <div class="inner">
             <div class="inner-text">
@@ -284,9 +274,25 @@ include 'header.php';
 
 
 
+
+
+<!--nav-->
+<!--<ul class="pagination" style="margin-top: -100px">-->
+<!--    <li><a href="#slider-1" onclick=" move(); "><i class="fa fa-circle" aria-hidden="true"></i></a></li>-->
+<!--    <li><a href="#slider-2"><i class="fa fa-circle" aria-hidden="true"></i></a></li>-->
+<!--    <li><a href="#slider-3"><i class="fa fa-circle" aria-hidden="true"></i></a></li>-->
+<!--    <li><a href="#slider-4"><i class="fa fa-circle" aria-hidden="true"></i></a></li>-->
+<!--    <li><a href="#slider-5"><i class="fa fa-circle" aria-hidden="true"></i></a></li>-->
+<!--    <li><a href="#slider-6"><i class="fa fa-circle" aria-hidden="true"></i></a></li>-->
+<!--</ul>-->
+
 </div>
 
-
+<script>
+    function move(){
+        $.scrollify.move("#slider-1");
+    }
+</script>
 
 
 <?php
@@ -329,16 +335,17 @@ include 'footer.php';
                     TweenMax.set(slider20Top, {visibility:"visible",autoAlpha:"1"});
                 }//19 ends
 
+
+                //pagination controll
+//                var ref = sections[i].attr("data-section-name");
+//                $(".pagination .active").removeClass("active");
+//                $(".pagination").find("a[href=\"#" + ref + "\"]").addClass("active");
+
+
             },
             after: function (index,sections) { //after entering the section
 
                 if(index==11 || index==12 || index==13) {
-
-//                    TweenMax.set(overlayDiv, {visibility:"visible"});
-//                    TweenMax.set(animationText, {visibility:"visible"});
-//
-//                    TweenMax.from(overlayDiv, 1.5, {autoAlpha:0, delay:1.5});
-//                    TweenMax.from(animationText,2,{autoAlpha:0, delay:3});
 
 
                     var tlFrame = new TimelineMax({delay:1});
@@ -362,7 +369,21 @@ include 'footer.php';
             },
             afterResize: function () {
             },
-            afterRender: function () {
+            afterRender:function (){
+                var pagination = "<ul class=\"pagination\" >";
+                var activeClass = "";
+                $(".vertical-slider-item").each(function(i) {
+                    activeClass = "";
+                    if(i===0) {
+                        activeClass = "active";
+                    }
+                    pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\"> <span class=\"hover-text\">" +" <i class=\"fa fa-circle\" aria-hidden=\"true\"></i> "+ "</span></a></li>";
+                });
+
+                pagination += "</ul>";
+
+                $(".vertical-slider-wrapper").append(pagination);
+                $(".pagination a").on("click",$.scrollify.move);
             }
         });
 
