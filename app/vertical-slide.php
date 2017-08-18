@@ -337,9 +337,9 @@ include 'footer.php';
 
 
                 //pagination controll
-//                var ref = sections[i].attr("data-section-name");
-//                $(".pagination .active").removeClass("active");
-//                $(".pagination").find("a[href=\"#" + ref + "\"]").addClass("active");
+                var ref = sections[index].attr("data-section-name");
+                $(".pagination .active").removeClass("active");
+                $(".pagination").find("a[href=\"#" + ref + "\"]").addClass("active");
 
 
             },
@@ -370,14 +370,14 @@ include 'footer.php';
             afterResize: function () {
             },
             afterRender:function (){
-                var pagination = "<ul class=\"pagination\" >";
+                var pagination = "<ul class=\"pagination\" style='margin-top: 10px'>";
                 var activeClass = "";
                 $(".vertical-slider-item").each(function(i) {
                     activeClass = "";
                     if(i===0) {
                         activeClass = "active";
                     }
-                    pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\"> <span class=\"hover-text\">" +" <i class=\"fa fa-circle\" aria-hidden=\"true\"></i> "+ "</span></a></li>";
+                    pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\">" + "<i class=\"fa fa-circle-o\" aria-hidden=\"true\"></i>"  + "</a></li>";
                 });
 
                 pagination += "</ul>";

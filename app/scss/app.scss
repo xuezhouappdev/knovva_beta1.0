@@ -1854,20 +1854,30 @@ footer {
     z-index: 10;
     li {
 
-      height: 14px;
-      width: 14px;
-      padding: 4px auto;
+      height: 12px;
+      width: 12px;
+      margin: 6px auto;
+      padding: 4px;
 
       a {
         cursor: pointer;
-        color: #7f7f7f;
+        color: #d1d2d4;
         i {
-           font-size: 10px;
+           font-size: 12px;
+           font-weight: 800;
           &:hover {
-            font-size: 12px;
+            text-decoration: none;
           }
         }
+
+        &.active,&:hover {
+          color: #00b3ee;
+          text-decoration: none;
+        }
+
+
       }
+
     }
   }
 

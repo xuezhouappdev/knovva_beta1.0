@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="updated literature program page">
+    <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/career.php" afterPath="$PROJECT_DIR$/app/career.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/vertical-slide.php" afterPath="$PROJECT_DIR$/app/vertical-slide.php" />
@@ -46,8 +45,8 @@
       <file leaf-file-name="vertical-slide.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3645">
-              <caret line="372" column="59" lean-forward="false" selection-start-line="372" selection-start-column="59" selection-end-line="372" selection-end-column="59" />
+            <state relative-caret-position="186">
+              <caret line="376" column="31" lean-forward="true" selection-start-line="376" selection-start-column="31" selection-end-line="376" selection-end-column="31" />
               <folding>
                 <element signature="n#section#1;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#section#2;n#div#0;n#!!top" expanded="false" />
@@ -60,8 +59,10 @@
                 <element signature="n#section#21;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#section#22;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#section#23;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#10383#11091#0#HTML" expanded="false" />
-                <element signature="e#11138#11813#0#HTML" expanded="false" />
+                <element signature="e#10473#10633#0#HTML" expanded="false" />
+                <element signature="e#10701#10805#0#HTML" expanded="false" />
+                <element signature="e#11136#11811#0#HTML" expanded="false" />
+                <marker date="1503032292000" expanded="true" signature="11970:11986" ph="..." />
               </folding>
             </state>
           </provider>
@@ -70,8 +71,8 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="1854" column="8" lean-forward="true" selection-start-line="1854" selection-start-column="8" selection-end-line="1854" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="1861" column="9" lean-forward="true" selection-start-line="1861" selection-start-column="9" selection-end-line="1861" selection-end-column="9" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
                 <element signature="e#2166#2557#0" expanded="false" />
@@ -242,8 +243,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="37" />
+    <option name="x" value="29" />
+    <option name="y" value="55" />
     <option name="width" value="1168" />
     <option name="height" value="713" />
   </component>
@@ -510,14 +511,7 @@
       <workItem from="1502159404538" duration="382000" />
       <workItem from="1502159871332" duration="365000" />
       <workItem from="1502222314163" duration="13611000" />
-      <workItem from="1502971538568" duration="10383000" />
-    </task>
-    <task id="LOCAL-00039" summary="updated g20 page">
-      <created>1501082720298</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1501082720298</updated>
+      <workItem from="1502971538568" duration="15560000" />
     </task>
     <task id="LOCAL-00040" summary="updated g20 page">
       <created>1501096877330</created>
@@ -855,11 +849,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502376359011</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="added pagination on the vertical slide">
+      <created>1503005530257</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1503005530258</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336924000" />
+    <option name="totallyTimeSpent" value="342101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -871,7 +872,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="37" width="1168" height="713" extended-state="0" />
+    <frame x="29" y="55" width="1168" height="713" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34074733" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
@@ -928,7 +929,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="0727" />
     <MESSAGE value="added para on the program pgae" />
     <MESSAGE value="updated the contact form with HB" />
     <MESSAGE value="updated burger sign" />
@@ -953,7 +953,8 @@
     <MESSAGE value="updated g20 and sie" />
     <MESSAGE value="updated program page" />
     <MESSAGE value="updated literature program page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated literature program page" />
+    <MESSAGE value="added pagination on the vertical slide" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pagination on the vertical slide" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1228,10 +1229,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/vertical-slide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3645">
-          <caret line="372" column="59" lean-forward="false" selection-start-line="372" selection-start-column="59" selection-end-line="372" selection-end-column="59" />
+        <state relative-caret-position="186">
+          <caret line="376" column="31" lean-forward="true" selection-start-line="376" selection-start-column="31" selection-end-line="376" selection-end-column="31" />
           <folding>
             <element signature="n#section#1;n#div#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#div#0;n#!!top" expanded="false" />
@@ -1244,24 +1253,18 @@
             <element signature="n#section#21;n#div#0;n#!!top" expanded="false" />
             <element signature="n#section#22;n#div#0;n#!!top" expanded="false" />
             <element signature="n#section#23;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#10383#11091#0#HTML" expanded="false" />
-            <element signature="e#11138#11813#0#HTML" expanded="false" />
+            <element signature="e#10473#10633#0#HTML" expanded="false" />
+            <element signature="e#10701#10805#0#HTML" expanded="false" />
+            <element signature="e#11136#11811#0#HTML" expanded="false" />
+            <marker date="1503032292000" expanded="true" signature="11970:11986" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="1854" column="8" lean-forward="true" selection-start-line="1854" selection-start-column="8" selection-end-line="1854" selection-end-column="8" />
+        <state relative-caret-position="170">
+          <caret line="1861" column="9" lean-forward="true" selection-start-line="1861" selection-start-column="9" selection-end-line="1861" selection-end-column="9" />
           <folding>
             <element signature="e#1727#4014#0" expanded="false" />
             <element signature="e#2166#2557#0" expanded="false" />
