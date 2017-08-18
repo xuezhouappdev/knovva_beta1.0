@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/vertical-slide.php" afterPath="$PROJECT_DIR$/app/vertical-slide.php" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,8 +70,8 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="1861" column="9" lean-forward="true" selection-start-line="1861" selection-start-column="9" selection-end-line="1861" selection-end-column="9" />
+            <state relative-caret-position="125">
+              <caret line="1860" column="25" lean-forward="false" selection-start-line="1860" selection-start-column="18" selection-end-line="1860" selection-end-column="25" />
               <folding>
                 <element signature="e#1727#4014#0" expanded="false" />
                 <element signature="e#2166#2557#0" expanded="false" />
@@ -511,14 +510,7 @@
       <workItem from="1502159404538" duration="382000" />
       <workItem from="1502159871332" duration="365000" />
       <workItem from="1502222314163" duration="13611000" />
-      <workItem from="1502971538568" duration="15560000" />
-    </task>
-    <task id="LOCAL-00040" summary="updated g20 page">
-      <created>1501096877330</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1501096877330</updated>
+      <workItem from="1502971538568" duration="16778000" />
     </task>
     <task id="LOCAL-00041" summary="updated program page">
       <created>1501097423050</created>
@@ -856,11 +848,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503005530258</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="fixed pagination for vertical slider">
+      <created>1503032417135</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1503032417135</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="342101000" />
+    <option name="totallyTimeSpent" value="343319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -929,7 +928,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
-    <MESSAGE value="added para on the program pgae" />
     <MESSAGE value="updated the contact form with HB" />
     <MESSAGE value="updated burger sign" />
     <MESSAGE value="updated page title" />
@@ -954,7 +952,8 @@
     <MESSAGE value="updated program page" />
     <MESSAGE value="updated literature program page" />
     <MESSAGE value="added pagination on the vertical slide" />
-    <option name="LAST_COMMIT_MESSAGE" value="added pagination on the vertical slide" />
+    <MESSAGE value="fixed pagination for vertical slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed pagination for vertical slider" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1263,8 +1262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="1861" column="9" lean-forward="true" selection-start-line="1861" selection-start-column="9" selection-end-line="1861" selection-end-column="9" />
+        <state relative-caret-position="125">
+          <caret line="1860" column="25" lean-forward="false" selection-start-line="1860" selection-start-column="18" selection-end-line="1860" selection-end-column="25" />
           <folding>
             <element signature="e#1727#4014#0" expanded="false" />
             <element signature="e#2166#2557#0" expanded="false" />
