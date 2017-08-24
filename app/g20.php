@@ -1,5 +1,5 @@
 <?php
-$pageTitle="programs - G20 summer program | Knovva Academy";
+$pageTitle="programs - Model G20 2018 | Knovva Academy";
 include 'header.php'; ?>
 
 
@@ -10,7 +10,7 @@ include 'header.php'; ?>
         <div class="g20-slogan animated fadeInDown">
 
             <div class="row justify-content-center">
-                <h2 >Model G20 summer program</h2>
+                <h2 >Model G20 2018 program</h2>
             </div>
 
             <div class="row justify-content-center">
@@ -29,7 +29,7 @@ include 'header.php'; ?>
 <!--course-intro-->
 <div class="course">
     <div class="container">
-        <h2>Model G20 summer program</h2>
+        <h2>Model G20 2018 program</h2>
 
          <div class="row">
            <div class="col-md-8">
@@ -61,9 +61,8 @@ include 'header.php'; ?>
 
 
                <h5>about the course</h5>
-               <p>The Global Sustainability in Action program is intended to provide a local look at the global issues addressed during the 2017 Model G20 Youth Leadership Summit held this past winter in Cambridge, MA. The Model G20 series was organized to support high school students in their learning of international relations and politics while opening doors to future academic and professional paths. While the main Summit focused on macroeconomics and global sustainability, the summer program invites students to consider the factors that shape global realities on a local level.</p>
-               <h5>making an impact</h5>
-               <p>As a culminating project for the Global Sustainability in Action program, students will be tasked to tell a story expressing an element of the environment they wish to impact through the lens of a politician, global citizen, or future scientist. Students will be provided with tools necessary to research, build a case, present their findings and tell this story, giving students the platform they need to create change in a local community, for the betterment of the world as a whole.</p>
+               <p>What is a G20? The G20, also known as the Group of 20, is an international forum that unites some of the most important economies in the world to engage pressing political and economic realities. The G20 Summit is a central gathering of the world’s top economies where decision makers such as Heads of Government, finance, labor, agriculture, trade and energy Ministers discuss, agree and implement reforms on energy sustainability, climate change, labor, education and financial inclusion, decisions that can have major effect on the world’s economy.</p>
+
 
 
            </div>
@@ -72,13 +71,13 @@ include 'header.php'; ?>
                <div class="feature-wrapper">
                    <h4>course features</h4>
                    <ul class="list-unstyled">
-                       <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">july 29, 2017</span></h5></li>
-                       <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">13 days</span></h5></li>
-                       <li><h5><i class="fa fa-map-marker" aria-hidden="true"></i>location:<span class="pull-right"><a target="_blank" href="https://en.wikipedia.org/wiki/Qingdao">Qingdao, China</a></span></h5></li>
-                       <li><h5><i class="fa fa-users" aria-hidden="true"></i>student:<span class="pull-right">23</span></h5></li>
+                       <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">TBD</span></h5></li>
+                       <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">TBD</span></h5></li>
+                       <li><h5><i class="fa fa-map-marker" aria-hidden="true"></i>location:<span class="pull-right">Cambridge, MA</span></h5></li>
+                       <li><h5><i class="fa fa-users" aria-hidden="true"></i>student:<span class="pull-right">120+</span></h5></li>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">9 - 12</span></h5></li>
                    </ul>
-                   <h5>course price: $2998</h5>
+                   <h5>course price: TBD</h5>
                    <a class="enroll-btn">enrollment has ended</a>
 
                </div>
@@ -88,160 +87,160 @@ include 'header.php'; ?>
 </div>
 
 <!--course structure-->
-<div class="course-structure">
-    <div class="container">
-        <h5>curriculum structure</h5>
-
-        <table class="table table-striped table-sm">
-            <thead>
-            <tr >
-                <th width="20%" class="text-center">day#</th>
-                <th width="80%">content</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <th scope="row" class="text-center">1</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>cce-breaking</li>
-                        <li>welcome dinner</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">2</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>great Wall tour </li>
-                        <li>evening reflection</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">3</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>forbidden city tour </li>
-                        <li>tianamen square tour</li>
-                        <li>naitonal museum tour</li>
-                        <li>evening reflection</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">4</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>tsinghua lecture </li>
-                        <li>peking university tour</li>
-                        <li>travel to QingDao</li>
-                        <li>evening reflection</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">5</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>MG20 reflection</li>
-                        <li>MG20 and germany's sustainability goals </li>
-                        <li>QingDao in context: government, society and history  </li>
-                        <li>research, sustainability and project summary</li>
-                        <li>digital media and storytelling  </li>
-                        <li>workshop: story telling </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">6</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>China ocean university-lecture </li>
-                        <li>scenic introduction tour to landscape (beach)</li>
-                        <li>field research</li>
-                        <li>research, sustainability and project summary</li>
-                        <li>laboratory testing </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">7</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>Mt. Lao tour</li>
-                        <li>story-telling workshop</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">8</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>Harvard lecture: policy and environment</li>
-                        <li>Harvard lecture: policy and environment</li>
-                        <li>workshop : story telling and sustainability </li>
-                        <li>policy project time</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">9</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>Chinese industry and water </li>
-                        <li>local and provincial government</li>
-                        <li>Qu Fu: confuciuos</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">10</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>Qu Fu: confuciuos</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">11</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>social science research And china</li>
-                        <li>social science and environmental policy</li>
-                        <li>research design </li>
-                        <li>field research</li>
-                        <li>cce-breaking</li>
-                        <li>policy project time</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">12</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>closing panel and presentations </li>
-                        <li>closing dinner </li>
-                    </ul>
-                </td>
-
-            </tr>
-            <tr>
-                <th scope="row" class="text-center">13</th>
-                <td>
-                    <ul class="list-inline">
-                        <li>program close</li>
-                    </ul>
-                </td>
-            </tr>
-            </tbody>
-        </table>
-
-
-
-
-    </div>
-</div>
+<!--<div class="course-structure">-->
+<!--    <div class="container">-->
+<!--        <h5>curriculum structure</h5>-->
+<!---->
+<!--        <table class="table table-striped table-sm">-->
+<!--            <thead>-->
+<!--            <tr >-->
+<!--                <th width="20%" class="text-center">day#</th>-->
+<!--                <th width="80%">content</th>-->
+<!--            </tr>-->
+<!--            </thead>-->
+<!--            <tbody>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">1</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>cce-breaking</li>-->
+<!--                        <li>welcome dinner</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">2</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>great Wall tour </li>-->
+<!--                        <li>evening reflection</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">3</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>forbidden city tour </li>-->
+<!--                        <li>tianamen square tour</li>-->
+<!--                        <li>naitonal museum tour</li>-->
+<!--                        <li>evening reflection</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">4</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>tsinghua lecture </li>-->
+<!--                        <li>peking university tour</li>-->
+<!--                        <li>travel to QingDao</li>-->
+<!--                        <li>evening reflection</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">5</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>MG20 reflection</li>-->
+<!--                        <li>MG20 and germany's sustainability goals </li>-->
+<!--                        <li>QingDao in context: government, society and history  </li>-->
+<!--                        <li>research, sustainability and project summary</li>-->
+<!--                        <li>digital media and storytelling  </li>-->
+<!--                        <li>workshop: story telling </li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">6</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>China ocean university-lecture </li>-->
+<!--                        <li>scenic introduction tour to landscape (beach)</li>-->
+<!--                        <li>field research</li>-->
+<!--                        <li>research, sustainability and project summary</li>-->
+<!--                        <li>laboratory testing </li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">7</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>Mt. Lao tour</li>-->
+<!--                        <li>story-telling workshop</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">8</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>Harvard lecture: policy and environment</li>-->
+<!--                        <li>Harvard lecture: policy and environment</li>-->
+<!--                        <li>workshop : story telling and sustainability </li>-->
+<!--                        <li>policy project time</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">9</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>Chinese industry and water </li>-->
+<!--                        <li>local and provincial government</li>-->
+<!--                        <li>Qu Fu: confuciuos</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">10</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>Qu Fu: confuciuos</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">11</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>social science research And china</li>-->
+<!--                        <li>social science and environmental policy</li>-->
+<!--                        <li>research design </li>-->
+<!--                        <li>field research</li>-->
+<!--                        <li>cce-breaking</li>-->
+<!--                        <li>policy project time</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">12</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>closing panel and presentations </li>-->
+<!--                        <li>closing dinner </li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!---->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <th scope="row" class="text-center">13</th>-->
+<!--                <td>-->
+<!--                    <ul class="list-inline">-->
+<!--                        <li>program close</li>-->
+<!--                    </ul>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            </tbody>-->
+<!--        </table>-->
+<!---->
+<!---->
+<!---->
+<!---->
+<!--    </div>-->
+<!--</div>-->
 
 <!--benefits-->
 <div class="course-benefits ">

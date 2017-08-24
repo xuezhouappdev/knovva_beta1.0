@@ -279,7 +279,7 @@ $(function(){
 
 
 
-    contactform.on('submit',function(e) {  //Don't foget to change the id form
+    contactform.on('submit',function(e) {  //Don't forget to change the id form
         if(contactform.valid() ){
             $.ajax({
                 url:'../app/hubspot-input.php', //===PHP file name====

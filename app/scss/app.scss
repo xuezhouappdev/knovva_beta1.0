@@ -1898,7 +1898,48 @@ footer {
 
 
 
+/*
+################
+10. subscribe
+################
+*/
 
+
+.subscription {
+  .jumbotron {
+    height: 100vh;
+    margin-bottom: 0;
+    border-radius: 0;
+
+    h1 {
+      color: white;
+      text-align: center;
+      margin-top: 40vh;
+      font-size:100px;
+    }
+
+  }
+
+  .section1 {
+    background: blueviolet;
+  }
+
+  .section2 {
+    background: #f04197;
+    #subbox{
+      background: #d0d0d0;
+    }
+  }
+
+
+  .section3 {
+    background: #2182ff;
+
+
+  }
+
+
+}
 
 
 
