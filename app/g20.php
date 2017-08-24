@@ -78,7 +78,7 @@ include 'header.php'; ?>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">9 - 12</span></h5></li>
                    </ul>
                    <h5>course price: TBD</h5>
-                   <a class="enroll-btn">enrollment has ended</a>
+                   <a class="enroll-btn">registration coming soon</a>
 
                </div>
            </div>

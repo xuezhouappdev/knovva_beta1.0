@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/footer.php" afterPath="$PROJECT_DIR$/app/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/g20.php" afterPath="$PROJECT_DIR$/app/g20.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
     </list>
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +73,8 @@
       <file leaf-file-name="g20.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/g20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+            <state relative-caret-position="184">
+              <caret line="80" column="65" lean-forward="false" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -244,8 +240,8 @@
         <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/subscription.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
-        <option value="$PROJECT_DIR$/app/g20.php" />
         <option value="$PROJECT_DIR$/app/test.php" />
+        <option value="$PROJECT_DIR$/app/g20.php" />
       </list>
     </option>
   </component>
@@ -531,14 +527,7 @@
       <workItem from="1503062045167" duration="521000" />
       <workItem from="1503341811449" duration="5733000" />
       <workItem from="1503435146041" duration="215000" />
-      <workItem from="1503587786517" duration="2906000" />
-    </task>
-    <task id="LOCAL-00042" summary="updated program page">
-      <created>1501097622405</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1501097622405</updated>
+      <workItem from="1503587786517" duration="3084000" />
     </task>
     <task id="LOCAL-00043" summary="updated career page">
       <created>1501120527063</created>
@@ -876,11 +865,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503033619754</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="fixed pagination for vertical slider">
+      <created>1503606410253</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1503606410254</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352760000" />
+    <option name="totallyTimeSpent" value="352938000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -899,9 +895,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39863014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14383562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14383562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -909,7 +906,6 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1329,8 +1325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/g20.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        <state relative-caret-position="184">
+          <caret line="80" column="65" lean-forward="false" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
           <folding />
         </state>
       </provider>
