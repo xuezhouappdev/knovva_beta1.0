@@ -80,6 +80,7 @@ include 'header.php';
                     </div>
 
                 </div>
+
                 <table class="table ">
                     <thead class="thead-default">
                     <tr>
@@ -101,14 +102,8 @@ include 'header.php';
                     <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Online-Learning-Specialist-e773ce5b769d3096?sjdu=QwrRXKrqZ3CNX5W-O9jEvXpd2dD8GEnwePFN02zM9O4H0tsgdy6ngwL9NMkS_IpJogovCHPXIDySlODMz_z9f04dpWXe_Lz0UPTMMphNsmQ">Online Learning Specialist</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
-
                     </tr>
 
-<!--                    <tr>-->
-<!--                        <td scope="row">Program Evaluation Intern</td>-->
-<!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
-<!---->
-<!--                    </tr>-->
 
 
 
@@ -116,6 +111,41 @@ include 'header.php';
                     </tbody>
 
                 </table>
+
+                <div class="row justify-content-center">
+
+                    <div class="bd-image">
+                        <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size: cover">
+                        </div>
+                        <h4>marketing</h4>
+                    </div>
+
+                </div>
+
+
+
+                <table class="table ">
+                    <thead class="thead-default">
+                    <tr>
+
+
+                        <th style="text-align: center" colspan="4"><span>marketing</span></th>
+
+                    </tr>
+                    </thead>
+
+                    <tbody>
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="#">SEM Analyst</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
 
             </div>
