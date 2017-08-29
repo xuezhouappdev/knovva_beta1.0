@@ -84,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/app/career.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="131" column="95" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="95" />
+              <caret line="131" column="86" lean-forward="false" selection-start-line="131" selection-start-column="86" selection-end-line="131" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -538,14 +538,7 @@
       <workItem from="1503341811449" duration="5733000" />
       <workItem from="1503435146041" duration="215000" />
       <workItem from="1503587786517" duration="4494000" />
-      <workItem from="1504019528819" duration="64000" />
-    </task>
-    <task id="LOCAL-00046" summary="0727">
-      <created>1501204101653</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1501204101653</updated>
+      <workItem from="1504019528819" duration="99000" />
     </task>
     <task id="LOCAL-00047" summary="added para on the program pgae">
       <created>1501247209896</created>
@@ -883,11 +876,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504019561161</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="updated SEM analyst position">
+      <created>1504019601612</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1504019601613</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354412000" />
+    <option name="totallyTimeSpent" value="354447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1337,7 +1337,7 @@
     <entry file="file://$PROJECT_DIR$/app/career.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="131" column="95" lean-forward="false" selection-start-line="131" selection-start-column="95" selection-end-line="131" selection-end-column="95" />
+          <caret line="131" column="86" lean-forward="false" selection-start-line="131" selection-start-column="86" selection-end-line="131" selection-end-column="86" />
           <folding />
         </state>
       </provider>
