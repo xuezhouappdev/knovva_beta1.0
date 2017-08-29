@@ -129,7 +129,7 @@ include 'header.php';
                     <tr>
 
 
-                        <th style="text-align: center" colspan="4"><span>marketing</span></th>
+                        <th style="text-align: center" colspan="4"><span>IT</span></th>
 
                     </tr>
                     </thead>
