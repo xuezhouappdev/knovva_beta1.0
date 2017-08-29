@@ -117,7 +117,7 @@ include 'header.php';
                     <div class="bd-image">
                         <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size: cover">
                         </div>
-                        <h4>marketing</h4>
+                        <h4>Information Technology</h4>
                     </div>
 
                 </div>
@@ -129,7 +129,7 @@ include 'header.php';
                     <tr>
 
 
-                        <th style="text-align: center" colspan="4"><span>IT</span></th>
+                        <th style="text-align: center" colspan="4"><span>Information Technology</span></th>
 
                     </tr>
                     </thead>
