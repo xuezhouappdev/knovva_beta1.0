@@ -1850,7 +1850,6 @@ footer {
     right: 20px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 1.4em;
     z-index: 10;
     li {
 
@@ -1864,23 +1863,26 @@ footer {
         cursor: pointer;
         color: #d1d2d4;
         i {
-           font-size: 11px;
+           font-size: 8px;
            font-weight: 800;
            text-align: center;
+           opacity: 0.4;
+           transition: all 0.3s linear;
 
           &:hover {
             text-decoration: none;
+            transform: scale(1.6);
           }
         }
 
-        &.active,&:hover {
-          color: #7f7f7f;
+        &.active, &:hover {
           text-decoration: none;
 
-          i:before{
-            content:"\f111";
-            font-size: 11px;
-            text-align: center;
+
+          i{
+            transform: scale(1.6);
+            transition: all 0.3s linear;
+            opacity: 1;
           }
         }
 

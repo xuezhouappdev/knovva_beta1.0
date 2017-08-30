@@ -377,7 +377,7 @@ include 'footer.php';
                     if(i===0) {
                         activeClass = "active";
                     }
-                    pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\">" + "<i class=\"fa fa-circle-o\" aria-hidden=\"true\"></i>"  + "</a></li>";
+                    pagination += "<li><a class=\"" + activeClass + "\" href=\"#" + $(this).attr("data-section-name") + "\">" + "<i class=\"fa fa-circle\" aria-hidden=\"true\"></i>"  + "</a></li>";
                 });
 
                 pagination += "</ul>";
