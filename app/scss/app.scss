@@ -1877,11 +1877,8 @@ footer {
 
         &.active, &:hover {
           text-decoration: none;
-
-
           i{
             transform: scale(1.6);
-            transition: all 0.3s linear;
             opacity: 1;
           }
         }
