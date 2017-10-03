@@ -4,7 +4,7 @@ var connect       = require('gulp-connect-php');
 var sass          = require('gulp-sass');
 var sourcemaps    = require('gulp-sourcemaps');
 
-// Static Server + watching scss/html files
+// Static Server + watching scss/html filesgu
 gulp.task('serve', ['sass'], function() {
 
     browserSync.init({
