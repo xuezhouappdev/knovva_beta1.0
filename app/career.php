@@ -94,13 +94,13 @@ include 'header.php';
 
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Educational-Project-Manager-14137bfcf3b0dda4?q=knovva+academy">Educational Project Manager</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_1.php">Educational Project Manager</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></td>
 
                     </tr>
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="https://www.indeed.com/cmp/GiantBug-Education-Inc/jobs/Online-Learning-Specialist-e773ce5b769d3096?sjdu=QwrRXKrqZ3CNX5W-O9jEvXpd2dD8GEnwePFN02zM9O4H0tsgdy6ngwL9NMkS_IpJogovCHPXIDySlODMz_z9f04dpWXe_Lz0UPTMMphNsmQ">Online Learning Specialist</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_2.php">Online Learning Specialist</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
@@ -136,7 +136,7 @@ include 'header.php';
 
                     <tbody>
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="#">SEM Analyst</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_it_1.php">SEM Analyst</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></td>
 
                     </tr>
