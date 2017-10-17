@@ -1,5 +1,5 @@
 <?php
-$pageTitle="Position - Educational Project Manager | Knovva Academy";
+$pageTitle="Position - Online​ ​Learning​ ​Experience​ ​Designer | Knovva Academy";
 include 'header.php';
 ?>
 
@@ -9,7 +9,7 @@ include 'header.php';
     <div class="position-banner" style="background: url('./img/position-epm.jpg') bottom center no-repeat;background-size: cover;">
         <div class="container">
             <div class="row justify-content-center">
-                <h1>Educational Project Manager</h1>
+                <h1>​Online​ ​Learning​ ​Experience​ ​Designer</h1>
             </div>
 
             <div class="row justify-content-center">
@@ -26,9 +26,9 @@ include 'header.php';
     <div class="breadcrumb-wrapper">
         <div class="container">
             <nav class="breadcrumb">
-                <a class="breadcrumb-item" href="index.php">home</a>
-                <a class="breadcrumb-item" href="career.php">career</a>
-                <a class="breadcrumb-item" href="#">educational project manager</a>
+                <a class="breadcrumb-item" href="index.php">Home</a>
+                <a class="breadcrumb-item" href="career.php">Career</a>
+                <a class="breadcrumb-item" href="#">​Online​ ​Learning​ ​Experience​ ​Designer</a>
             </nav>
         </div>
     </div>
@@ -37,56 +37,75 @@ include 'header.php';
     <div class="job-description">
         <div class="container">
 
-                <h3>Educational Project Manager</h3>
+                <h3>​Online​ ​Learning​ ​Experience​ ​Designer</h3>
                 <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to think about the big-picture of educational design while managing the small details? Then we are looking for you.</p>
 
-                <h5>about us</h5>
-                <p>About Us:
+                <h5>About us</h5>
+                <p>
 
                     Knovva Academy is an education start-up based in Boston, Massachusetts that strives to provide the best in international education. We work with students from around the world in online and in-person programming to prepare high school students to meet the academic and professional demands of the twenty-first century. Through interdisciplinary and project-based learning, we strive to provide the highest standard of programming in extra-curricular contexts for our students.</p>
 
-                <h5>position overview</h5>
-                <p>We are looking for an Educational Program Manager to guide the development of our in-person educational programs for high school school students from around the world. The Educational Program Manager will be responsible for leading the design and implementation of programs that will cover topics like government, international politics, communications, language and literacy for our winter and summer months. The EPM will maintain a professional-level of thoroughness and resolve to develop clear, comprehensive and usable educational programs. STPM will work closely with other members of the academic team and will report to Head of Academic R+D and Head of Academic Operations.</p>
+                <h5>Position Overview</h5>
+                <p>We are looking for an Online Learning Experience Designer to guide the development for a year-long,
+                    six-course online learning program in​ ​global​ ​citizenship​ ​and​ ​social​ ​innovation​ for high school students
+                    based in the United States and China. The Online Learning Experience Designer will be responsible for
+                    providing creative input, guidance and development of learning design and will maintain a
+                    professional-level of thoroughness and resolve to develop clear, comprehensive and usable educational
+                    programs. The Designer should feel comfortable conducting academic research on a range of subjects,
+                    collaborating with external partners, exploring trends in international education, ed-tech and be prepared
+                    to apply their learning to innovative learning opportunities for high school students in online forms.</p>
 
 
-                <h5>job description</h5>
+                <h5>Job Description</h5>
                 <ul>
-                    <li>Lead the development and management of in-person educational programs</li>
-                    <li>Coordinate program implementation with internal and external staff</li>
-                    <li>Coordinate with partner organizations to ensure smooth and efficient operational procedures</li>
-                    <li>Design curriculum on a range of academic subjects</li>
-                    <li>Coordinate with technical support staff and other curriculum designers to ensure a smooth production of learning materials across disciplines</li>
+                    <li>Provide curriculum design support for online courses</li>
+                    <li>Integrate various technologies to create exceptional online learning experiences</li>
+                    <li>Research the impact and benefit of various ed-tech tools and advise on integration</li>
+                    <li>Support and manage the production of online learning between Knovva departments</li>
+                    <li>Supporting Marketing and BD in efforts to capture the value of educational programs</li>
                     <li>Support Marketing and BD in efforts to capture the value of educational programs.</li>
-                    <li>Collaborate with members of the academic team to polish product, establish goals and provide timely feedback.</li>
-                    <li>Teach periodic classes to students on a range of technical disciplines</li>
+                    <li>Coordinate with technical support staff and curriculum designers to ensure a smooth production
+                        of learning materials across disciplines</li>
+                    <li>Collaborate with members of the academic team to polish product, establish goals and provide
+                        timely feedback</li>
                 </ul>
 
-                <h5>qualification</h5>
+                <h5>Qualification</h5>
                 <ul>
                     <li>Ability to conduct research on a range of academic subjects</li>
+                    <li>Ability to think about, experiment and use various technologies to create interactive online
+                        courses</li>
                     <li>Ability to think critically and creatively about educational programming</li>
                     <li>Ability to clarify learning goals and develop responsive curriculum</li>
-                    <li>Ability to organize around operational needs in curriculum development</li>
-                    <li>Ability to leverage online learning to supplement in-person programs</li>
-                    <li>Ability to think about, experiment and use various technologies to facilitate learning</li>
+                    <li>Ability to consider operational needs in curriculum development</li>
+                    <li>Ability to explore and innovate in online learning on a variety of subjects</li>
+                    <li>Strong familiarity with online learning technologies</li>
                     <li>Ability to work independently and on a team</li>
                     <li>Ability to work in an international professional environment</li>
-                    <li>Sense of humor, patient and has strong communication skills.</li>
-                    <li>Resourceful and resilient in a startup environment</li>
+                    <li>Sense of humor, patient and has strong communication skills</li>
                 </ul>
 
-                <h5>background</h5>
+                <h5>Background</h5>
                 <ul>
-                    <li>5+ years working experience in education</li>
-                    <li>Master’s degree or higher, preferred</li>
-                    <li>Experience working in curriculum design for international students, Chinese students a plus</li>
+                    <li>3-5 years work experience in education</li>
+                    <li>Master’s degree or higher, background in education technology preferred</li>
+                    <li>Strong technical background with video editing, and online integrative technologies</li>
                     <li>Experience in an international start-up or NGO a plus</li>
                 </ul>
 
-                <p>The Educational Program Manager is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience.</p>
+                <h5>Office​ ​Environment:</h5>
+                <p>This job operates in a professional office environment in such the employee is not substantially exposed
+                    to adverse environmental conditions. This role routinely uses standard office equipment such as
+                    computers, phones, photocopiers, filing cabinets, and fax machines.</p>
 
-                <h5>how to apply</h5>
-                <p>If you have interests, please kindly send you resume to <a href="mailto:career@knovva.com?Subject=Job%20Application" target="_top">career@knovva.com</a></p>
+
+
+                <p>The​ ​ONLINE​ ​LEARNING​ ​EXPERIENCE​ ​DESIGNER​ ​is​ ​a​ ​full-time,​ ​salaried​ ​position​ ​based​ ​in
+                    Knovva​ ​Academy’s​ ​office​ ​in​ ​the​ ​Seaport​ ​neighborhood​ ​of​ ​Boston.​ ​Salary​ ​is​ ​competitive​ ​and
+                    commensurate​ ​with​ ​experience.​ ​We​ ​expect​ ​the​ ​position​ ​to​ ​start​ ​ASAP.</p>
+
+                <h5>How to Apply</h5>
+            <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:charlotte.michaud@knovva.com ?Subject=Job%20Application" target="_top">charlotte.michaud@knovva.com.</a> No phone calls please.</p>
 
         </div>
     </div>

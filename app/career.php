@@ -10,8 +10,8 @@ include 'header.php';
 
     <div class="career-slogan ">
         <div class="container">
-            <h1 class="animated fadeInDown">education matters.</h1>
-            <p ><a href="#joblist" id="career-start-btn">get started  </a></p>
+            <h1 class="animated fadeInDown">Education matters.</h1>
+            <p ><a href="#joblist" id="career-start-btn">Get started  </a></p>
 
         </div>
     </div>
@@ -22,7 +22,7 @@ include 'header.php';
 <div class="department">
     <div class="container">
         <p style="text-align: center;margin-bottom: 0;padding-bottom: 0"><b>Knovva Academy is hiring!</b></p>
-        <p>we are seeking energetic and enthusiastic individuals to join our Boston-based team. we are looking to add talent to our company to help us fulfill our mission of adapting education to the twenty first century. if you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
+        <p>We are seeking energetic and enthusiastic individuals to join our Boston-based team. we are looking to add talent to our company to help us fulfill our mission of adapting education to the twenty first century. if you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
         </p>
 
 
@@ -76,7 +76,7 @@ include 'header.php';
                     <div class="bd-image ">
                         <div style="background: url('img/dpt-academic.jpg') no-repeat top center;background-size: cover">
                         </div>
-                        <h4>academic operations</h4>
+                        <h4>Academic Operations</h4>
                     </div>
 
                 </div>
@@ -85,7 +85,7 @@ include 'header.php';
                     <thead class="thead-default">
                     <tr>
 
-                        <th style="text-align: center" colspan="4"><span>academic operation</span></th>
+                        <th style="text-align: center" colspan="4"><span>Academic Operation</span></th>
 
                     </tr>
                     </thead>
@@ -94,13 +94,13 @@ include 'header.php';
 
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_1.php">Educational Project Manager</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_1.php">​Online​ ​Learning​ ​Experience​ ​Designer</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></td>
 
                     </tr>
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_2.php">Online Learning Specialist</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_2.php">Multimedia Specialist</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
@@ -117,7 +117,7 @@ include 'header.php';
                     <div class="bd-image">
                         <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size: cover">
                         </div>
-                        <h4>information technology</h4>
+                        <h4>Information Technology</h4>
                     </div>
 
                 </div>
@@ -129,7 +129,7 @@ include 'header.php';
                     <tr>
 
 
-                        <th style="text-align: center" colspan="4"><span>information technology</span></th>
+                        <th style="text-align: center" colspan="4"><span>Information Technology</span></th>
 
                     </tr>
                     </thead>
@@ -158,7 +158,7 @@ include 'header.php';
 <!-- weloveour people -->
 <div class="loveourpeople">
     <div class="container">
-        <h3>we love our people</h3>
+        <h3>We love our people.</h3>
 
         <div class="row">
             <div class="col-md-4">

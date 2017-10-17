@@ -4,19 +4,15 @@ include 'header.php';
 ?>
 
 
-
     <!--position banner-->
     <div class="position-banner" style="background: url('./img/position-sem.jpg') bottom center no-repeat;background-size: cover;">
         <div class="container">
             <div class="row justify-content-center">
                 <h1>SEM Analyst</h1>
             </div>
-
             <div class="row justify-content-center">
                 <p>Boston, MA</p>
             </div>
-
-
         </div>
     </div>
 
@@ -26,8 +22,8 @@ include 'header.php';
     <div class="breadcrumb-wrapper">
         <div class="container">
             <nav class="breadcrumb">
-                <a class="breadcrumb-item" href="index.php">home</a>
-                <a class="breadcrumb-item" href="career.php">career</a>
+                <a class="breadcrumb-item" href="index.php">Home</a>
+                <a class="breadcrumb-item" href="career.php">Career</a>
                 <a class="breadcrumb-item" href="#">SEM Analyst</a>
             </nav>
         </div>
@@ -40,7 +36,7 @@ include 'header.php';
                 <h3>SEM Analyst</h3>
                 <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to think about the big-picture of educational design while managing the small details? Then we are looking for you.</p>
 
-                <h5>about us</h5>
+                <h5>About Us</h5>
                 <p>
                     Knovva Academy is an education start-up based in Boston, Massachusetts that strives to provide the best in international education. We work with students from around the world in online and in-person programming to prepare high school students to meet the academic and professional demands of the twenty-first century. Through interdisciplinary and project-based learning, we strive to provide the highest standard of programming in extra-curricular contexts for our students.</p>
 
@@ -48,7 +44,7 @@ include 'header.php';
 <!--                <p>We are looking for an Online Learning Specialist position to guide the development for an online learning course in robotics for high school students based in the United States and China. The Online Learning Specialist will be responsible for providing creative input, guidance and development of learning design and will maintain a professional-level of thoroughness and resolve to develop clear, comprehensive and usable educational programs. The OLS should feel comfortable conducting academic research on a range of subjects, collaborating with external partners, exploring trends in international education, ed-tech and be prepared to apply their learning to innovative learning opportunities for high school students in online forms.</p>-->
 
 
-                <h5>job description</h5>
+                <h5>Job Description</h5>
                 <ul>
                     <li>Define Knovva’s online marketing campaign strategy and perform digital marketing analysis to execute strategies</li>
                     <li>Be highly specialized in search-result ranking algorithms of major search engines;
@@ -63,7 +59,7 @@ include 'header.php';
                     </li>
                 </ul>
 
-                <h5>qualification</h5>
+                <h5>Qualification</h5>
                 <ul>
                     <li>Bachelor’s degree in Information Technology, Digital Marketing or in a closely related discipline;
                     </li>
@@ -79,11 +75,9 @@ include 'header.php';
 <!--                    <li>Strong technical background with video editing, and online integrative technologies</li>-->
 <!--                    <li>Experience in an international start-up or NGO a plus</li>-->
 <!--                </ul>-->
-            
 
-                <h5>how to apply</h5>
-                <p>If you have interests, please kindly send you resume to <a href="mailto:career@knovva.com?Subject=Job%20Application" target="_top">career@knovva.com</a></p>
-
+                <h5>How to Apply</h5>
+            <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:charlotte.michaud@knovva.com ?Subject=Job%20Application" target="_top">charlotte.michaud@knovva.com.</a> No phone calls please.</p>
         </div>
     </div>
 
