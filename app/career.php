@@ -71,6 +71,7 @@ include 'header.php';
         <div class="row justify-content-center">
             <div class="col-sm-9">
 
+                <!--academic-->
                 <div class="row justify-content-center">
 
                     <div class="bd-image ">
@@ -104,6 +105,16 @@ include 'header.php';
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_3.php">Curriculum Designer</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_4.php">ESL Teacher - Part Time</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
 
 
 
@@ -112,17 +123,97 @@ include 'header.php';
 
                 </table>
 
+                <!--marketing-->
+                <div class="row justify-content-center">
+
+                    <div class="bd-image ">
+                        <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size: cover">
+                        </div>
+                        <h4>Marketing</h4>
+                    </div>
+
+                </div>
+
+                <table class="table ">
+                    <thead class="thead-default">
+                    <tr>
+
+                        <th style="text-align: center" colspan="4"><span>Marketing</span></th>
+
+                    </tr>
+                    </thead>
+
+                    <tbody>
+
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_1.php">Digital Marketing Specialist</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_2.php">Content Marketing Specialist</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+
+                    </tbody>
+
+                </table>
+
+                <!--admin-->
+                <div class="row justify-content-center">
+
+                    <div class="bd-image ">
+                        <div style="background: url('img/dpt-admin.jpg') no-repeat top center;background-size: cover">
+                        </div>
+                        <h4>Admin</h4>
+                    </div>
+
+                </div>
+
+                <table class="table ">
+                    <thead class="thead-default">
+                    <tr>
+
+                        <th style="text-align: center" colspan="4"><span>Admin</span></th>
+
+                    </tr>
+                    </thead>
+
+                    <tbody>
+
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant to (CEO)</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_2.php">HR Admin</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+
+
+
+                    </tbody>
+
+                </table>
+
+                <!--IT-->
                 <div class="row justify-content-center">
 
                     <div class="bd-image">
-                        <div style="background: url('img/dpt-marketing.jpg') no-repeat center center;background-size: cover">
+                        <div style="
+                        background: url('img/dpt-technology.jpg') no-repeat center center;background-size: cover">
                         </div>
                         <h4>Information Technology</h4>
                     </div>
 
                 </div>
-
-
 
                 <table class="table ">
                     <thead class="thead-default">

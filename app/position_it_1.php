@@ -77,7 +77,7 @@ include 'header.php';
 <!--                </ul>-->
 
                 <h5>How to Apply</h5>
-            <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:charlotte.michaud@knovva.com ?Subject=Job%20Application" target="_top">charlotte.michaud@knovva.com.</a> No phone calls please.</p>
+            <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:careers@knovva.com ?Subject=Job%20Application" target="_top">careers@knovva.com</a>. Applications without cover letters will not be considered. No phone calls, please.</p>
         </div>
     </div>
 

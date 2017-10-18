@@ -6,7 +6,7 @@ include 'header.php';
 
 
     <!--position banner-->
-    <div class="position-banner" style="background: url('./img/position-epm.jpg') bottom center no-repeat;background-size: cover;">
+    <div class="position-banner" style="background: url('./img/position-led.jpg') top center no-repeat;background-size: cover;">
         <div class="container">
             <div class="row justify-content-center">
                 <h1>​Online​ ​Learning​ ​Experience​ ​Designer</h1>
@@ -105,7 +105,7 @@ include 'header.php';
                     commensurate​ ​with​ ​experience.​ ​We​ ​expect​ ​the​ ​position​ ​to​ ​start​ ​ASAP.</p>
 
                 <h5>How to Apply</h5>
-            <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:charlotte.michaud@knovva.com ?Subject=Job%20Application" target="_top">charlotte.michaud@knovva.com.</a> No phone calls please.</p>
+            <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:careers@knovva.com ?Subject=Job%20Application" target="_top">careers@knovva.com</a>. Applications without cover letters will not be considered. No phone calls, please.</p>
 
         </div>
     </div>
