@@ -23,7 +23,7 @@ include 'header.php';
         <div class="container">
             <nav class="breadcrumb">
                 <a class="breadcrumb-item" href="index.php">Home</a>
-                <a class="breadcrumb-item" href="career.php">Career</a>
+                <a class="breadcrumb-item" href="careers.php">Careers</a>
                 <a class="breadcrumb-item" href="#">SEM Analyst</a>
             </nav>
         </div>

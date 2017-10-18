@@ -1,5 +1,5 @@
 <?php
-$pageTitle="career | Knovva Academy";
+$pageTitle="careers | Knovva Academy";
 include 'header.php';
 ?>
 

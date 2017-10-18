@@ -3,27 +3,19 @@
   <component name="ChangeListManager">
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-cmt2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-curriculumdesign.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-dm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-eaceo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-esl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-hradmin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-hradmin2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-led.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/position-mm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/position_academic_3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/position_academic_4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/position_admin_1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/position_admin_2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/position_marketing_1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/position_marketing_2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/img/position-onlinelearning.jpg" afterPath="$PROJECT_DIR$/app/img/position-cmt.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/career.php" afterPath="$PROJECT_DIR$/app/careers.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/career.php" afterPath="$PROJECT_DIR$/app/career.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/footer.php" afterPath="$PROJECT_DIR$/app/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_1.php" afterPath="$PROJECT_DIR$/app/position_academic_1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_2.php" afterPath="$PROJECT_DIR$/app/position_academic_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_3.php" afterPath="$PROJECT_DIR$/app/position_academic_3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_4.php" afterPath="$PROJECT_DIR$/app/position_academic_4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_admin_1.php" afterPath="$PROJECT_DIR$/app/position_admin_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_admin_2.php" afterPath="$PROJECT_DIR$/app/position_admin_2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_1.php" afterPath="$PROJECT_DIR$/app/position_it_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_1.php" afterPath="$PROJECT_DIR$/app/position_marketing_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_2.php" afterPath="$PROJECT_DIR$/app/position_marketing_2.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,38 +40,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="career.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/career.php">
+      <file leaf-file-name="position_academic_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_academic_1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="113" column="102" lean-forward="false" selection-start-line="113" selection-start-column="102" selection-end-line="113" selection-end-column="102" />
+            <state relative-caret-position="352">
+              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding>
-                <element signature="n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#table#1;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#table#2;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#2;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#table#3;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#3;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position_academic_4.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="position_academic_2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_academic_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="29" column="69" lean-forward="false" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_it_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_it_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="69" lean-forward="false" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_marketing_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_marketing_2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_marketing_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="48" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_academic_3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_academic_3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_academic_4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/position_academic_4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-259">
-              <caret line="8" column="88" lean-forward="false" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
-              <folding />
+            <state relative-caret-position="450">
+              <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_admin_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,9 +145,11 @@
       <file leaf-file-name="position_admin_2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/position_admin_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="8" column="73" lean-forward="false" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-              <folding />
+            <state relative-caret-position="432">
+              <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,7 +235,6 @@
         <option value="$PROJECT_DIR$/app/contact.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/scss/_hamburger-setting.scss" />
-        <option value="$PROJECT_DIR$/app/header.php" />
         <option value="$PROJECT_DIR$/app/vendor/typedjs/defaults.js" />
         <option value="$PROJECT_DIR$/app/vertical-slide2.php" />
         <option value="$PROJECT_DIR$/app/vendor/scrollify/jquery.scrollify.js" />
@@ -187,20 +246,21 @@
         <option value="$PROJECT_DIR$/app/g20.php" />
         <option value="$PROJECT_DIR$/app/vertical-slide.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/reading-literature.php" />
         <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/index.php" />
-        <option value="$PROJECT_DIR$/app/position_it_1.php" />
-        <option value="$PROJECT_DIR$/app/position_academic_3.php" />
-        <option value="$PROJECT_DIR$/app/position_marketing_1.php" />
-        <option value="$PROJECT_DIR$/app/position_admin_1.php" />
-        <option value="$PROJECT_DIR$/app/position_marketing_2.php" />
-        <option value="$PROJECT_DIR$/app/position_academic_2.php" />
-        <option value="$PROJECT_DIR$/app/position_admin_2.php" />
         <option value="$PROJECT_DIR$/app/career.php" />
+        <option value="$PROJECT_DIR$/app/header.php" />
+        <option value="$PROJECT_DIR$/app/footer.php" />
         <option value="$PROJECT_DIR$/app/position_academic_1.php" />
+        <option value="$PROJECT_DIR$/app/position_academic_2.php" />
+        <option value="$PROJECT_DIR$/app/position_academic_3.php" />
         <option value="$PROJECT_DIR$/app/position_academic_4.php" />
+        <option value="$PROJECT_DIR$/app/position_admin_1.php" />
+        <option value="$PROJECT_DIR$/app/position_admin_2.php" />
+        <option value="$PROJECT_DIR$/app/position_it_1.php" />
+        <option value="$PROJECT_DIR$/app/position_marketing_1.php" />
+        <option value="$PROJECT_DIR$/app/position_marketing_2.php" />
       </list>
     </option>
   </component>
@@ -215,9 +275,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
-    <option name="y" value="23" />
-    <option name="width" value="879" />
+    <option name="x" value="-2" />
+    <option name="y" value="82" />
+    <option name="width" value="1442" />
     <option name="height" value="831" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -267,12 +327,6 @@
               <item name="knovva_beta1.0" type="b2602c69:ProjectViewProjectNode" />
               <item name="knovva_beta1.0" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="knovva_beta1.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knovva_beta1.0" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -449,7 +503,7 @@
       <workItem from="1507819234915" duration="673000" />
       <workItem from="1508264019460" duration="3676000" />
       <workItem from="1508336501203" duration="409000" />
-      <workItem from="1508344163235" duration="7655000" />
+      <workItem from="1508344163235" duration="8504000" />
     </task>
     <task id="LOCAL-00053" summary="updated contact page to model">
       <created>1501560730844</created>
@@ -798,7 +852,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="382192000" />
+    <option name="totallyTimeSpent" value="383041000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -810,16 +864,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="185" y="23" width="879" height="831" extended-state="0" />
+    <frame x="-2" y="82" width="1442" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39426523" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23571429" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19574468" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.025815217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11684783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -980,13 +1035,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1262">
-          <caret line="96" column="100" lean-forward="false" selection-start-line="96" selection-start-column="100" selection-end-line="96" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/test.php" />
     <entry file="file://$PROJECT_DIR$/app/vendor/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1049,14 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1174,49 +1214,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_it_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="190" lean-forward="false" selection-start-line="79" selection-start-column="190" selection-end-line="79" selection-end-column="190" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/img/position-led.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_academic_3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="68" lean-forward="true" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="86" lean-forward="false" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_academic_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="8" column="86" lean-forward="true" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/career.php">
+    <entry file="file://$PROJECT_DIR$/app/careers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
           <caret line="113" column="102" lean-forward="false" selection-start-line="113" selection-start-column="102" selection-end-line="113" selection-end-column="102" />
@@ -1240,39 +1243,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/position-led.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/app/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/position_academic_1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          <folding />
+        <state relative-caret-position="352">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_marketing_2.php">
+    <entry file="file://$PROJECT_DIR$/app/position_academic_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="84" lean-forward="true" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="84" />
-          <folding />
+        <state relative-caret-position="394">
+          <caret line="29" column="69" lean-forward="false" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_admin_2.php">
+    <entry file="file://$PROJECT_DIR$/app/position_academic_3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="8" column="73" lean-forward="false" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+        <state relative-caret-position="435">
+          <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/position_academic_4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="8" column="88" lean-forward="false" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
+        <state relative-caret-position="450">
+          <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_admin_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_it_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="69" lean-forward="false" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_marketing_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="48" selection-end-column="22" />
           <folding />
         </state>
       </provider>
