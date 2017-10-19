@@ -187,7 +187,7 @@ include 'header.php';
 
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant to (CEO)</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant (to CEO)</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></td>
 
                     </tr>
@@ -233,6 +233,24 @@ include 'header.php';
 
                     </tr>
 
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_it_2.php">Junior Software Developer </a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_it_3.php">Senior Full-Stack Developer </a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
+
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_it_4.php">UI/UX Designer </a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></td>
+
+                    </tr>
 
                     </tbody>
                 </table>

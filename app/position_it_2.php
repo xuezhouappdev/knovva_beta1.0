@@ -1,0 +1,87 @@
+<?php
+$pageTitle="Position - Junior Software Developer | Knovva Academy";
+include 'header.php';
+?>
+
+
+    <!--position banner-->
+    <div class="position-banner" style="background: url('./img/position-junior.jpg') top center no-repeat;background-size: cover;">
+        <div class="container">
+            <div class="row justify-content-center">
+                <h1>Junior Software Developer</h1>
+            </div>
+            <div class="row justify-content-center">
+                <p>Boston, MA</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- breadcrumb-->
+    <div class="breadcrumb-wrapper">
+        <div class="container">
+            <nav class="breadcrumb">
+                <a class="breadcrumb-item" href="index.php">Home</a>
+                <a class="breadcrumb-item" href="careers.php">Careers</a>
+                <a class="breadcrumb-item" href="#">Junior Software Developer</a>
+            </nav>
+        </div>
+    </div>
+
+
+    <div class="job-description">
+        <div class="container">
+
+                <h3>Junior Software Developer</h3>
+
+
+                <h5>About Us</h5>
+                <p>
+                    Knovva Academy is an education start-up based in Boston, Massachusetts that strives to provide the best in international education. We work with students from around the world in online and in-person programming to prepare high school students to meet the academic and professional demands of the twenty-first century. Through interdisciplinary and project-based learning, we strive to provide the highest standard of programming in extra-curricular contexts for our students.</p>
+
+                <h5>Position Overview</h5>
+                <p>We are looking to add a driven Junior Software Developer to our growing team! The JSD will work with the development team on building our new online-learning platform, including both front-end and back-end development. This is a fantastic opportunity for a developer to gain hands-on experience contributing to the initial design and architecture of the whole product.</p>
+
+
+                <h5>Main Responsibilities</h5>
+                <ul>
+                    <li>Design, code, test, debug, document, and implement software applications according to established standards..</li>
+                    <li>Solve web engineering problems.
+                    </li>
+                    <li>Assist with creating database schemas that represent and support business processes to support a growing platform need.
+                    </li>
+                    <li>Coordinate test plans and acceptance criteria.
+                    </li>
+                    <li>Partner effectively with product management and engineering stakeholders.
+                    </li>
+                    <li>Give feedback during the first few drafts of UI/UX design.
+                    </li>
+                    <li>When the product is live, perform testing in coordination with development team.</li>
+                </ul>
+
+                <h5>Qualification</h5>
+                <ul>
+                    <li>Bachelor’s degree in computer science or similar.
+                    </li>
+                    <li>1-3 years experience of web development experience.
+                    </li>
+                    <li>Experience working in an agile environment.</li>
+                    <li>Proficiency in: HTML5, CSS3, JQuery/JavaScript</li>
+                </ul>
+
+
+            <p>The <b>Junior Software Developer</b> is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. This is not a remote position; no travel is currently expected. Must be authorized to work in the United States; sponsorship is not being offered at this time.</p>
+                <h5>How to Apply</h5>
+            <p>If you’re interested in applying, please send your resume and a link to your portfolio (or work samples) to <a href="mailto:careers@knovva.com ?Subject=Job%20Application" target="_top">careers@knovva.com</a>. Applications without cover letters will not be considered. No phone calls, please.</p>
+        </div>
+    </div>
+
+
+
+
+
+
+<?php
+include 'footer.php';
+?>
