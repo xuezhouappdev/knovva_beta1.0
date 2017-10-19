@@ -100,18 +100,14 @@ include 'header.php';
 
                     </tr>
 
+
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_2.php">Multimedia Specialist</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_2.php">Curriculum Designer</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_3.php">Curriculum Designer</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
-                    </tr>
-
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_4.php">ESL Teacher - Part Time</a></td>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_3.php">ESL Teacher - Part Time</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
@@ -154,6 +150,11 @@ include 'header.php';
 
                     <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_2.php">Content Marketing Specialist</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_3.php">Multimedia Specialist</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 

@@ -1,16 +1,16 @@
 <?php
-$pageTitle="Position - Curriculum Designer | Knovva Academy";
+$pageTitle="Position - ESL Teacher - Part Time | Knovva Academy";
 include 'header.php';
 ?>
 
 
 
     <!--position banner-->
-    <div class="position-banner" style="background: url('./img/position-curriculumdesign.jpg') center
+    <div class="position-banner" style="background: url('./img/position-esl.jpg') bottom
      center no-repeat;background-size: cover;">
         <div class="container">
             <div class="row justify-content-center">
-                <h1>Curriculum Designer</h1>
+                <h1>ESL Teacher - Part Time</h1>
             </div>
 
             <div class="row justify-content-center">
@@ -29,7 +29,7 @@ include 'header.php';
             <nav class="breadcrumb">
                 <a class="breadcrumb-item" href="index.php">Home</a>
                 <a class="breadcrumb-item" href="careers.php">Careers</a>
-                <a class="breadcrumb-item" href="#">Curriculum Designer</a>
+                <a class="breadcrumb-item" href="#">ESL Teacher - Part Time</a>
             </nav>
         </div>
     </div>
@@ -38,45 +38,51 @@ include 'header.php';
     <div class="job-description">
         <div class="container">
 
-                <h3>Curriculum Designer</h3>
-                <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to think about the big-picture of educational design while managing the small details? Then we are looking for you.</p>
+                <h3>ESL Teacher - Part Time</h3>
+                <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to establish brand name for great products with social value? Then we are looking for you. </p>
 
                 <h5>About Us</h5>
-                <p> Knovva Academy is an education startup that strives to provide the best in blended learning, project-based
-                    education. We work with students in China and in the United States, online and in-person, to prepare them
-                    to meet the academic and professional demands of the 21st century. Located in Boston’s innovative Seaport
-                    District, we offer employees an exciting, entrepreneurial, internationally-diverse environment with lots of learning and future growth opportunities.
+                <p> Knovva Academy is an education start-up based in Boston, Massachusetts that strives to provide the best in international education. We work with students from around the world in online and in-person programming to prepare high school students to meet the academic and professional demands of the twenty-first century. Through interdisciplinary and project-based learning, we strive to provide the highest standard of programming in extra-curricular contexts for our students.
                 </p>
 
                 <h5>Position Overview</h5>
-                <p> We are looking for a Curriculum Designer to work with our product development team developing relevant and motivating curriculum for our online ELL/TOEFL enrichment programs. The Curriculum Designer will lead the efforts to create new curriculum to be used on our online programs and will also be responsible for teaching live-streaming classes of that material.
+                <p> We are looking for a part-time ESL Teacher (ESLT) to host our online live classes and live talk shows for our high school Chinese facing market. The ESLT will host with fellow teachers, present American perspectives, and will frequently do impromptu speaking during each show. The role will work closely with the academic development team.
                 </p>
 
-                <h5>What You'll Do:
+                <h5>Job Description
                 </h5>
                 <ul>
-                    <li>Design, develop, and implement curriculum for our online ELL/TOEFL enrichment programs.</li>
-                    <li>Teach and run the operation of live-streaming classes.</li>
-                    <li>Engage with international ELL students during class time and “office hours.”.</li>
-                    <li>Research and review learning standards, curriculum design frameworks, new technologies, and trajectories in ESL.</li>
-                    <li>Conduct research on a range of academic subjects and provide recommendations for courses.</li>
-                    <li>Monitor program a/b testing periodically over time to maintain curriculum design quality.</li>
-                    <li>Develop test plans, test cases, traceability matrices, test estimations, and tests execution reports.</li>
+                    <li>Teach English online live classes to Chinese high school students. </li>
+                    <li>Present American culture, music, sports, weather, commercials, history, technology, and a variety of subjects for discussion during live classes.</li>
+                    <li>Announce live class information and program schedule.</li>
+                    <li>Engage with international ELL during set office hours.</li>
+                    <li>Read prepared scripts for live classes.</li>
+                    <li>Attend meetings with team to review schedules and other events.</li>
                 </ul>
 
 
-                <h5>Required Qualifications</h5>
+                <h5>Qualifications</h5>
                 <ul>
-                    <li>Bachelor's degree in education, English language arts, or a linguistics-related field required. Master’s degree preferred.</li>
-                    <li>2+ years experience with ESL teaching (preferably in China).</li>
-                    <li>2+ years of experience in ESL and TOEFL tutoring and mentoring (preferably in China).</li>
-                    <li>Strong English skills (both verbal and written).</li>
-                    <li>Strong Chinese skills (both verbal and written) preferred.</li>
+                    <li>A bachelor's degree in communications, journalism, English language arts, or related fields.</li>
+
+                </ul>
+
+                <h5>Desired Background
+                </h5>
+                <ul>
+                    <li>2+ years of experience in ESL teaching. </li>
+                    <li>2+ years of experience in ESL/TOEFL tutoring and mentoring.</li>
+                    <li>1+ years of ESL curriculum design and instructional design (preferred).</li>
+                    <li>Strong presentation and impromptu speaking skills.</li>
+                    <li>Some online live streaming and teaching experiences.</li>
+                    <li>Ability to teach a wide range of students with different English language levels.</li>
+                    <li>Positive attitude, strong work ethic, and energetic personality.</li>
+
                 </ul>
 
 
 
-            <p>The <b>Curriculum Designer</b> is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. <b>Must be authorized to work in the United States; sponsorship is not being offered at this time.</b></p>
+            <p>Knovva Academy’s office is located in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience.</p>
 
 
                 <h5>How to apply</h5>
