@@ -22,12 +22,15 @@
     //scroll to control the navigation, except for the vertical-slide page
 if (window.location.href != "../vertical-slide.php") {
     $(window).scroll(function(){
-        if($(document).scrollTop() > 20) {
+        var p1 = $('#logoimg');
 
+        if($(document).scrollTop() > 20) {
             $('#mynav').addClass("background");
+            p1.attr('src', './img/KAlogo.png').attr('height','24px');
         }
         else {
             $('#mynav').removeClass("background");
+            p1.attr('src', './img/KAlogo2.png').attr('height','30px');
         }
 
     });
@@ -180,8 +183,10 @@ landing_images.eq(0).click(function(){
 
 landing_images.eq(1).click(function(){
     window.location.href="../app/social-innovation-leadership.php";
+});
 
-
+landing_images.eq(2).click(function() {
+    window.location.href = "../app/reading-literature.php";
 });
 
 

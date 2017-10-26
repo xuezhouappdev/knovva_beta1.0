@@ -11,7 +11,7 @@ session_start();
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <!--    <link rel="icon" href="img/favicon.ico">-->
-    <link rel="icon" href="favicon.png" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <title><?php echo $pageTitle; ?></title>
 
     <!--bootstrap-->
@@ -31,6 +31,9 @@ session_start();
 
     <!-- Costom CSS This file is converted from scss-->
     <link rel="stylesheet" href="./css/app.css">
+
+    <!---->
+    <link rel="stylesheet" href="vendor/lightgallery.js/dist/css/lightgallery.css">
 
 
     <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -72,7 +75,7 @@ session_start();
 
         <a class="navbar-brand" href="index.php">
         <!--<img src="img/logo-trim.png" width="90" height="30" alt="Knovva Academy">-->
-            <p class="animated flipInX"><span >Knovva</span>&nbsp;<span>Academy</span> </p>
+            <p class="animated flipInX"><img id="logoimg" src="img/KAlogo2.png" width="auto" height="30px" name="logoimg"> </p>
         </a>
 
         <a class="hidden-md-up program-visible" style="cursor: pointer" href="programs.php">
@@ -84,16 +87,22 @@ session_start();
                 <li class="nav-item" id="showwhencollapse">
                     <a class="nav-link" href="programs.php">programs</a>
                 </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="about.php">about</a>
+                </li>
+
                 <li class="nav-item">
                     <a class="nav-link" href="http://blog.knovva.com/" target="_blank">blog</a>
                 </li>
+
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         more
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <!--<a class="dropdown-item" href="index.php#whoweare">about</a>-->
                         <a class="dropdown-item" href="careers.php">careers</a>
+<!--                        <a class="dropdown-item" href="about.php">about</a>-->
                         <a class="dropdown-item" href="#" data-toggle="modal" data-target="#myModal">contact</a>
                     </div>
                 </li>

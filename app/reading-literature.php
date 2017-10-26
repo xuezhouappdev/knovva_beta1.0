@@ -4,7 +4,7 @@ include 'header.php'; ?>
 
 
 <!--g20-banner-->
-<div class="g20-banner" style="background: url('img/reading-group.jpg') center center no-repeat;background-size: cover" >
+<div class="rd-banner" >
     <div class="container">
 
         <div class="g20-slogan animated fadeInDown" >
@@ -29,7 +29,7 @@ include 'header.php'; ?>
 <!--course-intro-->
 <div class="course">
     <div class="container">
-        <h2>reading & literature program</h2>
+        <h2>Reading & Literature Program</h2>
 
          <div class="row">
            <div class="col-md-8">
@@ -52,13 +52,13 @@ include 'header.php'; ?>
 <!--                       </div>-->
 
                        <div class="col-sm-6 categories-info">
-                           <p>subject</p>
-                           <p><b>literature</b></p>
+                           <p>Subject</p>
+                           <p><b>Literature</b></p>
                        </div>
                    </div>
                </div>
 
-               <h5>about the course</h5>
+               <h5>About the Course</h5>
                <p>A program for high school students seeking opportunities
                    to read and study literature in a supportive online environment
                <ul>
@@ -67,7 +67,7 @@ include 'header.php'; ?>
                </ul>
                </p>
 
-               <h5>course structure</h5>
+               <h5>Course Structure</h5>
                <p>Students read independently from the assigned literature selection and participate in weekly 45 minute live instructor facilitated discussion focusing on different themes. Students will engage with instructor for individualized biweekly one to one mentoring sessions of 15 minutes each.
                    Literature selections can be customized or groups of 12 or more.
 
@@ -77,7 +77,7 @@ include 'header.php'; ?>
 
            <div class="col-md-4">
                <div class="feature-wrapper">
-                   <h4>course features</h4>
+                   <h4>Course Features</h4>
                    <ul class="list-unstyled">
                        <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">November 3rd 2017</span></h5></li>
                        <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">6 weeks per session</span></h5></li>
@@ -86,7 +86,7 @@ include 'header.php'; ?>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">8 - 10</span></h5></li>
                    </ul>
 <!--                   <h5>course price: $2998</h5>-->
-                   <a class="enroll-btn" data-toggle="modal" data-target="#myModal">request for more information</a>
+                   <a class="enroll-btn" data-toggle="modal" data-target="#myModal">Request for More Information</a>
                </div>
            </div>
        </div>
@@ -96,13 +96,13 @@ include 'header.php'; ?>
 <!--course structure-->
 <div class="course-structure">
     <div class="container">
-        <h5>curriculum structure </h5>
+        <h5>Curriculum Structure </h5>
 
         <table class="table table-striped table-sm">
             <thead>
             <tr >
                 <th width="20%" class="text-center">week#</th>
-                <th width="80%">content</th>
+                <th width="80%">Content</th>
             </tr>
             </thead>
             <tbody>
@@ -209,7 +209,7 @@ include 'header.php'; ?>
 <section class="testimonial">
 
   <div class="container-fluid">
-      <h4>testimonial</h4>
+      <h4></h4>
 
 
           <!--Quotes slider -->

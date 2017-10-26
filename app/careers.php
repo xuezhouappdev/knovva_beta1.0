@@ -1,5 +1,5 @@
 <?php
-$pageTitle="careers | Knovva Academy";
+$pageTitle="Careers | Knovva Academy";
 include 'header.php';
 ?>
 
@@ -108,6 +108,11 @@ include 'header.php';
 
                     <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="position_academic_3.php">ESL Teacher - Part Time</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_4.php">Curriculum Designer Intern</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 

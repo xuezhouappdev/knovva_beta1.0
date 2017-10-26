@@ -1,21 +1,24 @@
 <?php
 $pageTitle="programs - Model G20 2018 | Knovva Academy";
-include 'header.php'; ?>
+include 'header.php';
+require_once('program.php');
+?>
+
 
 
 <!--g20-banner-->
-<div class="g20-banner"   >
+<div class="g20-banner">
     <div class="container">
 
         <div class="g20-slogan animated fadeInDown">
 
             <div class="row justify-content-center">
-                <h2 >Model G20 2018 program</h2>
+                <h2 ><?//php  echo $program_g20->get_program_title(); ?></h2>
             </div>
 
             <div class="row justify-content-center">
                 <div class="col-sm-8">
-                    <a class="fancy" data-fancybox href="https://youtu.be/FE0rKL_HvbQ" >watch the video</a>
+<!--                    <a class="fancy" data-fancybox href="https://youtu.be/FE0rKL_HvbQ" >watch the video</a>-->
                 </div>
             </div>
 
@@ -29,7 +32,7 @@ include 'header.php'; ?>
 <!--course-intro-->
 <div class="course">
     <div class="container">
-        <h2>Model G20 2018 program</h2>
+        <h2><?php  echo $program_g20->get_program_title(); ?></h2>
 
          <div class="row">
            <div class="col-md-8">
@@ -293,7 +296,7 @@ include 'header.php'; ?>
 <section class="testimonial">
 
   <div class="container-fluid">
-      <h4>testimonial</h4>
+      <h4></h4>
 
 
           <!--Quotes slider -->

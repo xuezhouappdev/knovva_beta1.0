@@ -3,8 +3,8 @@ $pageTitle="programs - social innovation and leadership | Knovva Academy";
 include 'header.php'; ?>
 
 
-<!--g20-banner-->
-<div class="g20-banner" style="background: url('img/index-sie.svg') center center no-repeat;background-size: cover" >
+<!--SI-banner-->
+<div class="si-banner" >
     <div class="container">
 
         <div class="g20-slogan animated fadeInDown" >
@@ -29,7 +29,7 @@ include 'header.php'; ?>
 <!--course-intro-->
 <div class="course">
     <div class="container">
-        <h2>social innovation and leadership program</h2>
+        <h2>Social Innovation and Leadership Program</h2>
 
          <div class="row">
            <div class="col-md-8">
@@ -52,8 +52,8 @@ include 'header.php'; ?>
 <!--                       </div>-->
 
                        <div class="col-sm-6 categories-info">
-                           <p>subject</p>
-                           <p><b>business, social science</b></p>
+                           <p>Subject</p>
+                           <p><b>Business, Social Science</b></p>
                        </div>
                    </div>
                </div>
@@ -61,23 +61,23 @@ include 'header.php'; ?>
                <h5>about the course</h5>
                <p>An online program for high school students passionate about making a difference in their community and the world. By the end of this program, students will:
                <ul>
-                   <li>articulate their own vision, values and personal communication style</li>
-                   <li>collaborate with international peers to design solutions to real-world problems</li>
-                   <li>demonstrate an understanding of cultural and social determinants of identity</li>
-                   <li>research global issues they are passionate about </li>
-                   <li>design a mockup for a social innovation venture they are interested in launching
+                   <li>Articulate their own vision, values and personal communication style</li>
+                   <li>Collaborate with international peers to design solutions to real-world problems</li>
+                   <li>Demonstrate an understanding of cultural and social determinants of identity</li>
+                   <li>Research global issues they are passionate about </li>
+                   <li>Design a mockup for a social innovation venture they are interested in launching
                    </li>
                </ul>
                </p>
 
-               <h5>how can you impact the world? </h5>
+               <h5>How can you impact the world? </h5>
                <p>In this year-long, interdisciplinary, blended learning program, we will pose this question to motivated high school students and explore the skills and knowledge needed to make an impact in today’s ever-changing world. Through online learning activities, virtual classroom discussions and in-person workshops and events, we will expose students to leading experts, inspiring innovators and current research in sociology, political science, business, and leadership studies.
                </p>
            </div>
 
            <div class="col-md-4">
                <div class="feature-wrapper">
-                   <h4>course features</h4>
+                   <h4>Course Features</h4>
                    <ul class="list-unstyled">
                        <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">september 2017</span></h5></li>
                        <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">6 weeks per session</span></h5></li>
@@ -96,7 +96,7 @@ include 'header.php'; ?>
 <!--course structure-->
 <div class="course-structure">
     <div class="container">
-        <h5>curriculum structure </h5>
+        <h5>Curriculum Structure </h5>
 
         <table class="table table-striped table-sm">
             <thead>
@@ -110,7 +110,7 @@ include 'header.php'; ?>
                 <th scope="row" class="text-center">fall course 1</th>
                 <td>
                     <ul class="list-inline">
-                        <li>leadership: finding your voice</li>
+                        <li>Leadership: finding your voice</li>
                     </ul>
                 </td>
             </tr>
@@ -225,7 +225,7 @@ include 'header.php'; ?>
 <section class="testimonial">
 
   <div class="container-fluid">
-      <h4>testimonial</h4>
+      <h4></h4>
 
 
           <!--Quotes slider -->

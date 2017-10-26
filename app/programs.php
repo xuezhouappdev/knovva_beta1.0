@@ -1,6 +1,7 @@
 <?php
 $pageTitle="programs | Knovva Academy";
 include 'header.php';
+require_once('program.php');
 ?>
 
 
@@ -10,7 +11,7 @@ include 'header.php';
 
     <div class="program-slogan ">
         <div class="container">
-            <h1 class="animated fadeInDown">featured programs</h1>
+            <h1 class="animated fadeInDown">Featured Programs</h1>
 
 
 
@@ -31,11 +32,11 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/index-g20.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
-                            <h4>Model G20 summer program</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>fall 2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>boston&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>14 day</h6>
+                            <h4><?php echo $program_g20->get_program_title(); ?></h4>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_g20->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_g20->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_g20->get_program_duration(); ?></h6>
 
 
                         </div>
@@ -58,12 +59,12 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/index-sie.svg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
-                            <h4>social impact and entrepreneurship</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>sep 2017&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>online&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-clock-o" aria-hidden="true"></i>6 weeks per session
+                            <h4><?php echo $program_si->get_program_title(); ?></h4>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_si->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_si->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_si->get_program_duration(); ?>
                             </h6>
                         </div>
                     </div>
@@ -86,13 +87,13 @@ include 'header.php';
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('img/reading-group.jpg') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_redicorn->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
 
-                            <h4>reading & literature program</h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>sep 2017&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>online&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-clock-o" aria-hidden="true"></i>12 weeks per session
+                            <h4><?php echo $program_redicorn->get_program_title(); ?></h4>
+                            <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_redicorn->get_program_date(); ?>&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_redicorn->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_redicorn->get_program_duration(); ?>
                             </h6>
                         </div>
                     </div>

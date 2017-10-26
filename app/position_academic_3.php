@@ -38,46 +38,65 @@ include 'header.php';
     <div class="job-description">
         <div class="container">
 
-                <h3>ESL Teacher - Part Time</h3>
-                <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to establish brand name for great products with social value? Then we are looking for you. </p>
+                <h3>ESL Teacher - Part Time( Interest in history and/or anthropology preferred!
+                    )</h3>
+
+                <p>Are you passionate about international education? Do you thrive in an entrepreneurial
+                    environment? Do you love to establish brand name for great products with social value?
+                    Then we are looking for you!</p>
 
                 <h5>About Us</h5>
-                <p> Knovva Academy is an education start-up based in Boston, Massachusetts that strives to provide the best in international education. We work with students from around the world in online and in-person programming to prepare high school students to meet the academic and professional demands of the twenty-first century. Through interdisciplinary and project-based learning, we strive to provide the highest standard of programming in extra-curricular contexts for our students.
+                <p> Knovva Academy is an education start-up based in Boston, Massachusetts that strives
+                    to provide the best in international education. We work with students from around the
+                    world in online and in-person programming to prepare high school students to meet the
+                    academic and professional demands of the twenty-first century. Through
+                    interdisciplinary and project-based learning, we strive to provide the highest standard of
+                    programming in extra-curricular contexts for our students.
                 </p>
 
                 <h5>Position Overview</h5>
-                <p> We are looking for a part-time ESL Teacher (ESLT) to host our online live classes and live talk shows for our high school Chinese facing market. The ESLT will host with fellow teachers, present American perspectives, and will frequently do impromptu speaking during each show. The role will work closely with the academic development team.
+                <p> We are looking for a part-time ESL teacher to assist in delivering English language instruction and build global perspectives through literature in a co-teaching format for our live weekly online reading group. The reading group serves Chinese high school students and is designed to accommodate varying levels of English proficiency. We are looking for someone who will follow our prepared curriculum and script while incorporating their personality into it, making the learning experience engaging and fun for our students! This position will work closely with our academic development team.<br><br>
+                    Current needs: Priority given to those with a strong background or interest in history and/or anthropology.<br><br>
+
+                    We will have additional teaching opportunities as we continue to expand our online classes and live talk shows and will gladly keep your resume on file for future opportunities!
+
                 </p>
 
                 <h5>Job Description
                 </h5>
                 <ul>
-                    <li>Teach English online live classes to Chinese high school students. </li>
-                    <li>Present American culture, music, sports, weather, commercials, history, technology, and a variety of subjects for discussion during live classes.</li>
-                    <li>Announce live class information and program schedule.</li>
-                    <li>Engage with international ELL during set office hours.</li>
-                    <li>Read prepared scripts for live classes.</li>
-                    <li>Attend meetings with team to review schedules and other events.</li>
+                    <li>Co-teach English reading instruction class to Chinese high school students in a live online format.
+                    </li>
+                    <li>Present American cultural perspective when applicable during live classes: be able to make connections to a variety of subjects including but not limited to: music, sports, weather, popular culture, history, technology, U.S. high school and/or college experience.</li>
+                    <li>Curriculum and a prepared script will be provided, however, it is expected that the teacher will prepare for the class by reading the assigned chapters and conducting independent research as needed to fill in any gaps to ensure confidence when fielding questions from students during class.
+                    </li>
+                    <li>This position may include lesson plan preparation.</li>
+                    <li>This position will require some ability to improvise. (e.g. The teacher may be asked to provide synonyms of vocabulary words or example sentences.)</li>
+                    <li>Attend meetings with the team.</li>
                 </ul>
 
 
                 <h5>Qualifications</h5>
                 <ul>
-                    <li>A bachelor's degree in communications, journalism, English language arts, or related fields.</li>
+                    <li>Bachelor's degree in education or related field (History, English Language Arts, Literature, Anthropology, Foreign Language, Linguistics, Communication). </li>
+                    <li>Priority is given to those with a strong background in history and/or anthropology.
+                    </li>
 
                 </ul>
 
                 <h5>Desired Background
                 </h5>
                 <ul>
-                    <li>2+ years of experience in ESL teaching. </li>
-                    <li>2+ years of experience in ESL/TOEFL tutoring and mentoring.</li>
-                    <li>1+ years of ESL curriculum design and instructional design (preferred).</li>
-                    <li>Strong presentation and impromptu speaking skills.</li>
-                    <li>Some online live streaming and teaching experiences.</li>
-                    <li>Ability to teach a wide range of students with different English language levels.</li>
-                    <li>Positive attitude, strong work ethic, and energetic personality.</li>
-
+                    <li>2+ years of experience as an ESL teacher at the middle or high school level.
+                    </li>
+                    <li>2+ years of experience in ESL/TOEFL (or SAT) tutoring.
+                    </li>
+                    <li>Experience co-teaching at any level preferred.</li>
+                    <li>Strong interpersonal and communication skills, ability to “read the room/situation” and adapt seamlessly.</li>
+                    <li>Ability to adjust teaching and speaking style to reach a wide range of students with varying levels of English proficiency.</li>
+                    <li>Genuine love of learning and teaching, positive attitude, strong work ethic, and energetic personality.
+                    </li>
+                    <li>Familiarity with the online educational live streaming model preferred.</li>
                 </ul>
 
 

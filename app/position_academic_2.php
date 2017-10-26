@@ -49,19 +49,18 @@ include 'header.php';
                 </p>
 
                 <h5>Position Overview</h5>
-                <p> We are looking for a Curriculum Designer to work with our product development team developing relevant and motivating curriculum for our online ELL/TOEFL enrichment programs. The Curriculum Designer will lead the efforts to create new curriculum to be used on our online programs and will also be responsible for teaching live-streaming classes of that material.
+                <p> We are looking for a Curriculum Designer to work with our product development team developing relevant and motivating curriculum for our online ESL/SAT enrichment programs. The Curriculum Designer will lead the efforts to create new curriculum to be used on our online programs and will also be responsible for preparing live-streaming classes of that material.
                 </p>
 
                 <h5>What You'll Do:
                 </h5>
                 <ul>
-                    <li>Design, develop, and implement curriculum for our online ELL/TOEFL enrichment programs.</li>
-                    <li>Teach and run the operation of live-streaming classes.</li>
-                    <li>Engage with international ELL students during class time and “office hours.”.</li>
+                    <li>Design, develop, and implement curriculum for our online ESL/SAT enrichment programs.</li>
+                    <li>Willingness to teach and run the operation of live-streaming classes.</li>
+                    <li>Engage with international ESL students during class time and “office hours.”.</li>
                     <li>Research and review learning standards, curriculum design frameworks, new technologies, and trajectories in ESL.</li>
                     <li>Conduct research on a range of academic subjects and provide recommendations for courses.</li>
                     <li>Monitor program a/b testing periodically over time to maintain curriculum design quality.</li>
-                    <li>Develop test plans, test cases, traceability matrices, test estimations, and tests execution reports.</li>
                 </ul>
 
 
@@ -69,7 +68,7 @@ include 'header.php';
                 <ul>
                     <li>Bachelor's degree in education, English language arts, or a linguistics-related field required. Master’s degree preferred.</li>
                     <li>2+ years experience with ESL teaching (preferably in China).</li>
-                    <li>2+ years of experience in ESL and TOEFL tutoring and mentoring (preferably in China).</li>
+                    <li>2+ years of experience in ESL and SAT tutoring and mentoring (preferably in China).</li>
                     <li>Strong English skills (both verbal and written).</li>
                     <li>Strong Chinese skills (both verbal and written) preferred.</li>
                 </ul>
