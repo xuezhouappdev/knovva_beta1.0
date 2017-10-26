@@ -1,5 +1,5 @@
 <?php
-$pageTitle="programs | Knovva Academy";
+$pageTitle="Programs | Knovva Academy";
 include 'header.php';
 require_once('program.php');
 ?>
@@ -34,11 +34,8 @@ require_once('program.php');
                     <!--IMG and deco-->
                     <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
-
                             <h4><?php echo $program_g20->get_program_title(); ?></h4>
                             <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_g20->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_g20->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_g20->get_program_duration(); ?></h6>
-
-
                         </div>
                     </div>
 
@@ -57,7 +54,6 @@ require_once('program.php');
             <div class="col-md-6 wow slideInRight">
                 <!--card-->
                 <div class="shadow" >
-
                     <!--IMG and deco-->
                     <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
                         <div class="p-decoration-text" >
