@@ -380,7 +380,7 @@ html, body {
 
     .index_landing_slider{
       .slider-g20{
-        background: url('../img/SLIDER-G20.png') top center no-repeat;
+        background: url('../img/SLIDER-G20.jpg') top center no-repeat;
         background-size: cover;
         height:90vh;
 
@@ -392,7 +392,7 @@ html, body {
       }
 
       .slider-si{
-        background: url('../img/SLIDER-SI.png') top center no-repeat;
+        background: url('../img/SLIDER-SI.jpg') top center no-repeat;
         background-size: cover;
         height:90vh;
 
@@ -1543,17 +1543,17 @@ footer {
         margin: 0 auto;
 
         .shadow {
-          padding: 24px;
-          box-shadow: 5px 10px 20px rgba(0,0,0,0.09);
+          padding: 18px;
+          box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.05);
           position: relative;
           transition: all 0.3s linear;
           top:0px;
-          border-radius: 8px;
-          background:white;
+          border-radius: 5px;
+          background: white;
 
           &:hover {
             cursor: pointer;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.29);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
             top:-5px;
           }
 
@@ -1597,11 +1597,13 @@ footer {
           .p-text-wrapper{
             h6 {
               margin-top: 0.5rem;
+              font-size: 1.2rem;
             }
 
             p {
               line-height: 24px;
               font-size: 1rem;
+              margin-bottom: 0;
             }
 
           }

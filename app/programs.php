@@ -33,16 +33,17 @@ require_once('program.php');
 
                     <!--IMG and deco-->
                     <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
-                        <div class="p-decoration-text" >
-                            <h4><?php echo $program_g20->get_program_title(); ?></h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_g20->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_g20->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_g20->get_program_duration(); ?></h6>
-                        </div>
+<!--                        <div class="p-decoration-text" >-->
+<!--                            <h4>--><?php //echo $program_g20->get_program_title(); ?><!--</h4>-->
+<!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_location(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_duration(); ?><!--</h6>-->
+<!--                        </div>-->
                     </div>
+
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-<!--                       <h6>political science, international affairs </h6>-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
+                       <h6><?php echo $program_g20->get_program_title(); ?></h6>
+                        <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo $program_g20->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp<?php echo $program_g20->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo $program_g20->get_program_duration(); ?></p>
                     </div>
 
                 </div>
@@ -56,19 +57,21 @@ require_once('program.php');
                 <div class="shadow" >
                     <!--IMG and deco-->
                     <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
-                        <div class="p-decoration-text" >
-                            <h4><?php echo $program_si->get_program_title(); ?></h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_si->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_si->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_si->get_program_duration(); ?>
-                            </h6>
-                        </div>
+<!--                        <div class="p-decoration-text" >-->
+<!--                            <h4>--><?php //echo $program_si->get_program_title(); ?><!--</h4>-->
+<!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_si->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>--><?php //echo $program_si->get_program_location(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>--><?php //echo $program_si->get_program_duration(); ?>
+<!--                            </h6>-->
+<!--                        </div>-->
                     </div>
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-<!--                        <h6>business, social science </h6>-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
+                        <div class="p-text-wrapper">
+                            <h6><?php echo $program_si->get_program_title(); ?></h6>
+                            <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo $program_si->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp<?php echo $program_si->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo $program_si->get_program_duration(); ?></p>
+                        </div>
                     </div>
 
                 </div>
@@ -84,20 +87,20 @@ require_once('program.php');
 
                     <!--IMG and deco-->
                     <div class="p-image-wrapper" style="background:url('<?php echo $program_redicorn->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
-                        <div class="p-decoration-text" >
-
-                            <h4><?php echo $program_redicorn->get_program_title(); ?></h4>
-                            <h6><i class="fa fa-calendar" aria-hidden="true"></i><?php echo $program_redicorn->get_program_date(); ?>&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-map-marker" aria-hidden="true"></i><?php echo $program_redicorn->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;
-                                <i class="fa fa-clock-o" aria-hidden="true"></i><?php echo $program_redicorn->get_program_duration(); ?>
-                            </h6>
-                        </div>
+<!--                        <div class="p-decoration-text" >-->
+<!---->
+<!--                            <h4>--><?php //echo $program_redicorn->get_program_title(); ?><!--</h4>-->
+<!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_redicorn->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;-->
+<!--                                <i class="fa fa-map-marker" aria-hidden="true"></i>--><?php //echo $program_redicorn->get_program_location(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--                                <i class="fa fa-clock-o" aria-hidden="true"></i>--><?php //echo $program_redicorn->get_program_duration(); ?>
+<!--                            </h6>-->
+<!--                        </div>-->
                     </div>
 
                     <!--PARA DES-->
                     <div class="p-text-wrapper">
-<!--                        <h6>literature, fiction</h6>-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue.</p>-->
+                        <h6><?php echo $program_redicorn->get_program_title(); ?></h6>
+                        <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo $program_redicorn->get_program_date(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp<?php echo $program_redicorn->get_program_location(); ?>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo $program_redicorn->get_program_duration(); ?></p>
                     </div>
 
                 </div>

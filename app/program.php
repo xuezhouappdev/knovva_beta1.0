@@ -64,9 +64,9 @@ class program {
 }
 
 
-$program_g20 = new \app\program('Youth Leadership Model G20 Summit','Feb 2018','Boston','11 days','img/cover-G20-sm.jpg','img/SLIDER-G20.png','');
-$program_si = new \app\program('Social Innovation','Sep 2017','Online','6 weeks per session','img/cover-SI-sm.jpg','img/SLIDER-SI.png','');
-$program_redicorn = new \app\program('Readicorn','Sep 2017','Online','6 weeks per session','img/cover-RD-sm.jpg','img/SLIDER-READICORN.png','img/vertical-RD.png
+$program_g20 = new \app\program('Youth Leadership Model G20 Summit','Feb 2018','Boston','11 days','img/cover-G20-sm.jpg','img/SLIDER-G20.jpg','');
+$program_si = new \app\program('Social Innovation','Sep 2017','Online','6 weeks per session','img/cover-SI-sm.jpg','img/SLIDER-SI.jpg','');
+$program_redicorn = new \app\program('Readicorn','Sep 2017','Online','6 weeks per session','img/cover-RD-sm.jpg','img/SLIDER-READICORN.jpg','img/vertical-RD.png
 ');
 
 
