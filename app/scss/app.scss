@@ -372,7 +372,7 @@ html, body {
 .slider {
   //position: relative;
 
-   margin-top:63px;
+   margin-top:60px;
    margin-bottom:1.9rem;
 
   .container {
@@ -382,24 +382,24 @@ html, body {
 
     .index_landing_slider{
       .slider-g20{
-        background: url('../img/SLIDER-G20.jpg') top center no-repeat;
+        background: url('../img/SLIDER-G20.jpg') center center no-repeat;
         background-size: cover;
         height:90vh;
 
         @media screen and (max-width: 767px){
-          background: url('../img/hori-G20.jpg') top center no-repeat;
+          background: url('../img/hori-G20.jpg') center center no-repeat;
           background-size: contain;
           height:90vh;
         }
       }
 
       .slider-si{
-        background: url('../img/SLIDER-SI.jpg') top center no-repeat;
+        background: url('../img/SLIDER-SI.jpg') center center no-repeat;
         background-size: cover;
         height:90vh;
 
         @media screen and (max-width: 767px){
-          background: url('../img/hori-SI.jpg') top center no-repeat;
+          background: url('../img/hori-SI.jpg') center center no-repeat;
           background-size: contain;
           height:90vh;
         }
@@ -407,12 +407,12 @@ html, body {
       }
 
       .slider-rd{
-        background: url('../img/SLIDER-READICORN.jpg') top center no-repeat;
+        background: url('../img/SLIDER-READICORN.jpg') center center no-repeat;
         background-size: cover;
         height:90vh;
 
         @media screen and (max-width: 767px){
-          background: url('../img/hori-RD.jpg') top center no-repeat;
+          background: url('../img/hori-RD.jpg') center center no-repeat;
           background-size: contain;
           height:90vh;
         }
@@ -969,6 +969,11 @@ html, body {
 .blog {
   &.jumbotron {
     background-color: $lightgray;
+    padding-top: 10rem;
+    padding-bottom: 6rem;
+    @media screen and (max-width: 767px){
+      padding-top: 4rem;
+    }
 
     h4 {
       text-align: center;
@@ -1067,8 +1072,12 @@ html, body {
 3.6 gallery
 ========================================================================== */
 .gallery-section{
-  margin: 10rem auto 4rem;
+  margin: 8rem auto 0;
   width: 100%;
+
+  @media screen and(max-width: 767px){
+    margin: 0;
+  }
 
   .container-fluid {
 
@@ -1568,9 +1577,8 @@ footer {
           }
 
           .p-image-wrapper{
-            height: 250px;
+            min-height: 260px;
             position: relative;
-
             .p-decoration-text{
               position: absolute;
               bottom: 0;
@@ -1601,6 +1609,10 @@ footer {
               }
 
 
+            }
+            
+            @media screen and(max-width: 414px) {
+              min-height: 160px;
             }
           }
 

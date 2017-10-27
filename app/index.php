@@ -67,14 +67,17 @@ require_once('program.php');
             </div>
 
             <!--control-->
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev" style="">
+                <i class="fa fa-chevron-circle-left"  aria-hidden="true" style="color:black;font-size: 3rem;opacity: 0.2;"></i>
+                <span class="sr-only">Previous</span>
+
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next" style="">
+                <i class="fa fa-chevron-circle-right"  aria-hidden="true"  style="color:black;font-size: 3rem;opacity: 0.2;"></i>
                 <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+
+
         </div>
 
         <!--scroll for more-->
@@ -177,7 +180,7 @@ require_once('program.php');
         <div class="row justify-content-center">
             <div class="col-lg-4">
 
-                <div class="card wow slideInLeft">
+                <div class="card wow slideInUp">
                     <a href="g20.php">
                         <img src= '<?php echo $program_g20->get_program_imgURL();?>' class="card-img img">
                     </a>
@@ -188,7 +191,7 @@ require_once('program.php');
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="card">
+                <div class="card wow slideInUp">
                     <a href="social-innovation-leadership.php">
                         <img src='<?php echo $program_si->get_program_imgURL();?>' class="card-img img">
                     </a>
@@ -198,8 +201,8 @@ require_once('program.php');
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="card wow slideInRight">
+            <div class="col-lg-4 ">
+                <div class="card wow slideInUp">
                     <a href="reading-literature.php">
                     <img src='<?php echo $program_redicorn->get_program_imgURL();?>' class="card-img img">
                     </a>
@@ -279,9 +282,54 @@ require_once('program.php');
 
 
 
+<!---latest news-->
+<div class="gallery-section ">
+    <div class="container-fluid">
+        <!--        <h4>Recent News</h4>-->
+        <div id="lightgallery" class="row justify-content-center">
+
+
+            <div class="col-md-3" href="img/gallery/gallery1.png">
+                <a >
+                    <img src="img/gallery/gallery1.png" class="img img-responsive" width="100%" height="auto"  >
+                </a>
+            </div>
+
+
+            <div class="col-md-3" href="img/gallery/gallery2.png">
+                <a >
+                    <img src="img/gallery/gallery2.png" class="img img-responsive" width="100%" height="auto"  >
+                </a>
+            </div>
+
+            <div class="col-md-3" href="img/gallery/gallery3.png">
+                <a >
+                    <img src="img/gallery/gallery3.png" class="img img-responsive" width="100%" height="auto"  >
+                </a>
+            </div>
+
+            <div class="col-md-3" href="img/gallery/gallery4.png">
+                <a >
+                    <img src="img/gallery/gallery4.png" class="img img-responsive" width="100%" height="auto"  >
+                </a>
+            </div>
+
+
+
+
+        </div>
+
+
+
+    </div>
+</div>
+
+
+
+
 
 <!-- our blog insight-->
-<section class="blog jumbotron">
+<section class="blog jumbotron" style="">
     <div class="container">
         <h4>Our Insights</h4>
         <div class="row justify-content-center">
@@ -359,48 +407,6 @@ require_once('program.php');
 </section>
 
 
-
-<!---latest news-->
-<div class="gallery-section ">
-    <div class="container-fluid">
-<!--        <h4>Recent News</h4>-->
-        <div id="lightgallery" class="row justify-content-center">
-
-
-              <div class="col-md-3" href="img/gallery/gallery1.png">
-                  <a >
-                  <img src="img/gallery/gallery1.png" class="img img-responsive" width="100%" height="auto"  >
-                  </a>
-              </div>
-
-
-            <div class="col-md-3" href="img/gallery/gallery2.png">
-                <a >
-                    <img src="img/gallery/gallery2.png" class="img img-responsive" width="100%" height="auto"  >
-                </a>
-            </div>
-
-            <div class="col-md-3" href="img/gallery/gallery3.png">
-                <a >
-                    <img src="img/gallery/gallery3.png" class="img img-responsive" width="100%" height="auto"  >
-                </a>
-            </div>
-
-            <div class="col-md-3" href="img/gallery/gallery4.png">
-                <a >
-                    <img src="img/gallery/gallery4.png" class="img img-responsive" width="100%" height="auto"  >
-                </a>
-            </div>
-
-
-
-
-        </div>
-
-
-
-    </div>
-</div>
 
 
 <!--our partner-->
@@ -573,6 +579,9 @@ include 'footer.php';
 
 
 <script>
+    $('.carousel').carousel({
+        interval: 3500
+    });
     lightGallery(document.getElementById('lightgallery'));
 </script>
 

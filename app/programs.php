@@ -27,12 +27,12 @@ require_once('program.php');
 
         <div class="row ">
 
-           <div class="col-md-6 wow slideInLeft">
+           <div class="col-md-6 wow slideInUp">
                 <!--card-->
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;">
 <!--                        <div class="p-decoration-text" >-->
 <!--                            <h4>--><?php //echo $program_g20->get_program_title(); ?><!--</h4>-->
 <!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_location(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_duration(); ?><!--</h6>-->
@@ -52,11 +52,11 @@ require_once('program.php');
 
 
 
-            <div class="col-md-6 wow slideInRight">
+            <div class="col-md-6 wow slideInUp">
                 <!--card-->
                 <div class="shadow" >
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;">
 <!--                        <div class="p-decoration-text" >-->
 <!--                            <h4>--><?php //echo $program_si->get_program_title(); ?><!--</h4>-->
 <!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_si->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;-->
@@ -81,12 +81,12 @@ require_once('program.php');
         </div>
 
         <div class="row ">
-            <div class="col-md-6 wow slideInLeft">
+            <div class="col-md-6 wow slideInUp">
                 <!--card-->
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('<?php echo $program_redicorn->get_program_imgURL(); ?>') center center no-repeat;background-size:cover;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_redicorn->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;">
 <!--                        <div class="p-decoration-text" >-->
 <!---->
 <!--                            <h4>--><?php //echo $program_redicorn->get_program_title(); ?><!--</h4>-->
@@ -139,6 +139,9 @@ require_once('program.php');
 
     </div>
 </div>
+
+
+
 
 
 
