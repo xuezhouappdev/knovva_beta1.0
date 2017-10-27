@@ -73,7 +73,7 @@ include 'header.php';
 
 
 
-        <p>The <b>HR Admin</b> is a full-time, salaried position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. Extensive travel is not currently expected. Must be authorized to work in the United States; sponsorship is not being offered at this time.</p>
+        <p>The <b>HR Admin</b> is a full-time, salaried position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. Extensive travel is not currently expected. Must be authorized to work in the United States.</p>
 
 
         <h5>How to apply</h5>

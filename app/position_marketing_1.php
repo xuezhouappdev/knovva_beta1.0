@@ -70,7 +70,7 @@ include 'header.php';
 
 
 
-        <p>The <b>Digital Marketing Specialist</b> is a full-time, salaried position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience.  <b>Must be authorized to work in the United States; sponsorship is not being offered at this time.</b></p>
+        <p>The <b>Digital Marketing Specialist</b> is a full-time, salaried position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience.  <b>Must be authorized to work in the United States.</b></p>
 
 
         <h5>How to apply</h5>

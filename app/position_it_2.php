@@ -71,7 +71,7 @@ include 'header.php';
                 </ul>
 
 
-            <p>The <b>Junior Software Developer</b> is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. This is not a remote position; no travel is currently expected. Must be authorized to work in the United States; sponsorship is not being offered at this time.</p>
+            <p>The <b>Junior Software Developer</b> is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. This is not a remote position; no travel is currently expected. Must be authorized to work in the United States.</p>
                 <h5>How to Apply</h5>
             <p>If you’re interested in applying, please send your resume and a link to your portfolio (or work samples) to <a href="mailto:careers@knovva.com ?Subject=Job%20Application" target="_top">careers@knovva.com</a>. Applications without cover letters will not be considered. No phone calls, please.</p>
         </div>

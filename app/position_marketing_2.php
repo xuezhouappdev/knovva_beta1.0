@@ -73,7 +73,7 @@ include 'header.php';
 
 
 
-        <p>The Content Marketing Specialist is a full-time, salaried position based in Knovva Academy’s office in the Seaport neighborhood of Boston. <b>This is not a remote position.</b> Salary is competitive and commensurate with experience. Extensive travel is not currently expected in this position. Must be authorized to work in the United States; sponsorship is not being offered at this time.</p>
+        <p>The Content Marketing Specialist is a full-time, salaried position based in Knovva Academy’s office in the Seaport neighborhood of Boston. <b>This is not a remote position.</b> Salary is competitive and commensurate with experience. Extensive travel is not currently expected in this position. Must be authorized to work in the United States.</p>
 
 
         <h5>How to apply</h5>

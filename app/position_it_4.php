@@ -73,7 +73,7 @@ include 'header.php';
                     <li>Previous User Experience background required including experience designing and developing web applications in HTML5, CSS3 and JavaScript.</li>
                 </ul>
 
-                <p>The <b>UI/UX Designer </b> is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. This is not a remote position; no travel is currently expected. Must be authorized to work in the United States; sponsorship is not being offered at this time.</p>
+                <p>The <b>UI/UX Designer </b> is a full-time position based in Knovva Academy’s office in the Seaport neighborhood of Boston. Salary is competitive and commensurate with experience. This is not a remote position; no travel is currently expected. Must be authorized to work in the United States.</p>
 
                 <h5>How to Apply</h5>
             <p>If you’re interested in applying, please submit your resume and a link to your portfolio (or work samples) to <a href="mailto:careers@knovva.com ?Subject=Job%20Application" target="_top">careers@knovva.com</a>. Applications without cover letters will not be considered. No phone calls, please.</p>
