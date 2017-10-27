@@ -372,13 +372,13 @@ html, body {
 .slider {
   //position: relative;
 
-   margin-top:1.8rem;
+   margin-top:63px;
    margin-bottom:1.9rem;
+
   .container {
     padding: 0;
     margin: 0;
     width: 100%;
-    height:85vh;
 
     .index_landing_slider{
       .slider-g20{
@@ -388,7 +388,7 @@ html, body {
 
         @media screen and (max-width: 767px){
           background: url('../img/hori-G20.jpg') top center no-repeat;
-          background-size: cover;
+          background-size: contain;
           height:90vh;
         }
       }
@@ -400,7 +400,7 @@ html, body {
 
         @media screen and (max-width: 767px){
           background: url('../img/hori-SI.jpg') top center no-repeat;
-          background-size: cover;
+          background-size: contain;
           height:90vh;
         }
 
@@ -413,7 +413,7 @@ html, body {
 
         @media screen and (max-width: 767px){
           background: url('../img/hori-RD.jpg') top center no-repeat;
-          background-size: cover;
+          background-size: contain;
           height:90vh;
         }
       }
@@ -493,6 +493,10 @@ html, body {
       }
     }
 
+  }
+
+  @media screen and(max-width: 767px){
+    margin-top:33px;
   }
 }
 
@@ -1633,11 +1637,14 @@ footer {
 
 
 .g20-banner {
-  margin-top:2rem;
+  margin-top:63px;
   background: url('../img/SLIDER-G20.jpg') center center no-repeat;
   background-size: cover;
   height: 90vh;
   .container {
+    padding: 0;
+    margin: 0;
+    width: 100%;
       .g20-slogan {
 
         position: relative;
@@ -1687,7 +1694,7 @@ footer {
 }
 
 .si-banner {
-  margin-top:2rem;
+  margin-top:63px;
   background: url('../img/SLIDER-SI.jpg') center center no-repeat;
   background-size: cover;
   height: 90vh;
@@ -1701,7 +1708,7 @@ footer {
 }
 
 .rd-banner {
-  margin-top:2rem;
+  margin-top:63px;
   background: url('../img/SLIDER-READICORN.jpg') center center no-repeat;
   background-size: cover;
   height: 90vh;

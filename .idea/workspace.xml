@@ -4,14 +4,8 @@
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_2.php" afterPath="$PROJECT_DIR$/app/position_academic_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_admin_1.php" afterPath="$PROJECT_DIR$/app/position_admin_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_admin_2.php" afterPath="$PROJECT_DIR$/app/position_admin_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_2.php" afterPath="$PROJECT_DIR$/app/position_it_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_3.php" afterPath="$PROJECT_DIR$/app/position_it_3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_4.php" afterPath="$PROJECT_DIR$/app/position_it_4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_1.php" afterPath="$PROJECT_DIR$/app/position_marketing_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_2.php" afterPath="$PROJECT_DIR$/app/position_marketing_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/app.scss" afterPath="$PROJECT_DIR$/app/scss/app.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +30,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6915">
+              <caret line="461" column="0" lean-forward="true" selection-start-line="461" selection-start-column="0" selection-end-line="461" selection-end-column="0" />
+              <folding>
+                <marker date="1509114837000" expanded="false" signature="13260:13278" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+            <state relative-caret-position="406">
+              <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
               <folding>
                 <element signature="e#706#1108#0" expanded="false" />
                 <element signature="e#1794#4081#0" expanded="false" />
@@ -52,142 +58,58 @@
                 <element signature="e#4817#5238#0" expanded="false" />
                 <element signature="e#6536#6635#0" expanded="false" />
                 <element signature="e#6705#6871#0" expanded="false" />
-                <element signature="e#8110#9246#0" expanded="false" />
-                <element signature="e#9268#9607#0" expanded="false" />
-                <element signature="e#9617#9782#0" expanded="false" />
-                <element signature="e#9791#11243#0" expanded="false" />
-                <element signature="e#16730#17214#0" expanded="false" />
-                <element signature="e#17574#17749#0" expanded="false" />
-                <element signature="e#18503#19896#0" expanded="false" />
-                <element signature="e#18632#18868#0" expanded="false" />
-                <element signature="e#18881#19117#0" expanded="false" />
-                <element signature="e#20077#21619#0" expanded="false" />
-                <element signature="e#21622#21789#0" expanded="false" />
-                <element signature="e#23405#24188#0" expanded="false" />
-                <element signature="e#24192#24363#0" expanded="false" />
-                <element signature="e#24376#25798#0" expanded="false" />
-                <element signature="e#25800#25964#0" expanded="false" />
-                <element signature="e#26078#26257#0" expanded="false" />
-                <element signature="e#26274#26579#0" expanded="false" />
-                <element signature="e#26591#28142#0" expanded="false" />
-                <element signature="e#26739#26875#0" expanded="false" />
-                <element signature="e#28369#28766#0" expanded="false" />
-                <element signature="e#29149#29323#0" expanded="false" />
-                <element signature="e#30933#31776#0" expanded="false" />
-                <element signature="e#32316#32990#0" expanded="false" />
-                <element signature="e#34548#34596#0" expanded="false" />
-                <element signature="e#34610#35015#0" expanded="false" />
-                <element signature="e#36319#36557#0" expanded="false" />
-                <element signature="e#36560#36616#0" expanded="false" />
-                <element signature="e#37950#40024#0" expanded="false" />
-                <element signature="e#39633#40017#0" expanded="false" />
-                <element signature="e#40061#40090#0" expanded="false" />
-                <element signature="e#40104#40202#0" expanded="false" />
-                <element signature="e#40216#40314#0" expanded="false" />
-                <element signature="e#40328#40426#0" expanded="false" />
-                <element signature="e#40440#40538#0" expanded="false" />
-                <element signature="e#40552#40650#0" expanded="false" />
-                <element signature="e#40665#40764#0" expanded="false" />
-                <element signature="e#40779#40878#0" expanded="false" />
-                <element signature="e#40893#40992#0" expanded="false" />
-                <element signature="e#41007#41106#0" expanded="false" />
-                <element signature="e#41121#41220#0" expanded="false" />
-                <element signature="e#41235#41333#0" expanded="false" />
-                <element signature="e#41348#41447#0" expanded="false" />
-                <element signature="e#41484#41583#0" expanded="false" />
-                <element signature="e#42441#42822#0" expanded="false" />
-                <element signature="e#43108#43808#0" expanded="false" />
-                <element signature="e#44289#44649#0" expanded="false" />
-                <element signature="e#44660#44942#0" expanded="false" />
-                <element signature="e#44778#44922#0" expanded="false" />
+                <element signature="e#6966#9600#0" expanded="false" />
+                <element signature="e#8098#9234#0" expanded="false" />
+                <element signature="e#9256#9595#0" expanded="false" />
+                <element signature="e#9670#9835#0" expanded="false" />
+                <element signature="e#9844#11296#0" expanded="false" />
+                <element signature="e#16783#17267#0" expanded="false" />
+                <element signature="e#17627#17802#0" expanded="false" />
+                <element signature="e#18556#19949#0" expanded="false" />
+                <element signature="e#18685#18921#0" expanded="false" />
+                <element signature="e#18934#19170#0" expanded="false" />
+                <element signature="e#20130#21672#0" expanded="false" />
+                <element signature="e#21675#21842#0" expanded="false" />
+                <element signature="e#23458#24241#0" expanded="false" />
+                <element signature="e#24245#24416#0" expanded="false" />
+                <element signature="e#24429#25851#0" expanded="false" />
+                <element signature="e#25853#26017#0" expanded="false" />
+                <element signature="e#26131#26310#0" expanded="false" />
+                <element signature="e#26327#26632#0" expanded="false" />
+                <element signature="e#26644#28195#0" expanded="false" />
+                <element signature="e#26792#26928#0" expanded="false" />
+                <element signature="e#28422#28819#0" expanded="false" />
+                <element signature="e#29202#29376#0" expanded="false" />
+                <element signature="e#30986#31829#0" expanded="false" />
+                <element signature="e#32417#33091#0" expanded="false" />
+                <element signature="e#33269#33559#0" expanded="false" />
+                <element signature="e#33572#33869#0" expanded="false" />
+                <element signature="e#34649#34697#0" expanded="false" />
+                <element signature="e#34711#35116#0" expanded="false" />
+                <element signature="e#36420#36658#0" expanded="false" />
+                <element signature="e#36661#36717#0" expanded="false" />
+                <element signature="e#38051#40125#0" expanded="false" />
+                <element signature="e#39734#40118#0" expanded="false" />
+                <element signature="e#40162#40191#0" expanded="false" />
+                <element signature="e#40205#40303#0" expanded="false" />
+                <element signature="e#40317#40415#0" expanded="false" />
+                <element signature="e#40429#40527#0" expanded="false" />
+                <element signature="e#40541#40639#0" expanded="false" />
+                <element signature="e#40653#40751#0" expanded="false" />
+                <element signature="e#40766#40865#0" expanded="false" />
+                <element signature="e#40880#40979#0" expanded="false" />
+                <element signature="e#40994#41093#0" expanded="false" />
+                <element signature="e#41108#41207#0" expanded="false" />
+                <element signature="e#41222#41321#0" expanded="false" />
+                <element signature="e#41336#41434#0" expanded="false" />
+                <element signature="e#41449#41548#0" expanded="false" />
+                <element signature="e#41585#41684#0" expanded="false" />
+                <element signature="e#42542#42923#0" expanded="false" />
+                <element signature="e#43209#43909#0" expanded="false" />
+                <element signature="e#44390#44750#0" expanded="false" />
+                <element signature="e#44761#45043#0" expanded="false" />
+                <element signature="e#44879#45023#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SLIDER-G20.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/SLIDER-G20.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_academic_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_academic_2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="77" column="248" lean-forward="false" selection-start-line="77" selection-start-column="248" selection-end-line="77" selection-end-column="248" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_marketing_1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="72" column="265" lean-forward="false" selection-start-line="72" selection-start-column="265" selection-end-line="72" selection-end-column="265" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_marketing_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_marketing_2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="75" column="352" lean-forward="false" selection-start-line="75" selection-start-column="352" selection-end-line="75" selection-end-column="352" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_admin_1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="75" column="326" lean-forward="false" selection-start-line="75" selection-start-column="326" selection-end-line="75" selection-end-column="326" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_admin_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_admin_2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="75" column="285" lean-forward="false" selection-start-line="75" selection-start-column="285" selection-end-line="75" selection-end-column="285" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_it_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_it_2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="73" column="315" lean-forward="false" selection-start-line="73" selection-start-column="315" selection-end-line="73" selection-end-column="315" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_it_3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_it_3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="74" column="326" lean-forward="false" selection-start-line="74" selection-start-column="326" selection-end-line="74" selection-end-column="326" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="position_it_4.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/position_it_4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="309" lean-forward="false" selection-start-line="75" selection-start-column="309" selection-end-line="75" selection-end-column="309" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -204,7 +126,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>meet our</find>
       <find>our</find>
       <find>g20-banner</find>
       <find>.slider</find>
@@ -234,6 +155,7 @@
       <find>p-text</find>
       <find>program</find>
       <find>p-text-wrapper</find>
+      <find>g20-ba</find>
     </findStrings>
     <replaceStrings>
       <replace>Digital Marketing Specialist</replace>
@@ -292,7 +214,6 @@
         <option value="$PROJECT_DIR$/app/program.php" />
         <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/index.php" />
-        <option value="$PROJECT_DIR$/app/scss/app.scss" />
         <option value="$PROJECT_DIR$/app/position_academic_2.php" />
         <option value="$PROJECT_DIR$/app/position_marketing_1.php" />
         <option value="$PROJECT_DIR$/app/position_marketing_2.php" />
@@ -301,6 +222,7 @@
         <option value="$PROJECT_DIR$/app/position_it_2.php" />
         <option value="$PROJECT_DIR$/app/position_it_3.php" />
         <option value="$PROJECT_DIR$/app/position_it_4.php" />
+        <option value="$PROJECT_DIR$/app/scss/app.scss" />
       </list>
     </option>
   </component>
@@ -555,14 +477,7 @@
       <workItem from="1508504009662" duration="12742000" />
       <workItem from="1508765345241" duration="13245000" />
       <workItem from="1508851036002" duration="22326000" />
-      <workItem from="1508941725126" duration="26121000" />
-    </task>
-    <task id="LOCAL-00060" summary="updated vertical slider page">
-      <created>1501793771932</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1501793771933</updated>
+      <workItem from="1508941725126" duration="28742000" />
     </task>
     <task id="LOCAL-00061" summary="updated vertical slider page">
       <created>1501826039059</created>
@@ -900,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509117283047</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="deleted the sponsorship wording for 8 positions">
+      <created>1509122376094</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1509122376094</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="479362000" />
+    <option name="totallyTimeSpent" value="481983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -918,22 +840,22 @@
   <component name="ToolWindowManager">
     <frame x="21" y="23" width="1394" height="829" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24556214" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24556214" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13623978" sideWeight="0.54068047" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49863762" sideWeight="0.5495562" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.49408284" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47002724" sideWeight="0.48446745" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.49697495" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.49697495" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19574468" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13623978" sideWeight="0.45931953" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49863762" sideWeight="0.45044377" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -941,23 +863,23 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49863762" sideWeight="0.5495562" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28985506" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3542673" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2766904" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47002724" sideWeight="0.48446745" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.49697495" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19574468" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49863762" sideWeight="0.45044377" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24556214" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.49408284" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
@@ -971,7 +893,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added caption" />
     <MESSAGE value="tiny changes" />
     <MESSAGE value="added frames" />
     <MESSAGE value="changed types pause" />
@@ -996,7 +917,8 @@
     <MESSAGE value="adjusted margin of partner section" />
     <MESSAGE value="updated 9 pictures (small size)" />
     <MESSAGE value="changed program layout and refine the images" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed program layout and refine the images" />
+    <MESSAGE value="deleted the sponsorship wording for 8 positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted the sponsorship wording for 8 positions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1284,132 +1206,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="461" column="0" lean-forward="true" selection-start-line="461" selection-start-column="0" selection-end-line="461" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ol#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#ol#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#section#1;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#!!top" expanded="false" />
-            <marker date="1509114837000" expanded="false" signature="13260:13278" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-          <folding>
-            <element signature="e#706#1108#0" expanded="false" />
-            <element signature="e#1794#4081#0" expanded="false" />
-            <element signature="e#2233#2624#0" expanded="false" />
-            <element signature="e#3271#4075#0" expanded="false" />
-            <element signature="e#4098#5271#0" expanded="false" />
-            <element signature="e#4203#4232#0" expanded="false" />
-            <element signature="e#4631#5267#0" expanded="false" />
-            <element signature="e#4817#5238#0" expanded="false" />
-            <element signature="e#6536#6635#0" expanded="false" />
-            <element signature="e#6705#6871#0" expanded="false" />
-            <element signature="e#8110#9246#0" expanded="false" />
-            <element signature="e#9268#9607#0" expanded="false" />
-            <element signature="e#9617#9782#0" expanded="false" />
-            <element signature="e#9791#11243#0" expanded="false" />
-            <element signature="e#16730#17214#0" expanded="false" />
-            <element signature="e#17574#17749#0" expanded="false" />
-            <element signature="e#18503#19896#0" expanded="false" />
-            <element signature="e#18632#18868#0" expanded="false" />
-            <element signature="e#18881#19117#0" expanded="false" />
-            <element signature="e#20077#21619#0" expanded="false" />
-            <element signature="e#21622#21789#0" expanded="false" />
-            <element signature="e#23405#24188#0" expanded="false" />
-            <element signature="e#24192#24363#0" expanded="false" />
-            <element signature="e#24376#25798#0" expanded="false" />
-            <element signature="e#25800#25964#0" expanded="false" />
-            <element signature="e#26078#26257#0" expanded="false" />
-            <element signature="e#26274#26579#0" expanded="false" />
-            <element signature="e#26591#28142#0" expanded="false" />
-            <element signature="e#26739#26875#0" expanded="false" />
-            <element signature="e#28369#28766#0" expanded="false" />
-            <element signature="e#29149#29323#0" expanded="false" />
-            <element signature="e#30933#31776#0" expanded="false" />
-            <element signature="e#32316#32990#0" expanded="false" />
-            <element signature="e#34548#34596#0" expanded="false" />
-            <element signature="e#34610#35015#0" expanded="false" />
-            <element signature="e#36319#36557#0" expanded="false" />
-            <element signature="e#36560#36616#0" expanded="false" />
-            <element signature="e#37950#40024#0" expanded="false" />
-            <element signature="e#39633#40017#0" expanded="false" />
-            <element signature="e#40061#40090#0" expanded="false" />
-            <element signature="e#40104#40202#0" expanded="false" />
-            <element signature="e#40216#40314#0" expanded="false" />
-            <element signature="e#40328#40426#0" expanded="false" />
-            <element signature="e#40440#40538#0" expanded="false" />
-            <element signature="e#40552#40650#0" expanded="false" />
-            <element signature="e#40665#40764#0" expanded="false" />
-            <element signature="e#40779#40878#0" expanded="false" />
-            <element signature="e#40893#40992#0" expanded="false" />
-            <element signature="e#41007#41106#0" expanded="false" />
-            <element signature="e#41121#41220#0" expanded="false" />
-            <element signature="e#41235#41333#0" expanded="false" />
-            <element signature="e#41348#41447#0" expanded="false" />
-            <element signature="e#41484#41583#0" expanded="false" />
-            <element signature="e#42441#42822#0" expanded="false" />
-            <element signature="e#43108#43808#0" expanded="false" />
-            <element signature="e#44289#44649#0" expanded="false" />
-            <element signature="e#44660#44942#0" expanded="false" />
-            <element signature="e#44778#44922#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/SLIDER-G20.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_academic_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="77" column="248" lean-forward="false" selection-start-line="77" selection-start-column="248" selection-end-line="77" selection-end-column="248" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="72" column="265" lean-forward="false" selection-start-line="72" selection-start-column="265" selection-end-line="72" selection-end-column="265" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_marketing_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="75" column="352" lean-forward="false" selection-start-line="75" selection-start-column="352" selection-end-line="75" selection-end-column="352" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="75" column="326" lean-forward="false" selection-start-line="75" selection-start-column="326" selection-end-line="75" selection-end-column="326" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/position_admin_2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -1426,19 +1222,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_it_3.php">
+    <entry file="file://$PROJECT_DIR$/app/position_it_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_marketing_2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
+          <caret line="75" column="352" lean-forward="false" selection-start-line="75" selection-start-column="352" selection-end-line="75" selection-end-column="352" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="72" column="265" lean-forward="false" selection-start-line="72" selection-start-column="265" selection-end-line="72" selection-end-column="265" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_academic_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="77" column="248" lean-forward="false" selection-start-line="77" selection-start-column="248" selection-end-line="77" selection-end-column="248" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/position_it_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
           <caret line="74" column="326" lean-forward="false" selection-start-line="74" selection-start-column="326" selection-end-line="74" selection-end-column="326" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_it_4.php">
+    <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="309" lean-forward="false" selection-start-line="75" selection-start-column="309" selection-end-line="75" selection-end-column="309" />
+        <state relative-caret-position="342">
+          <caret line="75" column="326" lean-forward="false" selection-start-line="75" selection-start-column="326" selection-end-line="75" selection-end-column="326" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/SLIDER-G20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6915">
+          <caret line="461" column="0" lean-forward="true" selection-start-line="461" selection-start-column="0" selection-end-line="461" selection-end-column="0" />
+          <folding>
+            <marker date="1509114837000" expanded="false" signature="13260:13278" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
+          <folding>
+            <element signature="e#706#1108#0" expanded="false" />
+            <element signature="e#1794#4081#0" expanded="false" />
+            <element signature="e#2233#2624#0" expanded="false" />
+            <element signature="e#3271#4075#0" expanded="false" />
+            <element signature="e#4098#5271#0" expanded="false" />
+            <element signature="e#4203#4232#0" expanded="false" />
+            <element signature="e#4631#5267#0" expanded="false" />
+            <element signature="e#4817#5238#0" expanded="false" />
+            <element signature="e#6536#6635#0" expanded="false" />
+            <element signature="e#6705#6871#0" expanded="false" />
+            <element signature="e#6966#9600#0" expanded="false" />
+            <element signature="e#8098#9234#0" expanded="false" />
+            <element signature="e#9256#9595#0" expanded="false" />
+            <element signature="e#9670#9835#0" expanded="false" />
+            <element signature="e#9844#11296#0" expanded="false" />
+            <element signature="e#16783#17267#0" expanded="false" />
+            <element signature="e#17627#17802#0" expanded="false" />
+            <element signature="e#18556#19949#0" expanded="false" />
+            <element signature="e#18685#18921#0" expanded="false" />
+            <element signature="e#18934#19170#0" expanded="false" />
+            <element signature="e#20130#21672#0" expanded="false" />
+            <element signature="e#21675#21842#0" expanded="false" />
+            <element signature="e#23458#24241#0" expanded="false" />
+            <element signature="e#24245#24416#0" expanded="false" />
+            <element signature="e#24429#25851#0" expanded="false" />
+            <element signature="e#25853#26017#0" expanded="false" />
+            <element signature="e#26131#26310#0" expanded="false" />
+            <element signature="e#26327#26632#0" expanded="false" />
+            <element signature="e#26644#28195#0" expanded="false" />
+            <element signature="e#26792#26928#0" expanded="false" />
+            <element signature="e#28422#28819#0" expanded="false" />
+            <element signature="e#29202#29376#0" expanded="false" />
+            <element signature="e#30986#31829#0" expanded="false" />
+            <element signature="e#32417#33091#0" expanded="false" />
+            <element signature="e#33269#33559#0" expanded="false" />
+            <element signature="e#33572#33869#0" expanded="false" />
+            <element signature="e#34649#34697#0" expanded="false" />
+            <element signature="e#34711#35116#0" expanded="false" />
+            <element signature="e#36420#36658#0" expanded="false" />
+            <element signature="e#36661#36717#0" expanded="false" />
+            <element signature="e#38051#40125#0" expanded="false" />
+            <element signature="e#39734#40118#0" expanded="false" />
+            <element signature="e#40162#40191#0" expanded="false" />
+            <element signature="e#40205#40303#0" expanded="false" />
+            <element signature="e#40317#40415#0" expanded="false" />
+            <element signature="e#40429#40527#0" expanded="false" />
+            <element signature="e#40541#40639#0" expanded="false" />
+            <element signature="e#40653#40751#0" expanded="false" />
+            <element signature="e#40766#40865#0" expanded="false" />
+            <element signature="e#40880#40979#0" expanded="false" />
+            <element signature="e#40994#41093#0" expanded="false" />
+            <element signature="e#41108#41207#0" expanded="false" />
+            <element signature="e#41222#41321#0" expanded="false" />
+            <element signature="e#41336#41434#0" expanded="false" />
+            <element signature="e#41449#41548#0" expanded="false" />
+            <element signature="e#41585#41684#0" expanded="false" />
+            <element signature="e#42542#42923#0" expanded="false" />
+            <element signature="e#43209#43909#0" expanded="false" />
+            <element signature="e#44390#44750#0" expanded="false" />
+            <element signature="e#44761#45043#0" expanded="false" />
+            <element signature="e#44879#45023#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
