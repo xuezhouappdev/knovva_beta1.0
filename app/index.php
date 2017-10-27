@@ -407,7 +407,6 @@ require_once('program.php');
 <div class="ourpartner section-partner ">
     <div class="container">
         <h3>Our Partners</h3>
-        <hr/>
 
         <div class="row justify-content-center">
 
@@ -458,6 +457,7 @@ require_once('program.php');
                     <img class="img img-responsive" src="img/partner/partner-gbe.png"  >
                 </a>
             </div>
+
 
 
 
