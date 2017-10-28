@@ -192,7 +192,7 @@ landing_images.eq(2).click(function() {
 
 
 landing_images.parent().hover(function(){
-    landing_controller.css("opacity","0.5");
+    landing_controller.css("opacity","0.3");
 
 });
 
