@@ -175,6 +175,7 @@ TweenMax.to(heart,1,{
 
 //the js to control the href for slider
 var landing_images= $(".slider .carousel-item");
+var landing_controller = $(".index-slider i");
 
 landing_images.eq(0).click(function(){
     window.location.href="../app/g20.php";
@@ -187,6 +188,12 @@ landing_images.eq(1).click(function(){
 
 landing_images.eq(2).click(function() {
     window.location.href = "../app/reading-literature.php";
+});
+
+
+landing_images.parent().hover(function(){
+    landing_controller.css("opacity","0.5");
+
 });
 
 

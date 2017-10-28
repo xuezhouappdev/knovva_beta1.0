@@ -3,99 +3,9 @@
   <component name="ChangeListManager">
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/KAlogo2.svg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/1.jpg" afterPath="$PROJECT_DIR$/app/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/2.jpg" afterPath="$PROJECT_DIR$/app/img/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/3.jpg" afterPath="$PROJECT_DIR$/app/img/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/600p.gif" afterPath="$PROJECT_DIR$/app/img/600p.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/KAlogo.png" afterPath="$PROJECT_DIR$/app/img/KAlogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/KAlogo2.png" afterPath="$PROJECT_DIR$/app/img/KAlogo2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/SLIDER-G20.jpg" afterPath="$PROJECT_DIR$/app/img/SLIDER-G20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/SLIDER-READICORN.jpg" afterPath="$PROJECT_DIR$/app/img/SLIDER-READICORN.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/SLIDER-SI.jpg" afterPath="$PROJECT_DIR$/app/img/SLIDER-SI.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/about-slider.jpg" afterPath="$PROJECT_DIR$/app/img/about-slider.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/about.jpg" afterPath="$PROJECT_DIR$/app/img/about.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/about2.jpg" afterPath="$PROJECT_DIR$/app/img/about2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/blog1.png" afterPath="$PROJECT_DIR$/app/img/blog1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/blog2.png" afterPath="$PROJECT_DIR$/app/img/blog2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/blog3.png" afterPath="$PROJECT_DIR$/app/img/blog3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/blue.png" afterPath="$PROJECT_DIR$/app/img/blue.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/career-placeholder.jpg" afterPath="$PROJECT_DIR$/app/img/career-placeholder.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/career-placeholder.png" afterPath="$PROJECT_DIR$/app/img/career-placeholder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/career.jpg" afterPath="$PROJECT_DIR$/app/img/career.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/course-placeholder.jpg" afterPath="$PROJECT_DIR$/app/img/course-placeholder.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/cover-G20-sm.jpg" afterPath="$PROJECT_DIR$/app/img/cover-G20-sm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/cover-RD-sm.jpg" afterPath="$PROJECT_DIR$/app/img/cover-RD-sm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/cover-SI-sm.jpg" afterPath="$PROJECT_DIR$/app/img/cover-SI-sm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/cover-entrepreneurship.jpg" afterPath="$PROJECT_DIR$/app/img/cover-entrepreneurship.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-academic.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-academic.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-admin.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-admin.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-bd.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-bd.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-design.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-design.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-executive.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-executive.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-hire.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-hire.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-market.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-market.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-marketing.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-marketing.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/dpt-technology.jpg" afterPath="$PROJECT_DIR$/app/img/dpt-technology.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/frame12.png" afterPath="$PROJECT_DIR$/app/img/frame12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/frame13.png" afterPath="$PROJECT_DIR$/app/img/frame13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/frame14.png" afterPath="$PROJECT_DIR$/app/img/frame14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/g20-cover.jpg" afterPath="$PROJECT_DIR$/app/img/g20-cover.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/gallery/gallery1.png" afterPath="$PROJECT_DIR$/app/img/gallery/gallery1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/gallery/gallery2.png" afterPath="$PROJECT_DIR$/app/img/gallery/gallery2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/gallery/gallery3.png" afterPath="$PROJECT_DIR$/app/img/gallery/gallery3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/gallery/gallery4.png" afterPath="$PROJECT_DIR$/app/img/gallery/gallery4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/gif-static.gif" afterPath="$PROJECT_DIR$/app/img/gif-static.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/gif.gif" afterPath="$PROJECT_DIR$/app/img/gif.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/harryporter.jpg" afterPath="$PROJECT_DIR$/app/img/harryporter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/hori-G20.jpg" afterPath="$PROJECT_DIR$/app/img/hori-G20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/hori-RD.jpg" afterPath="$PROJECT_DIR$/app/img/hori-RD.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/hori-SI.jpg" afterPath="$PROJECT_DIR$/app/img/hori-SI.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/index-g20.jpg" afterPath="$PROJECT_DIR$/app/img/index-g20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/index-sie.jpg" afterPath="$PROJECT_DIR$/app/img/index-sie.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/index-slider.jpeg" afterPath="$PROJECT_DIR$/app/img/index-slider.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/logo-trim.png" afterPath="$PROJECT_DIR$/app/img/logo-trim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/mg20-cover.jpg" afterPath="$PROJECT_DIR$/app/img/mg20-cover.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/peipei.jpg" afterPath="$PROJECT_DIR$/app/img/peipei.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-cmt.jpg" afterPath="$PROJECT_DIR$/app/img/position-cmt.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-curriculum-intern.jpg" afterPath="$PROJECT_DIR$/app/img/position-curriculum-intern.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-curriculumdesign.jpg" afterPath="$PROJECT_DIR$/app/img/position-curriculumdesign.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-dm.jpg" afterPath="$PROJECT_DIR$/app/img/position-dm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-eaceo.jpg" afterPath="$PROJECT_DIR$/app/img/position-eaceo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-epm.jpg" afterPath="$PROJECT_DIR$/app/img/position-epm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-esl.jpg" afterPath="$PROJECT_DIR$/app/img/position-esl.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-hradmin.jpg" afterPath="$PROJECT_DIR$/app/img/position-hradmin.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-hradmin2.jpg" afterPath="$PROJECT_DIR$/app/img/position-hradmin2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-junior.jpg" afterPath="$PROJECT_DIR$/app/img/position-junior.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-led.jpg" afterPath="$PROJECT_DIR$/app/img/position-led.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-mm.jpg" afterPath="$PROJECT_DIR$/app/img/position-mm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-sem.jpg" afterPath="$PROJECT_DIR$/app/img/position-sem.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-software.jpg" afterPath="$PROJECT_DIR$/app/img/position-software.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/position-ui.jpg" afterPath="$PROJECT_DIR$/app/img/position-ui.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/teacher-placeholder.jpg" afterPath="$PROJECT_DIR$/app/img/teacher-placeholder.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/telegraph.jpg" afterPath="$PROJECT_DIR$/app/img/telegraph.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vertical-RD.png" afterPath="$PROJECT_DIR$/app/img/vertical-RD.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-10.png" afterPath="$PROJECT_DIR$/app/img/vs-10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-13.png" afterPath="$PROJECT_DIR$/app/img/vs-13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-14.png" afterPath="$PROJECT_DIR$/app/img/vs-14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-16.png" afterPath="$PROJECT_DIR$/app/img/vs-16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-17.jpg" afterPath="$PROJECT_DIR$/app/img/vs-17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-18.png" afterPath="$PROJECT_DIR$/app/img/vs-18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-20.jpg" afterPath="$PROJECT_DIR$/app/img/vs-20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-21.png" afterPath="$PROJECT_DIR$/app/img/vs-21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-4.png" afterPath="$PROJECT_DIR$/app/img/vs-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-5.png" afterPath="$PROJECT_DIR$/app/img/vs-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-6.png" afterPath="$PROJECT_DIR$/app/img/vs-6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-7.jpg" afterPath="$PROJECT_DIR$/app/img/vs-7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/vs-9.png" afterPath="$PROJECT_DIR$/app/img/vs-9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/earth.svg" afterPath="$PROJECT_DIR$/app/img/earth.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/heart.svg" afterPath="$PROJECT_DIR$/app/img/heart.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/index-sie.svg" afterPath="$PROJECT_DIR$/app/img/index-sie.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/touchscreen.svg" afterPath="$PROJECT_DIR$/app/img/touchscreen.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -120,55 +30,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="437" column="18" lean-forward="false" selection-start-line="437" selection-start-column="18" selection-end-line="437" selection-end-column="18" />
+            <state relative-caret-position="87">
+              <caret line="71" column="53" lean-forward="true" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
               <folding>
-                <marker date="1509137600000" expanded="false" signature="13385:13403" ph="..." />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <marker date="1509220284000" expanded="false" signature="13431:13449" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KAlogo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/KAlogo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo-trim.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/logo-trim.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KAlogo2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/KAlogo2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="132" column="53" lean-forward="false" selection-start-line="132" selection-start-column="52" selection-end-line="132" selection-end-column="53" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -188,7 +61,7 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9405">
+            <state relative-caret-position="15">
               <caret line="1142" column="27" lean-forward="false" selection-start-line="1142" selection-start-column="27" selection-end-line="1142" selection-end-column="27" />
               <folding>
                 <element signature="e#706#1108#0" expanded="false" />
@@ -260,8 +133,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2565">
-              <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+            <state relative-caret-position="215">
+              <caret line="192" column="0" lean-forward="true" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
               <folding>
                 <element signature="e#1278#1385#0" expanded="false" />
               </folding>
@@ -360,7 +233,6 @@
         <option value="$PROJECT_DIR$/app/g20.php" />
         <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
         <option value="$PROJECT_DIR$/app/reading-literature.php" />
-        <option value="$PROJECT_DIR$/app/js/main.js" />
         <option value="$PROJECT_DIR$/app/about.php" />
         <option value="$PROJECT_DIR$/app/careers.php" />
         <option value="$PROJECT_DIR$/app/position_academic_4.php" />
@@ -376,8 +248,9 @@
         <option value="$PROJECT_DIR$/app/position_it_4.php" />
         <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/scss/app.scss" />
-        <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/index.php" />
       </list>
     </option>
   </component>
@@ -392,9 +265,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="238" />
+    <option name="x" value="122" />
     <option name="y" value="23" />
-    <option name="width" value="1072" />
+    <option name="width" value="1200" />
     <option name="height" value="829" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -449,6 +322,12 @@
               <item name="knovva_beta1.0" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="knovva_beta1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knovva_beta1.0" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -633,14 +512,8 @@
       <workItem from="1508765345241" duration="13245000" />
       <workItem from="1508851036002" duration="22326000" />
       <workItem from="1508941725126" duration="34290000" />
-      <workItem from="1509163567215" duration="1446000" />
-    </task>
-    <task id="LOCAL-00066" summary="tiny changes">
-      <created>1501867670593</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1501867670593</updated>
+      <workItem from="1509163567215" duration="2161000" />
+      <workItem from="1509218714268" duration="1524000" />
     </task>
     <task id="LOCAL-00067" summary="tiny changes">
       <created>1501881105063</created>
@@ -978,11 +851,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509137666128</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="minified images">
+      <created>1509168497712</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1509168497713</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="488977000" />
+    <option name="totallyTimeSpent" value="491216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -994,25 +874,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="238" y="23" width="1072" height="829" extended-state="0" />
+    <frame x="122" y="23" width="1200" height="829" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3262136" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29533678" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49863762" sideWeight="0.5495562" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19574468" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.49697495" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19574468" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49863762" sideWeight="0.45044377" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47002724" sideWeight="0.48446745" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47002724" sideWeight="0.48446745" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.49408284" order="1" side_tool="false" content_ui="tabs" />
@@ -1049,7 +930,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed font" />
     <MESSAGE value="addded animation to frame" />
     <MESSAGE value="updated 20th slider , fade in and fade out" />
     <MESSAGE value="updated sie program" />
@@ -1074,7 +954,8 @@
     <MESSAGE value="updated programs card image, index layout, slider positions" />
     <MESSAGE value="replaced 2 glr images" />
     <MESSAGE value="updated partner images" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated partner images" />
+    <MESSAGE value="minified images" />
+    <option name="LAST_COMMIT_MESSAGE" value="minified images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1293,14 +1174,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="132" column="53" lean-forward="false" selection-start-line="132" selection-start-column="52" selection-end-line="132" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/programs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -1311,24 +1184,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/gallery/gallery2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/KAlogo2.svg" />
+    <entry file="file://$PROJECT_DIR$/app/img/mg20-cover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/logo-trim.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/KAlogo2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/KAlogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/SLIDER-G20.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="132" column="53" lean-forward="false" selection-start-line="132" selection-start-column="52" selection-end-line="132" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2565">
-          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+        <state relative-caret-position="215">
+          <caret line="192" column="0" lean-forward="true" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
           <folding>
             <element signature="e#1278#1385#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/gallery/gallery2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9405">
+        <state relative-caret-position="15">
           <caret line="1142" column="27" lean-forward="false" selection-start-line="1142" selection-start-column="27" selection-end-line="1142" selection-end-column="27" />
           <folding>
             <element signature="e#706#1108#0" expanded="false" />
@@ -1396,54 +1311,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/KAlogo2.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="437" column="18" lean-forward="false" selection-start-line="437" selection-start-column="18" selection-end-line="437" selection-end-column="18" />
+        <state relative-caret-position="87">
+          <caret line="71" column="53" lean-forward="true" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
           <folding>
-            <marker date="1509137600000" expanded="false" signature="13385:13403" ph="..." />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <marker date="1509220284000" expanded="false" signature="13431:13449" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/mg20-cover.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/logo-trim.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/KAlogo2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/KAlogo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/SLIDER-G20.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
