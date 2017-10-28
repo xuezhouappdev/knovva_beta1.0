@@ -3,6 +3,7 @@ var browserSync   = require('browser-sync').create();
 var connect       = require('gulp-connect-php');
 var sass          = require('gulp-sass');
 var sourcemaps    = require('gulp-sourcemaps');
+var imagemin      = require('gulp-imagemin');
 
 // Static Server + watching scss/html filesgu
 gulp.task('serve', ['sass'], function() {
@@ -39,6 +40,11 @@ gulp.task('sass', function() {
         .pipe(browserSync.stream());
 });
 
+gulp.task('image', function(){
+    gulp.src('app/img/*/*')
+        .pipe(imagemin())
+        .pipe(gulp.dest('app/img/*/*'));
+});
 
 
 
