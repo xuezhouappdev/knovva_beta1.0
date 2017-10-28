@@ -68,12 +68,12 @@ require_once('program.php');
 
             <!--control-->
             <a class="carousel-control-prev index-slider" href="#carouselExampleControls" role="button" data-slide="prev" >
-                <i class="fa fa-chevron-circle-left"  aria-hidden="true" style="color:black;font-size: 4rem;opacity: 0;transition:all 0.4s linear"></i>
+                <i class="fa fa-chevron-circle-left"  aria-hidden="true" style="color:black;font-size: 3.5rem;opacity: 0;transition:all 0.4s linear"></i>
                 <span class="sr-only">Previous</span>
 
             </a>
             <a class="carousel-control-next index-slider" href="#carouselExampleControls" role="button" data-slide="next" >
-                <i class="fa fa-chevron-circle-right"  aria-hidden="true"  style="color:black;font-size: 4rem;opacity: 0;transition:all 0.4s linear"></i>
+                <i class="fa fa-chevron-circle-right"  aria-hidden="true"  style="color:black;font-size: 3.5rem;opacity: 0;transition:all 0.4s linear"></i>
                 <span class="sr-only">Previous</span>
             </a>
 
