@@ -34,7 +34,7 @@ include 'header.php';
         <div class="container">
 
                 <h3>UI/UX Designer</h3>
-                <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to think about the big-picture of educational design while managing the small details? Then we are looking for you.</p>
+
 
                 <h5>About Us</h5>
                 <p>
