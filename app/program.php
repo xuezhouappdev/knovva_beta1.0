@@ -18,7 +18,7 @@ class program {
     private $program_img_lg;
     private $program_img_vertical;
 
-    function __construct($program_title, $program_date, $program_location, $program_duration,$program_imgURL,$program_img_lg,$program_img_vertical) {
+    function __construct($program_title, $program_date, $program_location, $program_duration,$program_imgURL,$program_img_lg,$program_img_vertical, $url) {
         $this->program_title = $program_title;
         $this->program_date = $program_date;
         $this->program_location = $program_location;
@@ -26,6 +26,7 @@ class program {
         $this->program_imgURL = $program_imgURL; //small window
         $this->program_img_lg = $program_img_lg; //large window
         $this->program_img_vertical = $program_img_vertical; //vertical slider
+        $this->url = $url; //used for sharing
     }
 
     function get_program_title(){
@@ -59,15 +60,19 @@ class program {
         return $this->program_img_vertical;
     }
 
+    function get_url(){
+        return $this->url;
+    }
+
 
 
 }
 
 
-$program_g20 = new \app\program('Youth Leadership Model G20 Summit','Feb 2018','Boston','11 days','img/cover-G20-sm.jpg','img/SLIDER-G20.jpg','');
-$program_si = new \app\program('Social Innovation','Sep 2017','Online','6 weeks per session','img/cover-SI-sm.jpg','img/SLIDER-SI.jpg','');
+$program_g20 = new \app\program('Youth Leadership Model G20 Summit','Feb 2018','Boston','11 days','img/cover-G20-sm.jpg','img/SLIDER-G20.jpg','','https://knovva.com/g20');
+$program_si = new \app\program('Social Innovation','Sep 2017','Online','6 weeks per session','img/cover-SI-sm.jpg','img/SLIDER-SI.jpg','','https://knovva.com/social-innovation-leadership');
 $program_redicorn = new \app\program('Readicorn','Sep 2017','Online','6 weeks per session','img/cover-RD-sm.jpg','img/SLIDER-READICORN.jpg','img/vertical-RD.png
-');
+','https://knovva.com/reading-literature');
 
 
 

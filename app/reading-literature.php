@@ -1,6 +1,11 @@
 <?php
 $pageTitle="programs - reading & literature program | Knovva Academy";
-include 'header.php'; ?>
+include 'header.php';
+
+require_once('program.php');
+
+$this_program = $program_redicorn;
+?>
 
 
 <!--g20-banner-->
@@ -29,7 +34,7 @@ include 'header.php'; ?>
 <!--course-intro-->
 <div class="course">
     <div class="container">
-        <h2>Reading & Literature Program</h2>
+        <h2><?php echo $this_program->get_program_title(); ?></h2>
 
          <div class="row">
            <div class="col-md-8">
@@ -86,6 +91,10 @@ include 'header.php'; ?>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">8 - 10</span></h5></li>
                    </ul>
 <!--                   <h5>course price: $2998</h5>-->
+                   <div class="social-share">
+                       <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fknovva.com/reading-literature&layout=button&size=small&mobile_iframe=true&width=59&height=20&appId" width="59" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                       <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Hi! I think that the Readicorn program is awesome! " data-url="<?php echo $this_program->get_url(); ?>" data-via="knovva_academy" data-related="knovva_academy" data-show-count="true">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                   </div>
                    <a class="enroll-btn" data-toggle="modal" data-target="#myModal">Request for More Information</a>
                </div>
            </div>

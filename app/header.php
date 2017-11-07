@@ -7,12 +7,22 @@ session_start();
 <html lang="en">
 <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <!--    <link rel="icon" href="img/favicon.ico">-->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
     <title><?php echo $pageTitle; ?></title>
+
+    <meta property="og:url"           content="<?php echo $og_url; ?>" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="<?php echo $pageTitle; ?>" />
+    <meta property="og:description"   content="<?php echo $og_des; ?>" />
+    <meta property="og:image"         content="<?php echo $og_img; ?>" />
+    <meta property="og:image:width" content="450" />
+    <meta property="og:image:height" content="298" />
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 
     <!--bootstrap-->
     <!--bs file is in the scss -->
@@ -57,6 +67,16 @@ session_start();
 </head>
 
 <body>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
 <!-- Header -->
 <nav class="navbar navbar-toggleable-sm navbar-light sticky-top bg-faded <?php echo $headerClass; ?>" id="mynav">
     <div class="container">

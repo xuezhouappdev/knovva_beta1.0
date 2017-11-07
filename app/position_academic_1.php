@@ -1,5 +1,6 @@
 <?php
 $pageTitle="Position - Online​ ​Learning​ ​Experience​ ​Designer | Knovva Academy";
+$position = "Online​ ​Learning​ ​Experience​ ​Designer";
 include 'header.php';
 ?>
 
@@ -38,6 +39,8 @@ include 'header.php';
         <div class="container">
 
                 <h3>​Online​ ​Learning​ ​Experience​ ​Designer</h3>
+
+
                 <p>Are you passionate about international education? Do you thrive in an entrepreneurial environment? Do you love to think about the big-picture of educational design while managing the small details? Then we are looking for you.</p>
 
                 <h5>About us</h5>
@@ -106,6 +109,11 @@ include 'header.php';
 
                 <h5>How to Apply</h5>
             <p>If you’re interested in applying, please send your CV and cover letter to <a href="mailto:careers@knovva.com ?Subject=Job%20Application" target="_top">careers@knovva.com</a>. Applications without cover letters will not be considered. No phone calls, please.</p>
+
+            <div class="social-share">
+                <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fknovva.com/position_academic_1&layout=button&size=small&mobile_iframe=true&width=59&height=20&appId" width="59" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Check out the open position - ​<?php echo $position; ?> -  at Knovva Academy" data-url="https://knovva.com/position_academic_1" data-via="knovva_academy" data-related="knovva_academy" data-show-count="true">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
 
         </div>
     </div>

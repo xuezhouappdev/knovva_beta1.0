@@ -1,6 +1,10 @@
 <?php
 $pageTitle="programs - social innovation and leadership | Knovva Academy";
-include 'header.php'; ?>
+include 'header.php';
+require_once('program.php');
+
+$this_program = $program_si;
+?>
 
 
 <!--SI-banner-->
@@ -59,7 +63,7 @@ include 'header.php'; ?>
                </div>
 
                <h5>about the course</h5>
-               <p>An online program for high school students passionate about making a difference in their community and the world. By the end of this program, students will:
+               <p>An online program for high school students passionate about making a difference in their community and the world. <br><br>By the end of this program, students will:
                <ul>
                    <li>Articulate their own vision, values and personal communication style</li>
                    <li>Collaborate with international peers to design solutions to real-world problems</li>
@@ -86,6 +90,11 @@ include 'header.php'; ?>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">8 - 10</span></h5></li>
                    </ul>
 <!--                   <h5>course price: $2998</h5>-->
+                   <div class="social-share">
+                       <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fknovva.com/social-innovation-leadership&layout=button&size=small&mobile_iframe=true&width=59&height=20&appId" width="59" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                       <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Hi! I think that the Social Innovation program is awesome! " data-url="<?php echo $this_program->get_url(); ?>" data-via="knovva_academy" data-related="knovva_academy" data-show-count="true">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                   </div>
+
                    <a class="enroll-btn" data-toggle="modal" data-target="#myModal">request for more information</a>
                </div>
            </div>
