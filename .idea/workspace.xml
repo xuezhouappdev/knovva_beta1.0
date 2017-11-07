@@ -5,19 +5,6 @@
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/g20.php" afterPath="$PROJECT_DIR$/app/g20.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_1.php" afterPath="$PROJECT_DIR$/app/position_academic_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_2.php" afterPath="$PROJECT_DIR$/app/position_academic_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_3.php" afterPath="$PROJECT_DIR$/app/position_academic_3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_academic_4.php" afterPath="$PROJECT_DIR$/app/position_academic_4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_admin_1.php" afterPath="$PROJECT_DIR$/app/position_admin_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_admin_2.php" afterPath="$PROJECT_DIR$/app/position_admin_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_1.php" afterPath="$PROJECT_DIR$/app/position_it_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_2.php" afterPath="$PROJECT_DIR$/app/position_it_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_3.php" afterPath="$PROJECT_DIR$/app/position_it_3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_it_4.php" afterPath="$PROJECT_DIR$/app/position_it_4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_1.php" afterPath="$PROJECT_DIR$/app/position_marketing_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_2.php" afterPath="$PROJECT_DIR$/app/position_marketing_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/position_marketing_3.php" afterPath="$PROJECT_DIR$/app/position_marketing_3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/reading-literature.php" afterPath="$PROJECT_DIR$/app/reading-literature.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/social-innovation-leadership.php" afterPath="$PROJECT_DIR$/app/social-innovation-leadership.php" />
     </list>
@@ -44,16 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="position_it_4.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_it_4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="position_marketing_1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,31 +91,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position_academic_4.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="position_academic_4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/position_academic_4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="1536">
               <caret line="93" column="96" lean-forward="false" selection-start-line="93" selection-start-column="96" selection-end-line="93" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position_it_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_it_2.php">
+      <file leaf-file-name="g20.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/g20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="82" column="16" lean-forward="false" selection-start-line="82" selection-start-column="16" selection-end-line="84" selection-end-column="110" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position_it_3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/position_it_3.php">
+      <file leaf-file-name="reading-literature.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/reading-literature.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="86" column="94" lean-forward="false" selection-start-line="86" selection-start-column="94" selection-end-line="86" selection-end-column="94" />
+            <state relative-caret-position="85">
+              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social-innovation-leadership.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/social-innovation-leadership.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -237,9 +224,6 @@
         <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/program.php" />
         <option value="$PROJECT_DIR$/app/header.php" />
-        <option value="$PROJECT_DIR$/app/g20.php" />
-        <option value="$PROJECT_DIR$/app/reading-literature.php" />
-        <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
         <option value="$PROJECT_DIR$/app/position_academic_2.php" />
         <option value="$PROJECT_DIR$/app/position_academic_4.php" />
         <option value="$PROJECT_DIR$/app/position_academic_3.php" />
@@ -253,6 +237,9 @@
         <option value="$PROJECT_DIR$/app/position_marketing_2.php" />
         <option value="$PROJECT_DIR$/app/position_marketing_3.php" />
         <option value="$PROJECT_DIR$/app/position_academic_1.php" />
+        <option value="$PROJECT_DIR$/app/g20.php" />
+        <option value="$PROJECT_DIR$/app/reading-literature.php" />
+        <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
       </list>
     </option>
   </component>
@@ -267,8 +254,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="36" />
+    <option name="x" value="96" />
+    <option name="y" value="23" />
     <option name="width" value="1200" />
     <option name="height" value="829" />
   </component>
@@ -512,14 +499,7 @@
       <workItem from="1509218714268" duration="1992000" />
       <workItem from="1509488931569" duration="534000" />
       <workItem from="1509565847993" duration="531000" />
-      <workItem from="1510001757904" duration="11002000" />
-    </task>
-    <task id="LOCAL-00081" summary="updated g20 and sie">
-      <created>1502287712475</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1502287712475</updated>
+      <workItem from="1510001757904" duration="11092000" />
     </task>
     <task id="LOCAL-00082" summary="updated program page">
       <created>1502301725843</created>
@@ -857,11 +837,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510027205504</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="added linkedin share">
+      <created>1510068151201</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1510068151201</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="503751000" />
+    <option name="totallyTimeSpent" value="503841000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -873,7 +860,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="36" width="1200" height="829" extended-state="0" />
+    <frame x="96" y="23" width="1200" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31088084" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
@@ -929,7 +916,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added pagination on the vertical slide" />
     <MESSAGE value="fixed pagination for vertical slider" />
     <MESSAGE value="updated SEM analyst position" />
     <MESSAGE value="changed vertical slider pagination" />
@@ -954,7 +940,8 @@
     <MESSAGE value="added social media on program and career pages" />
     <MESSAGE value="added social media on program pages" />
     <MESSAGE value="added social media on acdemic pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="added social media on acdemic pages" />
+    <MESSAGE value="added linkedin share" />
+    <option name="LAST_COMMIT_MESSAGE" value="added linkedin share" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1196,30 +1183,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/g20.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="100" column="19" lean-forward="false" selection-start-line="100" selection-start-column="19" selection-end-line="103" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/reading-literature.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/social-innovation-leadership.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1318,8 +1281,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/position_academic_4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="1536">
           <caret line="93" column="96" lean-forward="false" selection-start-line="93" selection-start-column="96" selection-end-line="93" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/g20.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reading-literature.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/social-innovation-leadership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
