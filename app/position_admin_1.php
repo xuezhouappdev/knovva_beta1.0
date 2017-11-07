@@ -2,6 +2,7 @@
 $pageTitle="Position - Executive Assistant (to CEO)  | Knovva Academy";
 $position = "Executive Assistant (to CEO) ";
 $embed_url ="position_admin_1";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

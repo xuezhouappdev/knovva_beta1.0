@@ -2,6 +2,7 @@
 $pageTitle="Position - Content Marketing Specialist  | Knovva Academy";
 $position = "Content Marketing Specialist ";
 $embed_url ="position_marketing_2";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

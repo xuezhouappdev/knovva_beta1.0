@@ -2,7 +2,7 @@
 $pageTitle="Position - SEM Analyst | Knovva Academy";
 $position = "SEM Analyst";
 $embed_url ="position_it_1";
-
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

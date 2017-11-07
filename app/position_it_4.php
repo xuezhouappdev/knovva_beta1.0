@@ -2,6 +2,7 @@
 $pageTitle="Position - UI/UX Designer | Knovva Academy";
 $position = "UI/UX Designer ";
 $embed_url ="position_it_4";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

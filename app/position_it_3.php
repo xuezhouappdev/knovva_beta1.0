@@ -2,6 +2,7 @@
 $pageTitle="Position - Senior Full-Stack Developer | Knovva Academy";
 $position = "Senior Full-Stack Developer ";
 $embed_url ="position_it_3";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

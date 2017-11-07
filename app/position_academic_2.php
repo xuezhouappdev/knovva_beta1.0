@@ -2,6 +2,7 @@
 $pageTitle="Position - Curriculum Designer | Knovva Academy";
 $position = "Curriculum Designer";
 $embed_url ="position_academic_2";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 
 ?>

@@ -2,6 +2,7 @@
 $pageTitle="Position - Curriculum Design Intern | Knovva Academy";
 $position = "Curriculum Design Intern ";
 $embed_url ="position_academic_4";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

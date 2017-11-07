@@ -2,6 +2,7 @@
 $pageTitle="Position - HR Admin  | Knovva Academy";
 $position = "HR Admin";
 $embed_url ="position_admin_2";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 

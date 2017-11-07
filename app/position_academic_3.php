@@ -3,6 +3,7 @@ $pageTitle="Position - ESL Teacher - Part Time | Knovva Academy";
 
 $position = "ESL Teacher - Part Time";
 $embed_url ="position_academic_3";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 
 include 'header.php';
 ?>

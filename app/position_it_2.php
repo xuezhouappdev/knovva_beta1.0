@@ -2,6 +2,7 @@
 $pageTitle="Position - Junior Software Developer | Knovva Academy";
 $position = "Junior Software Developer";
 $embed_url ="position_it_2";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 
