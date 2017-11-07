@@ -1,9 +1,14 @@
 <?php
-$pageTitle="programs - social innovation and leadership | Knovva Academy";
-include 'header.php';
-require_once('program.php');
 
+require_once('program.php');
+$pageTitle="Programs - social innovation and leadership | Knovva Academy";
+$og_url = "https://www.knovva.com/social-innovation-leadership";
+$og_des = "This is for description for Social Innovation";
 $this_program = $program_si;
+$og_img = "https://knovva.com/".$this_program->get_program_imgURL();
+
+include 'header.php';
+
 ?>
 
 

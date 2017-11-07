@@ -1,10 +1,14 @@
 <?php
-$pageTitle="programs - reading & literature program | Knovva Academy";
+require_once('program.php');
+$pageTitle="Programs - Readicorn | Knovva Academy";
+
+$og_url = "https://www.knovva.com/reading-literature";
+$og_des = "This is for description for Readicorn";
+$this_program = $program_redicorn;
+$og_img = "https://knovva.com/".$this_program->get_program_imgURL();
+
 include 'header.php';
 
-require_once('program.php');
-
-$this_program = $program_redicorn;
 ?>
 
 
