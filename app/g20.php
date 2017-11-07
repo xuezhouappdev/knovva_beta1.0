@@ -4,7 +4,7 @@ $pageTitle="programs - Model G20 2018 | Knovva Academy";
 $og_url = "https://www.knovva.com/g20";
 $og_des = "This is for descriotion for G20";
 $this_program = $program_g20;
-$og_img = "https://knovva.com".$this_program->get_program_imgURL();
+$og_img = "https://knovva.com/".$this_program->get_program_imgURL();
 include 'header.php';
 
 
