@@ -4,7 +4,7 @@
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/g20.php" afterPath="$PROJECT_DIR$/app/g20.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="964">
-              <caret line="97" column="74" lean-forward="false" selection-start-line="97" selection-start-column="69" selection-end-line="97" selection-end-column="74" />
+            <state relative-caret-position="459">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="g20.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="g20.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/g20.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -183,8 +183,8 @@
       <find>social-s</find>
       <find>tbd</find>
       <find>by</find>
-      <find>tb</find>
       <find>logo2</find>
+      <find>tb</find>
     </findStrings>
     <replaceStrings>
       <replace>Digital Marketing Specialist</replace>
@@ -248,10 +248,10 @@
         <option value="$PROJECT_DIR$/app/position_marketing_1.php" />
         <option value="$PROJECT_DIR$/app/position_marketing_2.php" />
         <option value="$PROJECT_DIR$/app/position_marketing_3.php" />
-        <option value="$PROJECT_DIR$/app/header.php" />
         <option value="$PROJECT_DIR$/app/reading-literature.php" />
         <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
         <option value="$PROJECT_DIR$/app/g20.php" />
+        <option value="$PROJECT_DIR$/app/header.php" />
       </list>
     </option>
   </component>
@@ -505,14 +505,7 @@
       <workItem from="1509218714268" duration="1992000" />
       <workItem from="1509488931569" duration="534000" />
       <workItem from="1509565847993" duration="531000" />
-      <workItem from="1510001757904" duration="8611000" />
-    </task>
-    <task id="LOCAL-00076" summary="addded animation to frame">
-      <created>1502146080324</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1502146080324</updated>
+      <workItem from="1510001757904" duration="8749000" />
     </task>
     <task id="LOCAL-00077" summary="updated 20th slider , fade in and fade out">
       <created>1502159206021</created>
@@ -850,11 +843,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510025578437</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="added social media on program and career pages">
+      <created>1510025883536</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1510025883536</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="501360000" />
+    <option name="totallyTimeSpent" value="501498000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1326,14 +1326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="964">
-          <caret line="97" column="74" lean-forward="false" selection-start-line="97" selection-start-column="69" selection-end-line="97" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/g20.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1341,6 +1333,14 @@
           <folding>
             <element signature="n#div#2;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

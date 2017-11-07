@@ -18,8 +18,6 @@ session_start();
     <meta property="og:title"         content="<?php echo $pageTitle; ?>" />
     <meta property="og:description"   content="<?php echo $og_des; ?>" />
     <meta property="og:image"         content="<?php echo $og_img; ?>" />
-    <meta property="og:image:width" content="450" />
-    <meta property="og:image:height" content="298" />
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
