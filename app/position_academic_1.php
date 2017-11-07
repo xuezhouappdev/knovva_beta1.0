@@ -1,6 +1,7 @@
 <?php
 $pageTitle="Position - Online​ ​Learning​ ​Experience​ ​Designer | Knovva Academy";
 $position = "Online​ ​Learning​ ​Experience​ ​Designer";
+$og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
 
