@@ -98,9 +98,14 @@ include 'header.php';
                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fknovva.com%2Fg20&layout=button&size=small&mobile_iframe=true&width=59&height=20&appId" width="59" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
                        <!--TWITTER-->
                        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Hi! I think that the Model G20 program is awesome! " data-url="<?php echo $this_program->get_url(); ?>" data-via="knovva_academy" data-related="knovva_academy" data-show-count="true">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                       <!--Linkedin-->
+                       <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+                       <script type="IN/Share" data-url="<?php echo $this_program->get_url(); ?>"></script>
+
                    </div>
 
                    <a class="enroll-btn" href="http://modelg20.org">Click here for more details</a>
+
 
 
                </div>

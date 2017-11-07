@@ -83,6 +83,9 @@ include 'header.php';
             <div class="social-share">
                 <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fknovva.com/<?php echo $embed_url;?>&layout=button&size=small&mobile_iframe=true&width=59&height=20&appId" width="59" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
                 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Check out the open position - ​<?php echo $position; ?> -  at Knovva Academy" data-url="https://knovva.com/<?php echo $embed_url;?>" data-via="knovva_academy" data-related="knovva_academy" data-show-count="true">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <!--Linkedin-->
+                <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+                <script type="IN/Share" data-url="<?php echo 'https://knovva.com/position_it_4'; ?>"></script>
             </div>
         </div>
     </div>
