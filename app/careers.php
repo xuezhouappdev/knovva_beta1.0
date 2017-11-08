@@ -147,21 +147,21 @@ include 'header.php';
                     <tbody>
 
 
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_1.php">Digital Marketing Specialist</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></td>
-
-                    </tr>
+<!--                    <tr>-->
+<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_1.php">Digital Marketing Specialist</a></td>-->
+<!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
+<!---->
+<!--                    </tr>-->
 
                     <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_2.php">Content Marketing Specialist</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_3.php">Multimedia Specialist</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
-                    </tr>
+<!--                    <tr>-->
+<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_3.php">Multimedia Specialist</a></td>-->
+<!--                        <td colspan="3"><span class="pull-right">Boston</span></a></td>-->
+<!--                    </tr>-->
 
 
                     </tbody>
@@ -191,16 +191,16 @@ include 'header.php';
                     <tbody>
 
 
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant (to CEO)</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></td>
+<!--                    <tr>-->
+<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant (to CEO)</a></td>-->
+<!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
+<!---->
+<!--                    </tr>-->
 
-                    </tr>
-
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_2.php">HR Admin</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
-                    </tr>
+<!--                    <tr>-->
+<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_2.php">HR Admin</a></td>-->
+<!--                        <td colspan="3"><span class="pull-right">Boston</span></a></td>-->
+<!--                    </tr>-->
 
 
 
