@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/position_admin_1.php" afterPath="$PROJECT_DIR$/app/position_admin_1_rm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/position_admin_2.php" afterPath="$PROJECT_DIR$/app/position_admin_2_rm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/position_marketing_1.php" afterPath="$PROJECT_DIR$/app/position_marketing_1_rm.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/position_marketing_3.php" afterPath="$PROJECT_DIR$/app/position_marketing_3_rm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.php" afterPath="$PROJECT_DIR$/app/careers.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -561,14 +564,7 @@
       <workItem from="1509565847993" duration="531000" />
       <workItem from="1510001757904" duration="11598000" />
       <workItem from="1510149496413" duration="459000" />
-      <workItem from="1510173441998" duration="315000" />
-    </task>
-    <task id="LOCAL-00085" summary="updated literature program page">
-      <created>1502374860935</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1502374860936</updated>
+      <workItem from="1510173441998" duration="431000" />
     </task>
     <task id="LOCAL-00086" summary="updated literature program page">
       <created>1502375542455</created>
@@ -906,11 +902,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510173510599</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="remove some positions">
+      <created>1510173762946</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1510173762946</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="505121000" />
+    <option name="totallyTimeSpent" value="505237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -923,9 +926,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-94" y="-931" width="1467" height="829" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26035088" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26035088" sideWeight="0.49127182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49863762" sideWeight="0.5495562" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1138,6 +1140,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1208">
           <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1159,7 +1162,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_admin_1.php">
+    <entry file="file://$PROJECT_DIR$/app/position_admin_1_rm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="88" selection-end-column="109" />
@@ -1167,7 +1170,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_admin_2.php">
+    <entry file="file://$PROJECT_DIR$/app/position_admin_2_rm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="88" column="93" lean-forward="false" selection-start-line="88" selection-start-column="93" selection-end-line="88" selection-end-column="93" />
@@ -1207,7 +1210,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_marketing_1.php">
+    <entry file="file://$PROJECT_DIR$/app/position_marketing_1_rm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="83" column="11" lean-forward="true" selection-start-line="83" selection-start-column="11" selection-end-line="85" selection-end-column="113" />
@@ -1223,7 +1226,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_marketing_3.php">
+    <entry file="file://$PROJECT_DIR$/app/position_marketing_3_rm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2159">
           <caret line="127" column="10" lean-forward="false" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
