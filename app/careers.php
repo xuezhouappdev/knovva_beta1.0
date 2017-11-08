@@ -169,45 +169,45 @@ include 'header.php';
                 </table>
 
                 <!--admin-->
-                <div class="row justify-content-center">
-
-                    <div class="bd-image ">
-                        <div style="background: url('img/dpt-admin.jpg') no-repeat top center;background-size: cover">
-                        </div>
-                        <h4>Admin</h4>
-                    </div>
-
-                </div>
-
-                <table class="table ">
-                    <thead class="thead-default">
-                    <tr>
-
-                        <th style="text-align: center" colspan="4"><span>Admin</span></th>
-
-                    </tr>
-                    </thead>
-
-                    <tbody>
-
-
+<!--                <div class="row justify-content-center">-->
+<!---->
+<!--                    <div class="bd-image ">-->
+<!--                        <div style="background: url('img/dpt-admin.jpg') no-repeat top center;background-size: cover">-->
+<!--                        </div>-->
+<!--                        <h4>Admin</h4>-->
+<!--                    </div>-->
+<!---->
+<!--                </div>-->
+<!---->
+<!--                <table class="table ">-->
+<!--                    <thead class="thead-default">-->
 <!--                    <tr>-->
-<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant (to CEO)</a></td>-->
-<!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
+<!---->
+<!--                        <th style="text-align: center" colspan="4"><span>Admin</span></th>-->
 <!---->
 <!--                    </tr>-->
-
-<!--                    <tr>-->
-<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_2.php">HR Admin</a></td>-->
-<!--                        <td colspan="3"><span class="pull-right">Boston</span></a></td>-->
-<!--                    </tr>-->
-
-
-
-
-                    </tbody>
-
-                </table>
+<!--                    </thead>-->
+<!---->
+<!--                    <tbody>-->
+<!---->
+<!---->
+<!--<!--                    <tr>-->
+<!--<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_1.php">​Executive Assistant (to CEO)</a></td>-->
+<!--<!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
+<!--<!---->
+<!--<!--                    </tr>-->
+<!---->
+<!--<!--                    <tr>-->
+<!--<!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_admin_2.php">HR Admin</a></td>-->
+<!--<!--                        <td colspan="3"><span class="pull-right">Boston</span></a></td>-->
+<!--<!--                    </tr>-->
+<!---->
+<!---->
+<!---->
+<!---->
+<!--                    </tbody>-->
+<!---->
+<!--                </table>-->
 
                 <!--IT-->
                 <div class="row justify-content-center">
