@@ -82,7 +82,7 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>Who we are</h5>
-                        <p>Knovva Academy is an international education company with its headquarters in Cambridge, Massachusetts. Knovva Academy was founded by a group of friends, who wanted to collaborate after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning.</p>
+                        <p>Knovva Academy is an international education company headquartered in Cambridge, Massachusetts. Knovva Academy was founded by a group of friends, who collaborated after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning.</p>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>What we do</h5>
-                        <p>Catering to students from around the world, Knovva Academy utilizes a mix of online and in-person courses (blend learning) for teens in order to challenge their expectations about education; we strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.</p>
+                        <p>We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.</p>
                     </div>
                 </div>
             </div>

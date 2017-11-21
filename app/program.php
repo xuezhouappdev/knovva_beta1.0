@@ -69,7 +69,7 @@ class program {
 }
 
 
-$program_g20 = new \app\program('Youth Leadership Model G20 Summit','Feb 2018','Boston','11 days','img/cover-G20-sm.jpg','img/SLIDER-G20.jpg','','https://knovva.com/g20');
+$program_g20 = new \app\program('Model G20 Youth Leadership Summit','Feb 2018','Boston','11 days','img/cover-G20-sm.jpg','img/SLIDER-G20.jpg','','https://knovva.com/g20');
 $program_si = new \app\program('Social Innovation','Sep 2017','Online','6 weeks per session','img/cover-SI-sm.jpg','img/SLIDER-SI.jpg','','https://knovva.com/social-innovation-leadership');
 $program_redicorn = new \app\program('Readicorn','Sep 2017','Online','6 weeks per session','img/cover-RD-sm.jpg','img/SLIDER-READICORN.jpg','img/vertical-RD.png
 ','https://knovva.com/reading-literature');

@@ -61,6 +61,8 @@ session_start();
         gtag('config', 'UA-97114237-1');
     </script>
 
+    <!-- Google KeyWord -->
+    <meta name="keywords" content="<?php echo $seo_kwd; ?>" />
 
 </head>
 
