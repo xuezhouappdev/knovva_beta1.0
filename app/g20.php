@@ -85,8 +85,8 @@ include 'header.php';
                <div class="feature-wrapper">
                    <h4>course features</h4>
                    <ul class="list-unstyled">
-                       <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">TBD</span></h5></li>
-                       <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">TBD</span></h5></li>
+                       <li><h5><i class="fa fa-calendar" aria-hidden="true"></i>start time:<span class="pull-right">Feb 7th</span></h5></li>
+                       <li><h5><i class="fa fa-clock-o" aria-hidden="true"></i>duration:<span class="pull-right">4 days</span></h5></li>
                        <li><h5><i class="fa fa-map-marker" aria-hidden="true"></i>location:<span class="pull-right">Cambridge, MA</span></h5></li>
                        <li><h5><i class="fa fa-users" aria-hidden="true"></i>student:<span class="pull-right">120+</span></h5></li>
                        <li><h5><i class="fa fa-level-up" aria-hidden="true"></i>grade:<span class="pull-right">9 - 12</span></h5></li>
