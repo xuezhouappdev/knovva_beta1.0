@@ -103,8 +103,8 @@ require_once('program.php');
                         <div class="row justify-content-around">
 
                             <div class="col-lg-6">
-                                <h4 >who are we</h4>
-                                <p class="animated flipInX">Knovva Academy is a team of passionate educators from around the world who believe that a great education doesn’t end in the classroom. We value curiosity and diversity and are united by our shared love of learning, so we came together to help students of all backgrounds experience and discuss fresh global perspectives.&nbsp;&nbsp;<a href="about.php">Read more ></a>
+                                <h4 >Who are we</h4>
+                                <p class="animated flipInX">Knovva Academy is a team of passionate educators from around the world who believe that a great education doesn’t end in the classroom. We value curiosity and diversity. United by our shared love of learning, we have come together to help students of all backgrounds experience and discuss fresh global perspectives.&nbsp;<a href="about.php">Read more ></a>
                                 </p>
 
                             </div>

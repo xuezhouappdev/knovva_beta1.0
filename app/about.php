@@ -96,7 +96,8 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>What we do</h5>
-                        <p>We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We strive to provoke our students to ask, think, and learn content largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.</p>
+                        <p>We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We encourage our students to think critically and ask questions about global issues largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
+                        </p>
                     </div>
                 </div>
             </div>
