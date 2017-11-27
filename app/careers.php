@@ -116,6 +116,17 @@ include 'header.php';
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
 
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_5.php">Teaching Staff</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_6.php">Teaching Assistant</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
 
 
 
