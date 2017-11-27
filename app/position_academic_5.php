@@ -43,7 +43,7 @@ include 'header.php';
 
         <h3>Teaching Staff</h3>
 
-        <p>Knovva Academy is currently building a team of enthusiastic and passionate educators to teach and present curriculum material at our annual Model G20 Youth Leadership Summit in February 2018. We are seeking educators who want to engage international students in experiential learning about international relations, diplomacy, and cross-cultural communications.</p>
+        <p>Knovva Academy is currently building a team of enthusiastic and passionate educators to teach and present curriculum material at our annual <strong>Model G20 Youth Leadership Summit</strong> in February 2018. We are seeking educators who want to engage international students in experiential learning about international relations, diplomacy, and cross-cultural communications.</p>
 
         <h5>What is Model G20? </h5>
         <p> Model G20 is an international forum for high school students to learn about and engage in global politics. Based at Harvard University, the Model G20 is a two-week immersive learning experience designed to develop skills critical to global leadership, diplomacy, and cross-cultural understanding. Student are exposed to a range of learning modalities: keynote speeches by renowned educating professionals, guided discussion sections, focused research tasks, workshops for practicing interactive skills, and a multi-day, immersive simulation. The two-week experience concludes with a structured debrief in which students reflect on the personal relationships built, the international policy expertise acquired, and the diplomatic lessons learned.
