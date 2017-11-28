@@ -1,6 +1,7 @@
 <?php
 $pageTitle="Knovva Academy | Boston Careers ";
 $seo_des = "Knovva Academy careers for inspired educators and professionals in the Boston area. Great benefits and opportunities for our employees. Make a difference in the landscape of education. ";
+$canonical = "https://www.knovva.com/careers";
 include 'header.php';
 ?>
 

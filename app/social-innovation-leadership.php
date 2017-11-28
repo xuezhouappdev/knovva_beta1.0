@@ -4,6 +4,7 @@ require_once('program.php');
 $pageTitle="Knovva Academy |Programs - Social Innovation";
 $og_url = "https://www.knovva.com/social-innovation-leadership";
 $seo_des = "In this year-long, interdisciplinary, blended-learning program for teens, students will explore the skills and knowledge needed to make an impact in today’s ever-changing world. Students will design a mockup for a social innovation venture they are interested in launching.";
+$canonical = "https://www.knovva.com/social-innovation-leadership";
 $this_program = $program_si;
 $og_img = "https://knovva.com/".$this_program->get_program_imgURL();
 

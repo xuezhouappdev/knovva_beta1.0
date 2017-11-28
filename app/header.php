@@ -68,6 +68,9 @@ session_start();
     <!-- Google KeyWord -->
     <meta name="keywords" content="<?php echo $seo_kwd; ?>" />
 
+    <!--canonical links-->
+    <link rel="canonical" href="https://knovva.com<?php echo $canonical; ?>" />
+
 </head>
 
 <body>

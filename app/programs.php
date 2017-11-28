@@ -1,6 +1,7 @@
 <?php
 $pageTitle=" Knovva Academy |Blended Learning Programs";
 $seo_des = "Our blended learning programs allow high school students to discover new and exciting educational opportunities that will propel their skills for college and beyond. We offer unique extracurricular activities and classroom-ready programs for schools. ";
+$canonical = "https://www.knovva.com/programs";
 include 'header.php';
 require_once('program.php');
 ?>

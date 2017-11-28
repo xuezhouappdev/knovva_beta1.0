@@ -2,7 +2,7 @@
 require_once('program.php');
 $pageTitle=" Knovva Academy | Programs - Readicorn International High School Program";
 $seo_des = "This is for description for Readicorn";
-
+$canonical = "https://www.knovva.com/reading-literature";
 $og_url = "https://www.knovva.com/reading-literature";
 $this_program = $program_redicorn;
 $og_img = "https://knovva.com/".$this_program->get_program_imgURL();

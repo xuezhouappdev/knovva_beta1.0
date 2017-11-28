@@ -2,6 +2,7 @@
 $pageTitle="Boston-based Education Company | Knovva Academy";
 $seo_des  = "Knovva Academy is a boston-based educational company that offers unique project-based learning programs and activities for high school students around the world that utilize blended learning, in and out of the classroom. ";
 $seo_kwd = "Educational programs, Flip model, Blended learning, High school program, Extra curricular activities";
+$canonical = "https://www.knovva.com/about";
 include 'header.php';
 
 

@@ -178,16 +178,16 @@ var landing_images= $(".slider .carousel-item");
 var landing_controller = $(".index-slider i");
 
 landing_images.eq(0).click(function(){
-    window.location.href="../app/g20.php";
+    window.location.href="../g20.php";
 
 });
 
 landing_images.eq(1).click(function(){
-    window.location.href="../app/social-innovation-leadership.php";
+    window.location.href="../social-innovation-leadership.php";
 });
 
 landing_images.eq(2).click(function() {
-    window.location.href = "../app/reading-literature.php";
+    window.location.href = "../reading-literature.php";
 });
 
 
@@ -250,17 +250,17 @@ $("#career-start-btn").on('click', function(event) {
 var programs= $(".programs .shadow");
 
 programs.eq(0).click(function(){
-    window.location.href="../app/g20.php";
+    window.location.href="../g20.php";
 
 });
 
 programs.eq(1).click(function(){
-    window.location.href="../app/social-innovation-leadership.php";
+    window.location.href="../social-innovation-leadership.php";
 
 });
 
 programs.eq(2).click(function(){
-    window.location.href="../app/reading-literature.php";
+    window.location.href="../reading-literature.php";
 
 });
 
