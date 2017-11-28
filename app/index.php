@@ -1,7 +1,7 @@
 <?php
 $pageTitle=" Knovva Academy | Blended Learning ";
 $seo_des = "Knovva Academy offers blended learning programs and online courses that change the way teens interact with education. ";
-$canonical = "/index";
+$canonical = "https://www.knovva.com/index";
 include 'header.php';
 require_once('program.php');
 

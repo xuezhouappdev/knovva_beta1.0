@@ -100,7 +100,7 @@ session_start();
               </span>
         </button>
 
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="index">
         <!--<img src="img/logo-trim.png" width="90" height="30" alt="Knovva Academy">-->
             <p class="animated flipInX"><img id="logoimg" src="img/KAlogo2.png" width="auto" height="30px" name="logoimg"> </p>
         </a>

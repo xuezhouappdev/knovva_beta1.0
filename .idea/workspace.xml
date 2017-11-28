@@ -5,6 +5,7 @@
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,15 +83,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="130" column="62" lean-forward="false" selection-start-line="130" selection-start-column="62" selection-end-line="130" selection-end-column="62" />
+            <state relative-caret-position="78">
+              <caret line="100" column="17" lean-forward="true" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
               <folding>
-                <marker date="1511899329000" expanded="true" signature="2470:2480" ph="..." />
-                <marker date="1511899329000" expanded="true" signature="2505:2850" ph="..." />
-                <marker date="1511899329000" expanded="true" signature="2526:2802" ph="{...}" />
+                <marker date="1511899407000" expanded="true" signature="2470:2480" ph="..." />
+                <marker date="1511899407000" expanded="true" signature="2505:2850" ph="..." />
+                <marker date="1511899407000" expanded="true" signature="2526:2802" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -118,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="136">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -150,7 +151,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>blog</find>
       <find>cover</find>
       <find>.carousel</find>
       <find>wow</find>
@@ -180,6 +180,7 @@
       <find>2-week</find>
       <find>here</find>
       <find>skill</find>
+      <find>php</find>
     </findStrings>
     <replaceStrings>
       <replace>Digital Marketing Specialist</replace>
@@ -238,7 +239,6 @@
         <option value="$PROJECT_DIR$/app/program.php" />
         <option value="$PROJECT_DIR$/app/position_academic_5.php" />
         <option value="$PROJECT_DIR$/app/position_academic_6.php" />
-        <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/reading-literature.php" />
         <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
@@ -247,6 +247,7 @@
         <option value="$PROJECT_DIR$/app/about.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
         <option value="$PROJECT_DIR$/app/header.php" />
+        <option value="$PROJECT_DIR$/app/index.php" />
       </list>
     </option>
   </component>
@@ -519,14 +520,7 @@
       <workItem from="1511805733741" duration="1444000" />
       <workItem from="1511834046653" duration="141000" />
       <workItem from="1511879445212" duration="6361000" />
-      <workItem from="1511892703829" duration="1134000" />
-    </task>
-    <task id="LOCAL-00104" summary="added images portraits and about">
-      <created>1509046150457</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1509046150457</updated>
+      <workItem from="1511892703829" duration="1222000" />
     </task>
     <task id="LOCAL-00105" summary="adjusted margin of partner section">
       <created>1509047081112</created>
@@ -864,11 +858,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511899254322</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="canonical pages">
+      <created>1511899335928</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1511899335928</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="517366000" />
+    <option name="totallyTimeSpent" value="517454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1254,14 +1255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/reading-literature.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1325,13 +1318,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="130" column="62" lean-forward="false" selection-start-line="130" selection-start-column="62" selection-end-line="130" selection-end-column="62" />
+        <state relative-caret-position="78">
+          <caret line="100" column="17" lean-forward="true" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
           <folding>
-            <marker date="1511899329000" expanded="true" signature="2470:2480" ph="..." />
-            <marker date="1511899329000" expanded="true" signature="2505:2850" ph="..." />
-            <marker date="1511899329000" expanded="true" signature="2526:2802" ph="{...}" />
+            <marker date="1511899407000" expanded="true" signature="2470:2480" ph="..." />
+            <marker date="1511899407000" expanded="true" signature="2505:2850" ph="..." />
+            <marker date="1511899407000" expanded="true" signature="2526:2802" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
