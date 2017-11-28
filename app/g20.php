@@ -77,7 +77,7 @@ include 'header.php';
 
                <h5>about the course</h5>
                <p>What is a G20? The G20, also known as the Group of 20, is an international forum that unites some of the most important economies in the world to engage pressing political and economic realities. The G20 Summit is a central gathering of the world’s top economies where decision makers such as Heads of Government, finance, labor, agriculture, trade and energy Ministers discuss, agree and implement reforms on energy sustainability, climate change, labor, education and financial inclusion, decisions that can have major effect on the world’s economy.<br><br>
-                   This youth leadership program utilizes this political platform to bring students from around the world to meet new international friends. Along with this, students can expect new skill building opportunities, career development and networking opportunities. The program also offers many other activities that will inspire, build confidence and teach. The Model G20 will be an experience of a lifetime for any student. </p>
+                   This youth leadership program utilizes this political platform to bring students from around the world to meet new international friends. Along with this, students can expect new skill-building opportunities, career development and networking opportunities. The program also offers many other activities that will inspire, build confidence and teach. The Model G20 will be an experience of a lifetime for any student. </p>
 
 
 
