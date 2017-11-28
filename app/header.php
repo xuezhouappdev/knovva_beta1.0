@@ -61,8 +61,9 @@ session_start();
         gtag('config', 'UA-97114237-1');
     </script>
 
+
     <!--meta data-->
-    <meta name="description" content="Knovva Academy offers blended learning programs and online courses that change the way teens interact with education. ">
+    <meta name="description" content="<?php echo $seo_des;?> ">
 
     <!-- Google KeyWord -->
     <meta name="keywords" content="<?php echo $seo_kwd; ?>" />

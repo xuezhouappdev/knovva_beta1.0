@@ -1,5 +1,7 @@
 <?php
-$pageTitle="About Us | Knovva Academy";
+$pageTitle="Boston-based Education Company | Knovva Academy";
+$seo_des  = "Knovva Academy is a boston-based educational company that offers unique project-based learning programs and activities for high school students around the world that utilize blended learning, in and out of the classroom. ";
+$seo_kwd = "Educational programs, Flip model, Blended learning, High school program, Extra curricular activities";
 include 'header.php';
 
 
@@ -82,7 +84,7 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>Who we are</h5>
-                        <p>Knovva Academy is an international education company headquartered in Cambridge, Massachusetts. Knovva Academy was founded by a group of friends, who collaborated after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning.</p>
+                        <p>Knovva Academy is an international education company based in Boston, Massachusetts. Knovva Academy was founded by a group of friends, who collaborated after working in their respective industries of education, community development, television production, and public policy. They agreed upon a common purpose of supporting young people in their pursuit of personal, professional, and academic meaning.</p>
                     </div>
                 </div>
             </div>
@@ -96,7 +98,7 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>What we do</h5>
-                        <p>We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We encourage our students to think critically and ask questions about global issues largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
+                        <p>We cater to students, K-12,  from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We encourage our students to think critically and ask questions about global issues largely untouched in their public school system. We draw on experiential and project-based learning practices to engage students in politics, engineering, computer science, literature, and more. All of these subjects can help students uncover their own passions, and their own directions.
                         </p>
                     </div>
                 </div>
@@ -118,7 +120,7 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>What we value</h5>
-                        <p>We maintain deep-seated relationships with our students and parents, both during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media, and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish, and English speakers allows easy communication, and clarity of cultural expectations. Knovva Academy continues to receive high praise from parents who have felt the deep involvement of their children’s participation in our advanced learning programs.</p>
+                        <p>We maintain deep-seated relationships with our students and parents, both during and throughout our programs. We utilize in-person informational sessions, phone calls, digital media, and webinars to build a peer community of students and parents. Our dynamic team of native Mandarin, Spanish, and English speakers allows for easy communication, and clarity of cultural expectations. Knovva Academy continues to receive high praise from parents who have felt the deep involvement of their children’s participation in our advanced learning programs.</p>
                     </div>
                 </div>
             </div>

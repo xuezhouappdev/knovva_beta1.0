@@ -1,9 +1,9 @@
 <?php
 
 require_once('program.php');
-$pageTitle="Programs - social innovation and leadership | Knovva Academy";
+$pageTitle="Knovva Academy |Programs - Social Innovation";
 $og_url = "https://www.knovva.com/social-innovation-leadership";
-//$og_des = "This is for description for Social Innovation";
+$seo_des = "In this year-long, interdisciplinary, blended-learning program for teens, students will explore the skills and knowledge needed to make an impact in today’s ever-changing world. Students will design a mockup for a social innovation venture they are interested in launching.";
 $this_program = $program_si;
 $og_img = "https://knovva.com/".$this_program->get_program_imgURL();
 
@@ -38,7 +38,7 @@ include 'header.php';
 <!--course-intro-->
 <div class="course">
     <div class="container">
-        <h2>Social Innovation and Leadership Program</h2>
+        <h2>Social Innovation Program</h2>
 
          <div class="row">
            <div class="col-md-8">
@@ -68,7 +68,7 @@ include 'header.php';
                </div>
 
                <h5>about the course</h5>
-               <p>An online program for high school students passionate about making a difference in their community and the world. <br><br>By the end of this program, students will:
+               <p>A blended-learning program for high school students passionate about making a difference in their community and the world. <br><br>By the end of this program, students will:
                <ul>
                    <li>Articulate their own vision, values and personal communication style</li>
                    <li>Collaborate with international peers to design solutions to real-world problems</li>

@@ -1,9 +1,9 @@
 <?php
 require_once('program.php');
-$pageTitle="Programs - Readicorn | Knovva Academy";
+$pageTitle=" Knovva Academy | Programs - Readicorn International High School Program";
+$seo_des = "This is for description for Readicorn";
 
 $og_url = "https://www.knovva.com/reading-literature";
-//$og_des = "This is for description for Readicorn";
 $this_program = $program_redicorn;
 $og_img = "https://knovva.com/".$this_program->get_program_imgURL();
 
@@ -68,8 +68,8 @@ include 'header.php';
                </div>
 
                <h5>About the Course</h5>
-               <p>A program for high school students seeking opportunities
-                   to read and study literature in a supportive online environment
+               <p>A program for high school English language learners seeking opportunities
+                   to read and study literature in a supportive online environment.
                <ul>
                    <li>Intended for 9th and 10th grade students, Knovva Academy’s Literature and Reading Program is designed to provide enrichment for aspiring students in the fields of reading, literature and the English language. </li>
                    <li>Emphasis placed on reading comprehension, decoding, and creative writing workshops.</li>

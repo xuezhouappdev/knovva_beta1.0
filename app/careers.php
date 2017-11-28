@@ -1,5 +1,6 @@
 <?php
-$pageTitle="Careers | Knovva Academy";
+$pageTitle="Knovva Academy | Boston Careers ";
+$seo_des = "Knovva Academy careers for inspired educators and professionals in the Boston area. Great benefits and opportunities for our employees. Make a difference in the landscape of education. ";
 include 'header.php';
 ?>
 
@@ -22,7 +23,7 @@ include 'header.php';
 <div class="department">
     <div class="container">
         <p style="text-align: center;margin-bottom: 0;padding-bottom: 0"><b>Knovva Academy is hiring!</b></p>
-        <p>We are seeking energetic and enthusiastic individuals to join our Boston-based team. we are looking to add talent to our company to help us fulfill our mission of adapting education to the twenty first century. if you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
+        <p>We are seeking energetic and enthusiastic individuals to join our Boston-based team. we are looking to add talent to our company to help us fulfill our mission of adapting education to the 21st century. if you’re passionate about education, globalization, world cultures, or just making a difference, click on the link below to apply for one of our open positions.
         </p>
 
 

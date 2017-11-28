@@ -1,5 +1,6 @@
 <?php
-$pageTitle="Home | Knovva Academy";
+$pageTitle=" Knovva Academy | Blended Learning ";
+$seo_des = "Knovva Academy offers blended learning programs and online courses that change the way teens interact with education. ";
 include 'header.php';
 require_once('program.php');
 
@@ -22,7 +23,7 @@ require_once('program.php');
             <div class="carousel-inner index_landing_slider" role="listbox">
 
                 <!--First Slider -->
-                    <div class="carousel-item active slider-g20">
+                    <div class="carousel-item active slider-g20" aria-label="Model G20 Youth Leadership" >
                             <div class="container">
 
                         <div class="text-wrapper animated fadeInUp">
@@ -43,7 +44,7 @@ require_once('program.php');
                    </div>
 
                 <!--Second Slider -->
-                <div class="carousel-item slider-si" >
+                <div class="carousel-item slider-si" aria-label="Social Innovation Program Program">
                     <div class="container">
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">
@@ -55,7 +56,7 @@ require_once('program.php');
 
 
                 <!--Third Slider -->
-                <div class="carousel-item slider-rd">
+                <div class="carousel-item slider-rd" aria-label="English Language Learner Program ">
                     <div class="container">
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">
@@ -103,8 +104,8 @@ require_once('program.php');
                         <div class="row justify-content-around">
 
                             <div class="col-lg-6">
-                                <h4 >Who are we</h4>
-                                <p class="animated flipInX">Knovva Academy is a team of passionate educators from around the world who believe that a great education doesn’t end in the classroom. We value curiosity and diversity. United by our shared love of learning, we have come together to help students of all backgrounds experience and discuss fresh global perspectives.&nbsp;<a href="about.php">Read more ></a>
+                                <h4 >What We Do</h4>
+                                <p class="animated flipInX">We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We encourage our students to think critically and ask questions about global issues largely untouched in their public school system.&nbsp;<a href="about.php">Read more ></a>
                                 </p>
 
                             </div>
@@ -113,7 +114,7 @@ require_once('program.php');
                                 <a data-fancybox href="https://www.youtube.com/watch?v=-kA7V5W7k2M&t=2s">
                                     <div  class="videodiv">
                                         <img onmouseover="this.src='img/600p.gif'"
-                                             onmouseout="this.src='img/gif-static.gif'" class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer">
+                                             onmouseout="this.src='img/gif-static.gif'" class="playgif img img-responsive"  data-swap="img/600p.gif" src="img/gif-static.gif" style="width: 100%;height: 100%;cursor: pointer" alt="Youth Leadership Summit">
                                     </div>
                                 </a>
                             </div>
@@ -176,13 +177,13 @@ require_once('program.php');
 <!--Feature programs-->
 <section class="feature-programs  jumbotron ">
     <div class="container">
-        <h4>Meet Our Programs</h4>
+        <h4>Our Education Programs</h4>
         <div class="row justify-content-center">
             <div class="col-lg-4">
 
                 <div class="card wow slideInUp">
                     <a href="g20.php">
-                        <img src= '<?php echo $program_g20->get_program_imgURL();?>' class="card-img img">
+                        <img src= '<?php echo $program_g20->get_program_imgURL();?>' class="card-img img" alt="Model G20 Youth Leadership Program">
                     </a>
                     <div class="text-wrapper">
                         <h5><?php echo $program_g20->get_program_title(); ?></h5>
@@ -193,7 +194,7 @@ require_once('program.php');
             <div class="col-lg-4">
                 <div class="card wow slideInUp">
                     <a href="social-innovation-leadership.php">
-                        <img src='<?php echo $program_si->get_program_imgURL();?>' class="card-img img">
+                        <img src='<?php echo $program_si->get_program_imgURL();?>' class="card-img img" alt="Social Innovation Program Program">
                     </a>
                     <div class="text-wrapper">
                         <h5><?php echo $program_si->get_program_title(); ?></h5>
@@ -204,7 +205,7 @@ require_once('program.php');
             <div class="col-lg-4 ">
                 <div class="card wow slideInUp">
                     <a href="reading-literature.php">
-                    <img src='<?php echo $program_redicorn->get_program_imgURL();?>' class="card-img img">
+                    <img src='<?php echo $program_redicorn->get_program_imgURL();?>' class="card-img img" alt="English Language Learner Program">
                     </a>
                     <div class="text-wrapper">
                         <h5><?php echo $program_redicorn->get_program_title(); ?></h5>
@@ -291,26 +292,26 @@ require_once('program.php');
 
             <div class="col-md-3" href="img/gallery/gallery1.png">
                 <a >
-                    <img src="img/gallery/gallery1.png" class="img img-responsive" width="100%" height="auto"  >
+                    <img src="img/gallery/gallery1.png" class="img img-responsive" width="100%" height="auto" alt="Boston Team Program" >
                 </a>
             </div>
 
 
             <div class="col-md-3" href="img/gallery/gallery2.png">
                 <a >
-                    <img src="img/gallery/gallery2.png" class="img img-responsive" width="100%" height="auto"  >
+                    <img src="img/gallery/gallery2.png" class="img img-responsive" width="100%" height="auto"  alt="Boston Team Leaders">
                 </a>
             </div>
 
             <div class="col-md-3" href="img/gallery/gallery3.png">
                 <a >
-                    <img src="img/gallery/gallery3.png" class="img img-responsive" width="100%" height="auto"  >
+                    <img src="img/gallery/gallery3.png" class="img img-responsive" width="100%" height="auto" alt="Boston Education Program for Teens" >
                 </a>
             </div>
 
             <div class="col-md-3" href="img/gallery/gallery4.png">
                 <a >
-                    <img src="img/gallery/gallery4.png" class="img img-responsive" width="100%" height="auto"  >
+                    <img src="img/gallery/gallery4.png" class="img img-responsive" width="100%" height="auto" alt="Project-based Learning Boston" >
                 </a>
             </div>
 

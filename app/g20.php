@@ -1,6 +1,7 @@
 <?php
 require_once('program.php');
-$pageTitle="Programs - Model G20 2018 | Knovva Academy";
+$pageTitle="Knovva Academy | Youth Leadership Program - Model G20 2018";
+$seo_des = "Our Model G20 Youth Leadership Summit utilizes a political platform to bring global high school students together to learn new skills, build confidence and cross-cultural awareness. The program offers scholarship awards to top performers and is also the perfect way to enhance college applications.";
 $og_url = "https://www.knovva.com/g20";
 //$og_des = "This is for description for G20";
 $this_program = $program_g20;
@@ -75,7 +76,8 @@ include 'header.php';
 
 
                <h5>about the course</h5>
-               <p>What is a G20? The G20, also known as the Group of 20, is an international forum that unites some of the most important economies in the world to engage pressing political and economic realities. The G20 Summit is a central gathering of the world’s top economies where decision makers such as Heads of Government, finance, labor, agriculture, trade and energy Ministers discuss, agree and implement reforms on energy sustainability, climate change, labor, education and financial inclusion, decisions that can have major effect on the world’s economy.</p>
+               <p>What is a G20? The G20, also known as the Group of 20, is an international forum that unites some of the most important economies in the world to engage pressing political and economic realities. The G20 Summit is a central gathering of the world’s top economies where decision makers such as Heads of Government, finance, labor, agriculture, trade and energy Ministers discuss, agree and implement reforms on energy sustainability, climate change, labor, education and financial inclusion, decisions that can have major effect on the world’s economy.<br><br>
+                   This youth leadership program utilizes this political platform to bring students from around the world to meet new international friends. Along with this, students can expect new skill building opportunities, career development and networking opportunities. The program also offers many other activities that will inspire, build confidence and teach. The Model G20 will be an experience of a lifetime for any student. </p>
 
 
 

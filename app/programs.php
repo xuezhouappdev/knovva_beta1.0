@@ -1,5 +1,6 @@
 <?php
-$pageTitle="Programs | Knovva Academy";
+$pageTitle=" Knovva Academy |Blended Learning Programs";
+$seo_des = "Our blended learning programs allow high school students to discover new and exciting educational opportunities that will propel their skills for college and beyond. We offer unique extracurricular activities and classroom-ready programs for schools. ";
 include 'header.php';
 require_once('program.php');
 ?>
@@ -11,7 +12,7 @@ require_once('program.php');
 
     <div class="program-slogan ">
         <div class="container">
-            <h1 class="animated fadeInDown">Featured Programs</h1>
+            <h1 class="animated fadeInDown">Blended Learning Programs</h1>
 
 
 
