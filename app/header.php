@@ -112,11 +112,11 @@ session_start();
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item" id="showwhencollapse">
-                    <a class="nav-link" href="programs.php">programs</a>
+                    <a class="nav-link" href="programs">programs</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="about.php">about</a>
+                    <a class="nav-link" href="about">about</a>
                 </li>
 
                 <li class="nav-item">
@@ -128,7 +128,7 @@ session_start();
                         more
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="careers.php">careers</a>
+                        <a class="dropdown-item" href="careers">careers</a>
 <!--                        <a class="dropdown-item" href="about.php">about</a>-->
                         <a class="dropdown-item" href="#" data-toggle="modal" data-target="#myModal">contact</a>
                     </div>
