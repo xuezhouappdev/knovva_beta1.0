@@ -106,7 +106,7 @@ require_once('program.php');
 
                             <div class="col-lg-6">
                                 <h4 >What We Do</h4>
-                                <p class="animated flipInX">We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We encourage our students to think critically and ask questions about global issues largely untouched in their public school system.&nbsp;<a href="about.php">Read more ></a>
+                                <p class="animated flipInX">We cater to students from around the world. Knovva Academy utilizes a mix of online and in-person courses (blended learning) for teens in order to challenge their expectations about education. We encourage our students to think critically and ask questions about global issues largely untouched in their public school system.&nbsp;<a href="about">Read more ></a>
                                 </p>
 
                             </div>
@@ -183,7 +183,7 @@ require_once('program.php');
             <div class="col-lg-4">
 
                 <div class="card wow slideInUp">
-                    <a href="g20.php">
+                    <a href="g20">
                         <img src= '<?php echo $program_g20->get_program_imgURL();?>' class="card-img img" alt="Model G20 Youth Leadership Program">
                     </a>
                     <div class="text-wrapper">
@@ -194,7 +194,7 @@ require_once('program.php');
             </div>
             <div class="col-lg-4">
                 <div class="card wow slideInUp">
-                    <a href="social-innovation-leadership.php">
+                    <a href="social-innovation-leadership">
                         <img src='<?php echo $program_si->get_program_imgURL();?>' class="card-img img" alt="Social Innovation Program Program">
                     </a>
                     <div class="text-wrapper">
@@ -205,7 +205,7 @@ require_once('program.php');
             </div>
             <div class="col-lg-4 ">
                 <div class="card wow slideInUp">
-                    <a href="reading-literature.php">
+                    <a href="reading-literature">
                     <img src='<?php echo $program_redicorn->get_program_imgURL();?>' class="card-img img" alt="English Language Learner Program">
                     </a>
                     <div class="text-wrapper">
