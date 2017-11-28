@@ -56,7 +56,7 @@ include 'header.php';
 
 
 
-<div class="about-banner" style="background: url('img/about-slider.jpg')center center no-repeat;background-size: cover;height: 80vh">
+<div class="about-banner" style="background: url('img/about-slider.jpg')center center no-repeat;background-size: cover;height: 80vh" aria-label="Boston Team Education">
     <div class="text-wrapper">
 
         <div class="container">
@@ -77,7 +77,7 @@ include 'header.php';
 
         <div class="row justify-content-center">
             <div class="col-lg-5">
-                <img class="img img-responsive img-thumbnail" src="img/about/about-ourteam.jpg">
+                <img class="img img-responsive img-thumbnail" src="img/about/about-ourteam.jpg" alt="Knovva Academy Education ">
             </div>
 
             <div class="col-lg-5">
@@ -105,7 +105,7 @@ include 'header.php';
             </div>
 
             <div class="col-lg-5">
-                <img class="img img-responsive img-thumbnail" src="img/about/about-whatwedo.jpg">
+                <img class="img img-responsive img-thumbnail" src="img/about/about-whatwedo.jpg" alt="Educators in Boston">
             </div>
 
         </div>
@@ -113,7 +113,7 @@ include 'header.php';
 
         <div class="row justify-content-center">
             <div class="col-lg-5">
-                <img class="img img-responsive img-thumbnail" src="img/about/about-whatwevalue.jpg"">
+                <img class="img img-responsive img-thumbnail" src="img/about/about-whatwevalue.jpg" alt="Boston Students">
             </div>
 
             <div class="col-lg-5">

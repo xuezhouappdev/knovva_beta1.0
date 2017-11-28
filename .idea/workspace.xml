@@ -5,13 +5,8 @@
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.php" afterPath="$PROJECT_DIR$/app/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.php" afterPath="$PROJECT_DIR$/app/careers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/g20.php" afterPath="$PROJECT_DIR$/app/g20.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/programs.php" afterPath="$PROJECT_DIR$/app/programs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/reading-literature.php" afterPath="$PROJECT_DIR$/app/reading-literature.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/social-innovation-leadership.php" afterPath="$PROJECT_DIR$/app/social-innovation-leadership.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,16 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="g20.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/g20.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="3" column="310" lean-forward="false" selection-start-line="3" selection-start-column="310" selection-end-line="3" selection-end-column="310" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="program.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/program.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,19 +51,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="careers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/careers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="28" />
-              <folding>
-                <marker date="1511887716000" expanded="false" signature="6923:7003" ph="..." />
-                <marker date="1511887716000" expanded="false" signature="7355:7373" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="reading-literature.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/reading-literature.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +61,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="115" column="120" lean-forward="false" selection-start-line="115" selection-start-column="120" selection-end-line="115" selection-end-column="120" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="programs.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/programs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <marker date="1511889330000" expanded="true" signature="6699:6900" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="310" column="0" lean-forward="true" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+            <state relative-caret-position="-13">
+              <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                 <element signature="n#section#3;n#!!top" expanded="false" />
@@ -114,7 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>program</find>
       <find>p-text-wrapper</find>
       <find>next</find>
       <find>hidden</find>
@@ -143,6 +139,7 @@
       <find>fea</find>
       <find>meet</find>
       <find>lightga</find>
+      <find>img</find>
       <find>gallery</find>
     </findStrings>
     <replaceStrings>
@@ -204,12 +201,12 @@
         <option value="$PROJECT_DIR$/app/position_academic_5.php" />
         <option value="$PROJECT_DIR$/app/position_academic_6.php" />
         <option value="$PROJECT_DIR$/app/header.php" />
-        <option value="$PROJECT_DIR$/app/about.php" />
         <option value="$PROJECT_DIR$/app/careers.php" />
-        <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/g20.php" />
         <option value="$PROJECT_DIR$/app/reading-literature.php" />
         <option value="$PROJECT_DIR$/app/social-innovation-leadership.php" />
+        <option value="$PROJECT_DIR$/app/about.php" />
+        <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/index.php" />
       </list>
     </option>
@@ -482,14 +479,7 @@
       <workItem from="1511384148927" duration="452000" />
       <workItem from="1511805733741" duration="1444000" />
       <workItem from="1511834046653" duration="141000" />
-      <workItem from="1511879445212" duration="5030000" />
-    </task>
-    <task id="LOCAL-00096" summary="updated SEM analyst position">
-      <created>1504019635411</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1504019635411</updated>
+      <workItem from="1511879445212" duration="5681000" />
     </task>
     <task id="LOCAL-00097" summary="changed vertical slider pagination">
       <created>1504100799866</created>
@@ -827,11 +817,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511834121854</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="SEO">
+      <created>1511888810364</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1511888810364</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514901000" />
+    <option name="totallyTimeSpent" value="515552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -850,10 +847,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49863762" sideWeight="0.5495562" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52861035" sideWeight="0.48446745" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19574468" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.49697495" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4414169" sideWeight="0.45044377" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4414169" sideWeight="0.45044377" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34964412" sideWeight="0.5087282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -862,7 +860,6 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52861035" sideWeight="0.48446745" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.49408284" order="1" side_tool="false" content_ui="tabs" />
@@ -899,7 +896,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated 9 pictures (small size)" />
     <MESSAGE value="changed program layout and refine the images" />
     <MESSAGE value="deleted the sponsorship wording for 8 positions" />
     <MESSAGE value="updated slider size in index" />
@@ -924,7 +920,8 @@
     <MESSAGE value="changed some typo" />
     <MESSAGE value="added 2 academic positions" />
     <MESSAGE value="changed some typos" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed some typos" />
+    <MESSAGE value="SEO" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1199,14 +1196,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1331">
-          <caret line="100" column="55" lean-forward="false" selection-start-line="100" selection-start-column="55" selection-end-line="100" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/position_academic_6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -1223,29 +1212,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/program.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="71" column="90" lean-forward="false" selection-start-line="71" selection-start-column="90" selection-end-line="71" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/programs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
-          <folding>
-            <marker date="1511887716000" expanded="false" signature="6526:6727" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1257,14 +1228,6 @@
             <marker date="1511887716000" expanded="false" signature="6923:7003" ph="..." />
             <marker date="1511887716000" expanded="false" signature="7355:7373" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/g20.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="3" column="310" lean-forward="false" selection-start-line="3" selection-start-column="310" selection-end-line="3" selection-end-column="310" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,13 +1247,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="115" column="120" lean-forward="false" selection-start-line="115" selection-start-column="120" selection-end-line="115" selection-end-column="120" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/g20.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="3" column="310" lean-forward="false" selection-start-line="3" selection-start-column="310" selection-end-line="3" selection-end-column="310" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/program.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="71" column="90" lean-forward="false" selection-start-line="71" selection-start-column="90" selection-end-line="71" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="310" column="0" lean-forward="true" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        <state relative-caret-position="-13">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/programs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <marker date="1511889330000" expanded="true" signature="6699:6900" ph="..." />
           </folding>
         </state>
       </provider>

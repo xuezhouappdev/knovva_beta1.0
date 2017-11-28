@@ -44,7 +44,7 @@ require_once('program.php');
                    </div>
 
                 <!--Second Slider -->
-                <div class="carousel-item slider-si" aria-label="Social Innovation Program Program">
+                <div class="carousel-item slider-si" aria-label="Social Innovation Program ">
                     <div class="container">
                         <div class="text-wrapper animated fadeInRight">
                             <div class="row justify-content-end ">

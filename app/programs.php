@@ -8,7 +8,7 @@ require_once('program.php');
 
 
 <!--banner-->
-<div class="program-banner" style="">
+<div class="program-banner" style="" aria-label="Extracurricular High School">
 
     <div class="program-slogan ">
         <div class="container">
@@ -33,7 +33,7 @@ require_once('program.php');
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_g20->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;" aria-label="Model G20 Youth Leadership Summit">
 <!--                        <div class="p-decoration-text" >-->
 <!--                            <h4>--><?php //echo $program_g20->get_program_title(); ?><!--</h4>-->
 <!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_location(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-clock-o" aria-hidden="true"></i>--><?php //echo $program_g20->get_program_duration(); ?><!--</h6>-->
@@ -57,7 +57,7 @@ require_once('program.php');
                 <!--card-->
                 <div class="shadow" >
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_si->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;" aria-label="Social Innovation Program">
 <!--                        <div class="p-decoration-text" >-->
 <!--                            <h4>--><?php //echo $program_si->get_program_title(); ?><!--</h4>-->
 <!--                            <h6><i class="fa fa-calendar" aria-hidden="true"></i>--><?php //echo $program_si->get_program_date(); ?><!--&nbsp;&nbsp;&nbsp;&nbsp;-->
@@ -87,7 +87,7 @@ require_once('program.php');
                 <div class="shadow" >
 
                     <!--IMG and deco-->
-                    <div class="p-image-wrapper" style="background:url('<?php echo $program_redicorn->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;">
+                    <div class="p-image-wrapper" style="background:url('<?php echo $program_redicorn->get_program_imgURL(); ?>') center center no-repeat;background-size:contain;" aria-label="English Language Learner Program">
 <!--                        <div class="p-decoration-text" >-->
 <!---->
 <!--                            <h4>--><?php //echo $program_redicorn->get_program_title(); ?><!--</h4>-->
