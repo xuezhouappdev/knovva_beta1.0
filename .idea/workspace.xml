@@ -40,21 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position_academic_5.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="position_academic_5.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/position_academic_5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="48" column="560" lean-forward="false" selection-start-line="48" selection-start-column="560" selection-end-line="48" selection-end-column="560" />
+            <state relative-caret-position="124">
+              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position_academic_6.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="position_academic_6.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/position_academic_6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state relative-caret-position="107">
+              <caret line="76" column="12" lean-forward="true" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -130,7 +130,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>g20-ba</find>
       <find>slider</find>
       <find>.slider</find>
       <find>blog</find>
@@ -160,6 +159,7 @@
       <find>TWO-W</find>
       <find>5-day</find>
       <find>two</find>
+      <find>2-week</find>
     </findStrings>
     <replaceStrings>
       <replace>Digital Marketing Specialist</replace>
@@ -225,8 +225,8 @@
         <option value="$PROJECT_DIR$/app/about.php" />
         <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/index.php" />
-        <option value="$PROJECT_DIR$/app/position_academic_5.php" />
         <option value="$PROJECT_DIR$/app/position_academic_6.php" />
+        <option value="$PROJECT_DIR$/app/position_academic_5.php" />
       </list>
     </option>
   </component>
@@ -498,14 +498,7 @@
       <workItem from="1511384148927" duration="452000" />
       <workItem from="1511805733741" duration="1444000" />
       <workItem from="1511834046653" duration="141000" />
-      <workItem from="1511879445212" duration="6105000" />
-    </task>
-    <task id="LOCAL-00098" summary="updated RLG">
-      <created>1507006029993</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1507006029994</updated>
+      <workItem from="1511879445212" duration="6230000" />
     </task>
     <task id="LOCAL-00099" summary="added career detailed page">
       <created>1507137173809</created>
@@ -843,11 +836,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511889444524</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="changed typo">
+      <created>1511892022831</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1511892022831</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="515976000" />
+    <option name="totallyTimeSpent" value="516101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -915,7 +915,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed program layout and refine the images" />
     <MESSAGE value="deleted the sponsorship wording for 8 positions" />
     <MESSAGE value="updated slider size in index" />
     <MESSAGE value="updated programs card image, index layout, slider positions" />
@@ -940,7 +939,8 @@
     <MESSAGE value="added 2 academic positions" />
     <MESSAGE value="changed some typos" />
     <MESSAGE value="SEO" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEO" />
+    <MESSAGE value="changed typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed typo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1298,18 +1298,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_academic_5.php">
+    <entry file="file://$PROJECT_DIR$/app/position_academic_6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="48" column="560" lean-forward="false" selection-start-line="48" selection-start-column="560" selection-end-line="48" selection-end-column="560" />
+        <state relative-caret-position="107">
+          <caret line="76" column="12" lean-forward="true" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/position_academic_6.php">
+    <entry file="file://$PROJECT_DIR$/app/position_academic_5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state relative-caret-position="124">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>

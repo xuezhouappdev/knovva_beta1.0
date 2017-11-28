@@ -73,7 +73,7 @@ include 'header.php';
             <li>Network with education professionals from prestigious schools around the area and expand your portfolio </li>
         </ul>
 
-        <p>This is a temporary 2 week assignment in February 2018. Pay is desirable and competitive! <b>Must be authorized to work in the United States; sponsorship is not being offered at this time.</b>
+        <p>This is a temporary 2 weeks assignment in February 2018. Pay is desirable and competitive! <b>Must be authorized to work in the United States; sponsorship is not being offered at this time.</b>
         </p>
 
 
