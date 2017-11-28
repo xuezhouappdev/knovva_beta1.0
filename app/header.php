@@ -69,7 +69,7 @@ session_start();
     <meta name="keywords" content="<?php echo $seo_kwd; ?>" />
 
     <!--canonical links-->
-    <link rel="canonical" href="https://knovva.com<?php echo $canonical; ?>" />
+    <link rel="canonical" href="<?php echo $canonical; ?>" />
 
 </head>
 

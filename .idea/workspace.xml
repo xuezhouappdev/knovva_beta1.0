@@ -4,15 +4,7 @@
     <list id="ea942ba2-0495-48af-8954-fda7f4a48026" name="Rejected commit: Default" comment="updated header in mobile" />
     <list default="true" id="8d8b89fd-41e0-4348-95a1-8b338e02496c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.php" afterPath="$PROJECT_DIR$/app/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.php" afterPath="$PROJECT_DIR$/app/careers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/g20.php" afterPath="$PROJECT_DIR$/app/g20.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.php" afterPath="$PROJECT_DIR$/app/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/programs.php" afterPath="$PROJECT_DIR$/app/programs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/reading-literature.php" afterPath="$PROJECT_DIR$/app/reading-literature.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/social-innovation-leadership.php" afterPath="$PROJECT_DIR$/app/social-innovation-leadership.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,15 +82,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="73" column="7" lean-forward="true" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+            <state relative-caret-position="224">
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
-                <marker date="1511898684000" expanded="true" signature="2488:2498" ph="..." />
-                <marker date="1511898684000" expanded="true" signature="2523:2868" ph="..." />
-                <marker date="1511898684000" expanded="true" signature="2544:2820" ph="{...}" />
+                <marker date="1511899246000" expanded="true" signature="2470:2480" ph="..." />
+                <marker date="1511899246000" expanded="true" signature="2505:2850" ph="..." />
+                <marker date="1511899246000" expanded="true" signature="2526:2802" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -246,7 +238,6 @@
         <option value="$PROJECT_DIR$/app/program.php" />
         <option value="$PROJECT_DIR$/app/position_academic_5.php" />
         <option value="$PROJECT_DIR$/app/position_academic_6.php" />
-        <option value="$PROJECT_DIR$/app/header.php" />
         <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/programs.php" />
         <option value="$PROJECT_DIR$/app/reading-literature.php" />
@@ -255,6 +246,7 @@
         <option value="$PROJECT_DIR$/app/careers.php" />
         <option value="$PROJECT_DIR$/app/about.php" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/header.php" />
       </list>
     </option>
   </component>
@@ -527,14 +519,7 @@
       <workItem from="1511805733741" duration="1444000" />
       <workItem from="1511834046653" duration="141000" />
       <workItem from="1511879445212" duration="6361000" />
-      <workItem from="1511892703829" duration="979000" />
-    </task>
-    <task id="LOCAL-00102" summary="launch new version of knovva">
-      <created>1509045515067</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1509045515068</updated>
+      <workItem from="1511892703829" duration="1060000" />
     </task>
     <task id="LOCAL-00103" summary="launch new version of knovva">
       <created>1509046046084</created>
@@ -872,11 +857,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511892724669</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="canonical pages">
+      <created>1511899194004</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1511899194004</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="517211000" />
+    <option name="totallyTimeSpent" value="517292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -944,7 +936,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="deleted the sponsorship wording for 8 positions" />
     <MESSAGE value="updated slider size in index" />
     <MESSAGE value="updated programs card image, index layout, slider positions" />
     <MESSAGE value="replaced 2 glr images" />
@@ -969,7 +960,8 @@
     <MESSAGE value="changed some typos" />
     <MESSAGE value="SEO" />
     <MESSAGE value="changed typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed typo" />
+    <MESSAGE value="canonical pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="canonical pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1262,18 +1254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="73" column="7" lean-forward="true" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
-          <folding>
-            <marker date="1511898684000" expanded="true" signature="2488:2498" ph="..." />
-            <marker date="1511898684000" expanded="true" signature="2523:2868" ph="..." />
-            <marker date="1511898684000" expanded="true" signature="2544:2820" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1340,6 +1320,18 @@
         <state relative-caret-position="88">
           <caret line="265" column="0" lean-forward="true" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <marker date="1511899246000" expanded="true" signature="2470:2480" ph="..." />
+            <marker date="1511899246000" expanded="true" signature="2505:2850" ph="..." />
+            <marker date="1511899246000" expanded="true" signature="2526:2802" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
