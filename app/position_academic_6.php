@@ -65,9 +65,9 @@ include 'header.php';
 
         <h5>What you’ll do</h5>
         <ul>
-            <li>Receive training from the educating professionals at Knovva Academy to enhance your knowledge on the content that will be covered during the MG20 Summit
+            <li>Receive training from the education professionals at Knovva Academy to enhance your knowledge on the content that will be covered during the MG20 Summit
             </li>
-            <li>Perform duties that instructional in nature and provide support to teachers and students.</li>
+            <li>Perform duties that are instructional in nature and provide support to teachers and students.</li>
             <li>Work alongside fellow educators who are as passionate about teaching and empowering today’s youth as you are!
             </li>
             <li>Network with education professionals from prestigious schools around the area and expand your portfolio.</li>
