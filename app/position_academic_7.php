@@ -1,7 +1,7 @@
 <?php
-$pageTitle="Position - Curriculum Design Intern | Knovva Academy";
-$position = "Curriculum Design Intern ";
-$embed_url ="position_academic_4";
+$pageTitle="Position - Online Learning Intern | Knovva Academy";
+$position = "Online Learning Intern ";
+$embed_url ="position_academic_7";
 $og_img = "https://www.knovva.com/img/knovva-social-logo.jpg";
 include 'header.php';
 ?>
@@ -9,11 +9,11 @@ include 'header.php';
 
 
 <!--position banner-->
-<div class="position-banner" style="background: url('./img/position-curriculum-intern.jpg') bottom
+<div class="position-banner" style="background: url('./img/position-curriculumdesign.jpg') bottom
      center no-repeat;background-size: cover;">
     <div class="container">
         <div class="row justify-content-center">
-            <h1>Curriculum Design Intern</h1>
+            <h1>Online Learning Intern</h1>
         </div>
 
         <div class="row justify-content-center">
@@ -32,7 +32,7 @@ include 'header.php';
         <nav class="breadcrumb">
             <a class="breadcrumb-item" href="index.php">Home</a>
             <a class="breadcrumb-item" href="careers.php">Careers</a>
-            <a class="breadcrumb-item" href="#">Curriculum Design Intern</a>
+            <a class="breadcrumb-item" href="#">Online Learning Intern</a>
         </nav>
     </div>
 </div>
@@ -41,7 +41,7 @@ include 'header.php';
 <div class="job-description">
     <div class="container">
 
-        <h3>Curriculum Design Intern</h3>
+        <h3>Online Learning Intern</h3>
 
         <p>Are you passionate about blended education that promotes literacy and global citizenship? Do you thrive in a
             collaborative, entrepreneurial environment? Are you interested in designing educational experiences for
@@ -55,36 +55,39 @@ include 'header.php';
         </p>
 
         <h5>Position Overview</h5>
-        <p>We are looking for Curriculum Design Interns to work with our academic team and help develop blended learning products on subjects spanning from social innovation to literature and STEM. We work mainly with high school and middle school students, but are expanding into younger grades (K-5), so please reach out if you are interested in any of these age groups and let us know what you are passionate about.
-            <b>Internships are 8-10 hours a week, for one semester (specific schedule flexible).</b>
+        <p>We are looking for an Online Learning Intern to work with our academic team and help develop online learning products on subjects spanning from social innovation to literature and STEM. We work mainly with high school and middle school students, but are expanding into younger grades (K-5), so please reach out if you are interested in any of these age groups and let us know what you are passionate about.
+            Internships are 8-10 hours a week, for one semester (specific schedule flexible).
         </p>
 
         <h5>What You'll Do:
         </h5>
         <ul>
-            <li>Create curriculum for our students that is relevant, interesting, and motivating for a variety of subjects.
+            <li>Research ed-tech tools and platforms and provide recommendations for  integration.
             </li>
-            <li>Conduct research on a range of academic subjects and provide recommendations.</li>
-            <li>Engage with international ELL students during class time and “office hours.”
+            <li>Provide curriculum design support for online courses on various subjects.</li>
+            <li>Support educational video production: write content, help with filming, animate videos.
             </li>
-            <li>Collaborate with members of the academic team and act as a thought-partner on course design, business opportunities and new directions in blended learning and ed-tech. </li>
+            <li>Use online authoring tools to create clickable, interactive online courses. </li>
+            <li>Collaborate with members of the academic team and act as a thought-partner on course design, business opportunities and new directions in blended learning and ed-tech
+            </li>
         </ul>
 
 
-        <h5>Qualifications</h5>
+        <h5> Required Qualifications</h5>
         <ul>
-            <li>A passion to improve literacy, motivate students through exciting content that is relevant to their lives, and provide students with an opportunity to grow their global perspective by connecting with like minded students from around the world. </li>
-            <li>Experience developing and differentiating curricula that responds to a diversity of students’ needs, including English Language Learners, at the high school level.</li>
+            <li>A passion for project-based, online, international education. </li>
             <li>Ability to work independently and on a team in a diverse, international environment.</li>
-            <li>Enthusiasm for blended and online learning and ability to adapt content to an online setting.</li>
+            <li>Enthusiasm and ability to quickly learn new computer-based skills and software tools.</li>
             <li>Creativity, a sense of humor, patience, and strong communication skills.</li>
 
         </ul>
 
         <h5>Preferred Qualifications</h5>
         <ul>
-            <li>Familiarity with or skilled in: interdisciplinary or cultural literacy content and delivery. </li>
+            <li>Familiarity with or skilled in: online learning technologies, video editing, media production. </li>
             <li>Experience with: startup, education industry, or high school teaching / administration.</li>
+            <li>Visual design skills, excellent writing skills, familiarity with Chinese market.
+            </li>
         </ul>
 
         <h5>How to apply</h5>

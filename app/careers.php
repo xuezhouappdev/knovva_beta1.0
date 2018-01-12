@@ -130,6 +130,13 @@ include 'header.php';
                     </tr>
 
 
+                    <tr>
+                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_7.php">Curriculum Design Intern</a></td>
+                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
+                    </tr>
+
+
+
 
 
 
