@@ -166,7 +166,6 @@ include 'header.php';
 
                     <tbody>
 
-
 <!--                    <tr>-->
 <!--                        <td scope="row"><a target="_blank" class="pull-left" href="position_marketing_1.php">Digital Marketing Specialist</a></td>-->
 <!--                        <td colspan="3"><span class="pull-right">Boston</span></td>-->
