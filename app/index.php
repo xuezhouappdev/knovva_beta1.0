@@ -421,7 +421,7 @@ require_once('program.php');
 
             <div class="col-md-2">
                 <a href="https://www.gse.harvard.edu/"  target="_blank">
-                    <img class="img img-responsive" src="img/partner/partner-hse.png" >
+                    <img class="img img-responsive" src="img/partner/partner-hse2.png" >
                 </a>
             </div>
 
@@ -448,7 +448,7 @@ require_once('program.php');
 
             <div class="col-md-2">
                 <a href="https://www.facebook.com/huceic/"  target="_blank">
-                    <img class="img img-responsive" src="img/partner/partner-hueic.png" >
+                    <img class="img img-responsive" src="img/partner/partner-huceic2.png" >
                 </a>
             </div>
 
