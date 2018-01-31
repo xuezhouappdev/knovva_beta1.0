@@ -119,18 +119,6 @@ include 'header.php';
                     </tr>
 
                     <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_5.php">Teaching Staff</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
-                    </tr>
-
-
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_academic_6.php">Teaching Assistant</a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></a></td>
-                    </tr>
-
-
-                    <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="position_academic_7.php">Online Learning Intern</a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></a></td>
                     </tr>
@@ -265,13 +253,6 @@ include 'header.php';
 
                     <tr>
                         <td scope="row"><a target="_blank" class="pull-left" href="position_it_3.php">Senior Full-Stack Developer </a></td>
-                        <td colspan="3"><span class="pull-right">Boston</span></td>
-
-                    </tr>
-
-
-                    <tr>
-                        <td scope="row"><a target="_blank" class="pull-left" href="position_it_4.php">UI/UX Designer </a></td>
                         <td colspan="3"><span class="pull-right">Boston</span></td>
 
                     </tr>
